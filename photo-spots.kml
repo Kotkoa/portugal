@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Photo Spots: Pego → Leiria</name>
+    <description>Самые фотографируемые туристические места вдоль маршрута. Отсортированы по популярности (количество отзывов в Google Maps = частота посещений и фото). Отдельный слой — импортируйте поверх основного маршрута.</description>
+
+    <!-- Photo spot style: camera icon, magenta/pink color -->
+    <Style id="photo-hot">
+      <IconStyle>
+        <color>ffff00ff</color>
+        <scale>1.3</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-stars.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="photo-warm">
+      <IconStyle>
+        <color>ff0088ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-stars.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="photo-detour">
+      <IconStyle>
+        <color>ffaaaaaa</color>
+        <scale>0.9</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href></Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- ===================== -->
+    <!-- TOP TIER: 10,000+ reviews (must-stop) -->
+    <!-- ===================== -->
+
+    <!-- #1 -->
+    <Placemark>
+      <name>📷 Teatro Romano de Mérida (44,609 reviews)</name>
+      <description><![CDATA[⭐ 4.8 | 44 609 отзывов | НА МАРШРУТЕ
+
+Римский театр I века до н.э. — наиболее сохранившийся во всём римском мире. Построен по приказу консула Агриппы в 15 г. до н.э. для колонии Emerita Augusta. Вмещал 6 000 зрителей. Каждое лето здесь до сих пор проходит Международный фестиваль классического театра.
+
+🕐 ~30 мин на осмотр + фото. Вход ~15€.]]></description>
+      <styleUrl>#photo-hot</styleUrl>
+      <Point><coordinates>-6.3385,38.9152,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #2 -->
+    <Placemark>
+      <name>📷 Convento de Cristo, Tomar (18,833 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 18 833 отзывов | ~10 мин от A23
+
+Монастырь ордена тамплиеров, основан в 1160 году. После разгона тамплиеров перешёл к Ордену Христа, который финансировал экспедиции Васко да Гамы. Знаменитое окно в стиле мануэлино — самый узнаваемый архитектурный символ Португалии. Объект ЮНЕСКО.
+
+🕐 ~45 мин на осмотр. Вход ~6€.]]></description>
+      <styleUrl>#photo-hot</styleUrl>
+      <Point><coordinates>-8.4187,39.6038,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #3 -->
+    <Placemark>
+      <name>📷 Templo de Diana, Mérida (16,850 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 16 850 отзывов | НА МАРШРУТЕ
+
+Римский храм I века н.э. — единственный сохранившийся религиозный храм римской эпохи в Испании. Несмотря на название, был посвящён не Диане, а императорскому культу. Уцелел благодаря тому, что в Средние века его встроили в дворец — колонны использовали как стены.
+
+🕐 5 мин на фото. Бесплатно, открыт 24/7.]]></description>
+      <styleUrl>#photo-hot</styleUrl>
+      <Point><coordinates>-6.3442,38.9165,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #4 -->
+    <Placemark>
+      <name>📷 Castelo de Almourol (10,865 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 10 865 отзывов | ~5 мин от A23
+
+Замок тамплиеров XII века на крошечном острове посреди реки Тежу. Один из самых фотогеничных замков Португалии — каменная крепость, окружённая водой. Построен в 1171 году магистром тамплиеров Гуалдимом Паишем на месте римского укрепления.
+
+🕐 Фото с берега — 5 мин. Переправа на остров на лодке — 30 мин.]]></description>
+      <styleUrl>#photo-hot</styleUrl>
+      <Point><coordinates>-8.3839,39.4619,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #5 -->
+    <Placemark>
+      <name>📷 Acueducto de los Milagros, Mérida (10,342 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 10 342 отзывов | НА МАРШРУТЕ (уже в основном слое)
+
+«Акведук чудес» — руины римского акведука I века н.э. высотой 25 метров. Местные прозвали его «чудом», потому что не могли поверить, что такая конструкция стоит столетиями. Доставлял воду из водохранилища Просерпины в город по каналу длиной 12 км.
+
+🕐 5 мин на фото. Бесплатно, 24/7.]]></description>
+      <styleUrl>#photo-hot</styleUrl>
+      <Point><coordinates>-6.3479,38.9238,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ===================== -->
+    <!-- MID TIER: 3,000-10,000 reviews -->
+    <!-- ===================== -->
+
+    <!-- #6 -->
+    <Placemark>
+      <name>📷 Castelo de Leiria (6,730 reviews)</name>
+      <description><![CDATA[⭐ 4.5 | 6 730 отзывов | ФИНИШ МАРШРУТА
+
+Замок на холме, основанный в 1135 году первым королём Португалии Афонсу Энрикешем. Здесь в 1254 году прошёл первый в истории Португалии парламент (кортесы). Готическая церковь внутри замка — одна из старейших в стране. Потрясающий вид на город с башен.
+
+🕐 Осмотрите на следующий день!]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-8.8097,39.7470,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #7 -->
+    <Placemark>
+      <name>📷 Museo Nacional de Arte Romano, Mérida (6,446 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 6 446 отзывов | НА МАРШРУТЕ
+
+Национальный музей римского искусства, спроектированный знаменитым архитектором Рафаэлем Монео в 1986 году. Само здание из красного кирпича — шедевр: арки повторяют римские акведуки. Внутри — мозаики, скульптуры и артефакты из древней Emerita Augusta.
+
+🕐 30-45 мин. Вход ~3€.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-6.3395,38.9169,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #8 -->
+    <Placemark>
+      <name>📷 Alcazaba de Mérida (6,131 reviews)</name>
+      <description><![CDATA[⭐ 4.5 | 6 131 отзывов | НА МАРШРУТЕ
+
+Самая древняя мусульманская крепость на Пиренейском полуострове, построена в 835 году эмиром Абдеррахманом II. Стены возведены из камней разрушенных римских зданий — в кладке видны фрагменты колонн и надписей. Внутри — цистерна с водой из реки Гвадиана.
+
+🕐 20 мин. Вход ~6€ (комбинированный билет с театром).]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-6.3478,38.9151,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #9 -->
+    <Placemark>
+      <name>📷 Forte da Graça, Elvas (4,703 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 4 703 отзывов | НА МАРШРУТЕ (уже в основном слое)
+
+Форт XVIII века в форме звезды на холме над Элвашем. Построен после Семилетней войны для защиты от Испании. С вершины открывается панорама на обе страны. Часть гарнизонного пограничного города Элваш — объекта ЮНЕСКО.
+
+🕐 20 мин. Вт-вс 10:00-17:00.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-7.1645,38.8947,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #10 -->
+    <Placemark>
+      <name>📷 Castillo de Almansa (3,332 reviews)</name>
+      <description><![CDATA[⭐ 4.5 | 3 332 отзывов | НА МАРШРУТЕ (A-31)
+
+Крепость на отвесной скале, видная издалека с трассы A-31. Построена маврами в XII веке, перестроена после Реконкисты маркизом де Вильена в XV веке. В 1707 году под стенами замка произошла Битва при Альмансе — решающее сражение Войны за испанское наследство.
+
+🕐 Фото снизу — 2 мин прямо с трассы. Подъём наверх — 30 мин.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-1.0977,38.8689,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ===================== -->
+    <!-- SPAIN ROUTE: additional spots -->
+    <!-- ===================== -->
+
+    <Placemark>
+      <name>📷 Tablas de Daimiel — Нацпарк (6,677 reviews)</name>
+      <description><![CDATA[⭐ 4.3 | 6 677 отзывов | ~15 мин от Manzanares
+
+Уникальные водно-болотные угодья Ла-Манчи — последний остаток экосистемы, которая когда-то покрывала всю центральную Испанию. Здесь гнездятся фламинго, цапли и утки. Деревянные мостки ведут через тростниковые заросли над водой — отличные кадры на рассвете.
+
+🕐 30 мин на прогулку. Бесплатно.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-3.6970,39.1380,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Molinos de Campo de Criptana (4,279 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 4 279 отзывов | ~15 мин от A-43
+
+Десять белоснежных ветряных мельниц на холме — именно их Сервантес увековечил как «великанов» в «Дон Кихоте» (1605). Три мельницы XVI века — подлинные, остальные восстановлены. Внутри одной — музей с работающим механизмом. Закатные фото здесь — открыточная классика Ла-Манчи.
+
+🕐 15 мин на фото. Бесплатно.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-3.1214,39.4096,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Orellana la Vieja — речной пляж (3,722 reviews)</name>
+      <description><![CDATA[⭐ 4.4 | 3 722 отзывов | ~15 мин от EX-116
+
+«Море Экстремадуры» — пляж с Голубым флагом на водохранилище Орельяна. Бирюзовая вода посреди сухих холмов выглядит сюрреалистично. Отличное место размять ноги и, если тепло, искупаться. Рядом — руины замка на холме.
+
+🕐 15 мин. Бесплатно.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-5.5275,38.9934,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Corral de Comedias, Almagro (3,365 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 3 365 отзывов | ~15 мин от маршрута
+
+Единственный полностью сохранившийся театр XVII века в Европе, спрятанный во дворе постоялого двора. Работает с 1628 года! Расположен на Plaza Mayor Альмагро — одной из красивейших площадей Испании с зелёными деревянными балконами.
+
+🕐 15 мин на площадь + фото. Вход в театр ~5€.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-3.7119,38.8884,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Covetes dels Moros, Bocairent (1,493 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 1 493 отзывов | ~15 мин от A-31
+
+Загадочные пещеры-окна, вырубленные в отвесной скале высотой 300 метров. Предположительно арабские зернохранилища X-XI веков, хотя некоторые историки датируют их бронзовым веком. 53 камеры соединены внутренними переходами. Выглядит как инопланетный улей.
+
+🕐 15 мин на фото снизу. Подъём — 1 час.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-0.6069,38.7703,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Teatro Romano de Medellín (1,363 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 1 363 отзывов | НА МАРШРУТЕ (EX-116)
+
+Римский театр I века до н.э. у подножия средневекового замка — двойная фотография двух эпох в одном кадре. Родина Эрнана Кортеса, завоевателя империи ацтеков. Раскопки начались только в 2007 году — театр был засыпан землёй 2000 лет.
+
+🕐 10 мин. Бесплатно.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-5.9560,38.9662,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Puerta de Toledo, Ciudad Real (2,340 reviews)</name>
+      <description><![CDATA[⭐ 4.4 | 2 340 отзывов | НА МАРШРУТЕ
+
+Монументальные городские ворота XIV века в стиле мудехар — готика с арабскими мотивами. Единственный сохранившийся фрагмент средневековых стен Ciudad Real. Шесть стрельчатых арок и две оборонительные башни. Национальный памятник Испании.
+
+🕐 5 мин на фото. Бесплатно, 24/7.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-3.9278,38.9957,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Tabla de la Yedra, Piedrabuena (1,045 reviews)</name>
+      <description><![CDATA[⭐ 4.5 | 1 045 отзывов | ~5 мин от N-430
+
+Природная зона у слияния рек Бульяке и Гвадиана — красные скалы, прозрачная вода и средиземноморский лес. Местные купаются здесь летом. Отличная точка размять ноги посреди горного участка маршрута.
+
+🕐 10 мин. Бесплатно.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-4.2317,39.0428,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Dolmen de Lácara (758 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 758 отзывов | ~15 мин от подъезда к Мериде
+
+Мегалитический дольмен 3000 г. до н.э. — одна из крупнейших доисторических гробниц Пиренейского полуострова. Коридор длиной 20 метров ведёт в погребальную камеру, накрытую гигантскими каменными плитами. Старше египетских пирамид на 500 лет.
+
+🕐 15 мин. Бесплатно, всегда открыт.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-6.4209,39.0498,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>📷 Castillo de Magacela (595 reviews)</name>
+      <description><![CDATA[⭐ 4.5 | 595 отзывов | ~15 мин от EX-116
+
+Замок Ордена Алькантары XIII века на вершине скалы с обзором на 360°. Контролировал огромную равнину Ла-Серена — одну из крупнейших степей Европы. С башен видно на 50 км вокруг. Деревня у подножия — белые домики как в Андалусии.
+
+🕐 15 мин. Бесплатно.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-5.7385,38.8958,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ===================== -->
+    <!-- DETOUR TIER: worth it if time allows -->
+    <!-- ===================== -->
+
+    <!-- #11 -->
+    <Placemark>
+      <name>📷 Castillo de Consuegra + Molinos (5,864 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 5 864 отзывов | ⚠️ ~30 мин крюк к северу от Manzanares
+
+Замок XII века на гребне холма в окружении 12 ветряных мельниц — самая культовая «донкихотская» фотография Испании. Именно эти мельницы Сервантес описал как «великанов» в «Дон Кихоте». Панорама бескрайней Ла-Манчи с вершины — незабываемая.
+
+🕐 30 мин на фото. Въезд наверх бесплатный.]]></description>
+      <styleUrl>#photo-detour</styleUrl>
+      <Point><coordinates>-3.6079,39.4529,0</coordinates></Point>
+    </Placemark>
+
+    <!-- #12 -->
+    <Placemark>
+      <name>📷 Castelo de Abrantes (2,488 reviews)</name>
+      <description><![CDATA[⭐ 4.4 | 2 488 отзывов | НА МАРШРУТЕ (A23, совместить с зарядкой)
+
+Замок на высоком холме над рекой Тежу, основан в XII веке. Стратегически контролировал переправу через реку. В 1807 году французский генерал Жюно захватил замок по пути на Лиссабон — отсюда его прозвище «герцог Абрантеш». Отличный вид на долину Тежу.
+
+🕐 15 мин. Можно совместить с зарядкой в Abrantes.]]></description>
+      <styleUrl>#photo-warm</styleUrl>
+      <Point><coordinates>-8.1983,39.4614,0</coordinates></Point>
+    </Placemark>
+
+  </Document>
+</kml>

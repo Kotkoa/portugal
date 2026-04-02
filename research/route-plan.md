@@ -67,18 +67,21 @@
   - Duration: ~25 min
   - **Depart:** ~17:50
 
-### Leg 6: Elvas → Estremoz → Santarém → Leiria (FINAL)
-- **Distance:** ~260 km
-- **Time:** ~2h 45m
-- **Road:** IP7/A6 → A13/IC3
-- **Scenic stops:**
-  - Castelo de Estremoz — 38.842, -7.592 — quick castle viewpoint
-  - Miradouro de S. Bento, Santarém — 39.239, -8.677 — Tagus valley panorama
-- **NOTE:** 260 km is at the limit of range! Options:
-  - Option A: Top up in Estremoz if MOBI.E station available (~80 km from Elvas)
-  - Option B: Drive at moderate speed (110-120 km/h instead of 130) to extend range
-  - Option C: Quick charge at Santarém MOBI.E (39.482, -8.288) — ~180 km from Elvas
-- **Arrive Leiria:** ~20:30-21:00
+### Leg 6: Elvas → Abrantes (Charge #6) via A23 (DIRECT NORTH)
+- **Distance:** ~167 km
+- **Time:** ~2h
+- **Road:** IP7 → A6 → A23 (direct north through Portalegre)
+- **Arrive:** ~19:50
+- **Charge:** Moeve, A23 Abrantes (fast charger, 4.7★)
+  - Coords: 39.485, -8.155
+  - Duration: ~25 min
+  - **Depart:** ~20:15
+
+### Leg 7: Abrantes → Leiria (FINAL)
+- **Distance:** ~97 km
+- **Time:** ~1h
+- **Road:** A23 → IC9/A1
+- **Arrive Leiria:** ~21:15
 
 ---
 
@@ -86,12 +89,12 @@
 
 | Metric | Value |
 |--------|-------|
-| Total distance | ~990 km |
-| Driving time (no stops) | ~11h 30m |
-| Charging stops | 5 × ~25-30 min = ~2.5h |
+| Total distance | ~960 km |
+| Driving time (no stops) | ~11h |
+| Charging stops | 6 × ~25-30 min = ~2.5h |
 | Scenic stops | ~1h total |
 | Lunch break | ~30 min (during charge #3) |
-| **Estimated arrival** | **~20:30-21:00** |
+| **Estimated arrival** | **~21:00-21:15** |
 | Departure | 06:00 |
 
 ## Waypoints (for Google Maps link)
@@ -104,6 +107,5 @@
 7. Charge: 38.9340, -6.3433 (Mérida - IONITY)
 8. Scenic: 38.878, -7.172 (Amoreira Aqueduct, Elvas)
 9. Charge: 38.8835, -7.0493 (Elvas - MOBI.E)
-10. Scenic: 38.842, -7.592 (Castelo Estremoz)
-11. Scenic: 39.239, -8.677 (Miradouro Santarém)
-12. End: 39.7437, -8.8071 (Leiria)
+10. Charge: 39.485, -8.155 (Abrantes - Moeve)
+11. End: 39.7437, -8.8071 (Leiria)
