@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pego → Leiria Road Trip (April 4, 2026)</name>
+    <description>Family EV road trip across Spain and Portugal. 990 km scenic southern route through Sierra de Guadalupe mountains, Roman ruins of Merida, and UNESCO fortress town of Elvas. 5 fast-charging stops (50-200kW), 7 photo viewpoints, medieval castles, mountain reservoirs, and a beautiful border crossing into Portugal.</description>
+
+    <!-- Styles -->
+    <Style id="charging">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <scale>1.2</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="scenic">
+      <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.0</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="start-end">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.4</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Route Line Style -->
+    <Style id="routeLine">
+      <LineStyle>
+        <color>ff0066ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <!-- ROUTE LINE -->
+    <Placemark>
+      <name>Route: Pego → Leiria</name>
+      <description>990 km southern scenic route</description>
+      <styleUrl>#routeLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1167,38.8375,0
+          -1.8496,39.0009,0
+          -3.3836,39.0064,0
+          -5.218,39.168,0
+          -5.034,39.161,0
+          -5.0472,39.1710,0
+          -6.348,38.924,0
+          -6.3433,38.9340,0
+          -7.0493,38.8835,0
+          -7.172,38.878,0
+          -7.164,38.895,0
+          -7.592,38.842,0
+          -8.677,39.239,0
+          -8.8071,39.7437,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <!-- START -->
+    <Placemark>
+      <name>START: Pego (06:00)</name>
+      <description>C/ Sant Pere, 67, Pego, Alicante</description>
+      <styleUrl>#start-end</styleUrl>
+      <Point><coordinates>-0.1167,38.8375,0</coordinates></Point>
+    </Placemark>
+
+    <!-- CHARGE 1 -->
+    <Placemark>
+      <name>⚡ Charge 1: Iberdrola Albacete (~08:20)</name>
+      <description>50kW, 4.6★, 24/7. C. Federico García Lorca, 1. ~30 min charge.</description>
+      <styleUrl>#charging</styleUrl>
+      <Point><coordinates>-1.8496,39.0009,0</coordinates></Point>
+    </Placemark>
+
+    <!-- CHARGE 2 -->
+    <Placemark>
+      <name>⚡ Charge 2: Zunder Manzanares (~10:35)</name>
+      <description>180kW, 3.9★, 24/7. A-4 Km 173. ~25 min charge. Burger King nearby.</description>
+      <styleUrl>#charging</styleUrl>
+      <Point><coordinates>-3.3836,39.0064,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Embalse -->
+    <Placemark>
+      <name>📸 Embalse de García Sola</name>
+      <description>4.8★. Huge reservoir in Sierra mountains. Road runs along shore — pull over for photos.</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-5.218,39.168,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Castillo -->
+    <Placemark>
+      <name>📸 Castillo de Herrera del Duque</name>
+      <description>4.3★ (168 reviews). Medieval castle on hilltop. Visible from road. Kid-friendly!</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-5.034,39.161,0</coordinates></Point>
+    </Placemark>
+
+    <!-- CHARGE 3 -->
+    <Placemark>
+      <name>⚡ Charge 3: Iberdrola Herrera del Duque (~13:15) + LUNCH</name>
+      <description>50kW+, 4.8★, 24/7. Av. Juan Carlos I, 19. ~30 min charge. Eat lunch in town!</description>
+      <styleUrl>#charging</styleUrl>
+      <Point><coordinates>-5.0472,39.1710,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Aqueduct Merida -->
+    <Placemark>
+      <name>📸 Acueducto de los Milagros (Mérida)</name>
+      <description>4.7★ (10,342 reviews). 25m Roman aqueduct ruins. Free 24/7. Reflection in water. 5-min stop.</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-6.348,38.924,0</coordinates></Point>
+    </Placemark>
+
+    <!-- CHARGE 4 -->
+    <Placemark>
+      <name>⚡ Charge 4: IONITY Mérida (~15:40)</name>
+      <description>200kW, 3.6★, 24/7. Av. Felipe VI. Enter via Aldi! ~20 min charge.</description>
+      <styleUrl>#charging</styleUrl>
+      <Point><coordinates>-6.3433,38.9340,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Elvas Aqueduct -->
+    <Placemark>
+      <name>📸 Amoreira Aqueduct (Elvas) - BORDER</name>
+      <description>4.7★ (1,866 reviews). Largest aqueduct on Iberian Peninsula. Visible entering Elvas. UNESCO.</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-7.172,38.878,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Fort -->
+    <Placemark>
+      <name>📸 Forte da Graça (Elvas)</name>
+      <description>4.6★ (4,703 reviews). 18th-century fort. Panoramic views of Spain + Portugal. UNESCO. Tue-Sun 10-17.</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-7.164,38.895,0</coordinates></Point>
+    </Placemark>
+
+    <!-- CHARGE 5 -->
+    <Placemark>
+      <name>⚡ Charge 5: MOBI.E Elvas (~17:05)</name>
+      <description>Fast charger, 24/7. IP7/AE6 Km 4.5. Need MOBI.E app (Miio). ~25 min charge.</description>
+      <styleUrl>#charging</styleUrl>
+      <Point><coordinates>-7.0493,38.8835,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Estremoz -->
+    <Placemark>
+      <name>📸 Castelo de Estremoz</name>
+      <description>4.4★ (4,971 reviews). 13th-century castle. Views of Alentejo plains. Quick stop.</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-7.592,38.842,0</coordinates></Point>
+    </Placemark>
+
+    <!-- SCENIC: Santarem -->
+    <Placemark>
+      <name>📸 Miradouro de S. Bento (Santarém)</name>
+      <description>4.5★ (1,092 reviews). Panoramic Tagus valley view from cliff. Cafes nearby.</description>
+      <styleUrl>#scenic</styleUrl>
+      <Point><coordinates>-8.677,39.239,0</coordinates></Point>
+    </Placemark>
+
+    <!-- END -->
+    <Placemark>
+      <name>FINISH: Leiria (~20:30)</name>
+      <description>Rua da Carregueira 508, Leiria, Portugal</description>
+      <styleUrl>#start-end</styleUrl>
+      <Point><coordinates>-8.8071,39.7437,0</coordinates></Point>
+    </Placemark>
+
+  </Document>
+</kml>
