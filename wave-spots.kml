@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wave Photography Spots (100-200km from Leiria)</name>
+    <description>Лучшие точки для фотографирования больших волн на побережье Португалии. Назаре — мировая столица гигантских волн (до 30м). Сезон больших волн: октябрь—март.</description>
+
+    <Style id="wave-top">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.4</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="wave-mid">
+      <IconStyle>
+        <color>ffff8800</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-diamond.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="wave-far">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>0.9</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-stars.png</href></Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- ======================== -->
+    <!-- NAZARÉ cluster (~30 km from Leiria) -->
+    <!-- ======================== -->
+
+    <Placemark>
+      <name>🌊 Miradouro do Suberco (26,980 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 26 980 отзывов | 30 км от Лейрии
+
+Главная смотровая площадка Назаре на высоте 110м над океаном. Именно отсюда снимают знаменитые фото и видео гигантских волн. Прямо перед вами — каньон Назаре, подводное ущелье глубиной 5000м, которое создаёт волны-монстры. Парковка рядом, бесплатный доступ 24/7.]]></description>
+      <styleUrl>#wave-top</styleUrl>
+      <Point><coordinates>-9.0765,39.6045,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Farol da Nazaré — маяк (15,293 reviews)</name>
+      <description><![CDATA[⭐ 4.8 | 15 293 отзывов | 30 км от Лейрии
+
+Легендарный красный маяк на краю мыса — самая узнаваемая точка big wave surfing в мире. Именно здесь Гарретт Макнамара в 2011 году покорил волну в 24 метра, открыв Назаре миру. Рядом установлена камера, транслирующая волны в реальном времени.]]></description>
+      <styleUrl>#wave-top</styleUrl>
+      <Point><coordinates>-9.0853,39.6045,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Forte de São Miguel Arcanjo (9,840 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 9 840 отзывов | 30 км от Лейрии
+
+Форт 1577 года, ныне музей с выставкой сёрфбордов-гигантов и фотографиями рекордных волн. С крыши форта — прямой вид на Прая-ду-Норте. Внутри — измеритель высоты волн в реальном времени. Вход ~2€.]]></description>
+      <styleUrl>#wave-top</styleUrl>
+      <Point><coordinates>-9.0849,39.6046,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Praia do Norte — пляж рекордов (2,075 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 2 075 отзывов | 30 км от Лейрии
+
+ТОТ САМЫЙ пляж с рекордными волнами до 30 метров. Здесь устанавливают мировые рекорды big wave surfing. Спуск к пляжу по тропе с мыса. В зимний шторм — наблюдать только сверху! Летом — обычный красивый пляж со скалами.]]></description>
+      <styleUrl>#wave-top</styleUrl>
+      <Point><coordinates>-9.0854,39.6120,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Miradouro da Pederneira (1,420 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 1 420 отзывов | 28 км от Лейрии
+
+Смотровая площадка на южной стороне мыса с панорамой на весь залив Назаре. Отсюда видно и городской пляж, и Прая-ду-Норте. Рядом — старинная церковь XIII века. Менее людно, чем Suberco.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.0648,39.5961,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================== -->
+    <!-- COAST: São Martinho / Foz do Arelho (~35-45 km) -->
+    <!-- ======================== -->
+
+    <Placemark>
+      <name>🌊 Miradouro São Martinho do Porto (1,088 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 1 088 отзывов | 32 км от Лейрии
+
+Панорамный вид на уникальную бухту в форме ракушки — почти замкнутый круг воды. Контраст: внутри бухты — штиль, снаружи — мощный океан. Одна из самых необычных бухт Европы.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.1425,39.5110,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Miradouro do Facho (857 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 857 отзывов | 33 км от Лейрии
+
+Самая высокая точка над Сан-Мартинью — обзор 360° на бухту, океан и побережье. Добраться можно на машине. Особенно красиво на закате.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.1430,39.5190,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Miradouro da Foz do Arelho (1,275 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 1 275 отзывов | 45 км от Лейрии
+
+Место, где лагуна Обидуш впадает в Атлантику. Мощные волны разбиваются о бар — зрелищное столкновение пресной и солёной воды. Серфингисты ловят волны прямо у входа в лагуну.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.2218,39.4406,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================== -->
+    <!-- PENICHE cluster (~55 km) -->
+    <!-- ======================== -->
+
+    <Placemark>
+      <name>🌊 Cabo Carvoeiro Lighthouse (8,088 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 8 088 отзывов | 55 км от Лейрии
+
+Маяк на самом западном мысу полуострова Пениши. Драматические скалы, гроты, скала «Корабль Воронов» (Nau dos Corvos). Волны разбиваются о 50-метровые утёсы. На горизонте — острова Берленгас.]]></description>
+      <styleUrl>#wave-top</styleUrl>
+      <Point><coordinates>-9.4078,39.3606,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Miradouro da Cruz dos Remedios (923 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 923 отзывов | 55 км от Лейрии
+
+Смотровая площадка на западном краю Пениши с крестом и часовней. Вид на скалы Карвоэйру и открытый океан. Ветрено, мощно, фотогенично.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.4044,39.3659,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Ilha do Baleal (711 reviews)</name>
+      <description><![CDATA[⭐ 4.8 | 711 отзывов | 52 км от Лейрии
+
+Островок, соединённый узким песчаным перешейком с материком. Волны бьют с двух сторон одновременно! Рыбацкие домики, дикие скалы. Один из самых фотогеничных серф-спотов Европы.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.3408,39.3751,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Miradouro Forte de Peniche (687 reviews)</name>
+      <description><![CDATA[⭐ 4.6 | 687 отзывов | 53 км от Лейрии
+
+Смотровая у крепости Пениши XVI века (бывшая тюрьма диктатуры Салазара). Вид на знаменитый пляж Supertubos — одну из лучших трубных волн в Европе. Здесь проходит этап мирового тура WSL.]]></description>
+      <styleUrl>#wave-mid</styleUrl>
+      <Point><coordinates>-9.3833,39.3529,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================== -->
+    <!-- FAR: Ericeira + Cabo da Roca (~100-120 km) -->
+    <!-- ======================== -->
+
+    <Placemark>
+      <name>🌊 Cabo da Roca (67,210 reviews)</name>
+      <description><![CDATA[⭐ 4.7 | 67 210 отзывов | 120 км от Лейрии
+
+Самая западная точка континентальной Европы. Маяк на скале высотой 140м над океаном. Надпись Камоэнша: «Здесь, где заканчивается земля и начинается море». Мощный прибой внизу, ветер, ощущение края света.]]></description>
+      <styleUrl>#wave-far</styleUrl>
+      <Point><coordinates>-9.4989,38.7804,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Azenhas do Mar (1,969 reviews)</name>
+      <description><![CDATA[⭐ 4.8 | 1 969 отзывов | 110 км от Лейрии
+
+Открыточная деревня на утёсе над океаном — белые домики каскадом спускаются к природному бассейну в скалах. Волны перехлёстывают через бассейн во время штормов. Одно из самых фотографируемых мест Португалии.]]></description>
+      <styleUrl>#wave-far</styleUrl>
+      <Point><coordinates>-9.4628,38.8397,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🌊 Miradouro Ribeira d'Ilhas, Ericeira (444 reviews)</name>
+      <description><![CDATA[⭐ 4.8 | 444 отзывов | 95 км от Лейрии
+
+Эрисейра — единственный серф-заповедник в Европе (World Surfing Reserve). Ribeira d'Ilhas — главный серф-спот с трибунами для зрителей прямо на скале. Здесь проходят международные соревнования.]]></description>
+      <styleUrl>#wave-far</styleUrl>
+      <Point><coordinates>-9.4179,38.9868,0</coordinates></Point>
+    </Placemark>
+
+  </Document>
+</kml>

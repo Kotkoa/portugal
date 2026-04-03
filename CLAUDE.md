@@ -6,6 +6,7 @@
 - **Start/End:** Pego, C/ Sant Pere, 67 (Alicante, Spain)
 - **Destination:** Rua da Carregueira 508, Leiria, Portugal
 - **Departure:** 6:00 AM
+- **Sunrise:** 07:42 | **Sunset:** 20:26
 
 ## Travelers
 
@@ -18,27 +19,46 @@
 - **Highway range:** ~240 km
 - **Low speed range:** ~450 km
 - **Optimal charging interval:** ~150-180 km between stops
-- **Charge time per stop:** ~30 min
+- **Charge time per stop:** ~25-30 min
 
-## First Charging Stops (identified by user)
+## Route: Southern Scenic (via A-31 → N-430 → A-5 → A23)
 
-- 39.00282, -1.84898
-- 39.02614, -1.88990
-- Area: near Albacete, ~120 km from Pego
+- Pego → Oliva → CV-60 → A-7 → A-35 → A-31 → Albacete
+- Albacete → A-43 → Manzanares
+- Manzanares → N-430 → Sierra de Guadalupe → Herrera del Duque
+- Herrera del Duque → EX-116 → Mérida
+- Mérida → A-5 → Elvas (Portugal border, UNESCO)
+- Elvas → A6 → A23 (direct north) → Abrantes → Leiria
 
-## Route Preferences
+## Charging Stops (ABRP verified, total ~59€)
 
-- Scenic viewpoints along the way for quick photo stops (no long detours)
-- Cross Spain-Portugal border at a beautiful/scenic location
-- EV charging stations along the route at ~150-180 km intervals
-- All subsequent charging stops should follow same distance pattern as first one
+1. Iberdrola, Albacete — 50kW, 10€
+2. Zunder, Manzanares — 180kW, 14€
+3. Iberdrola bp pulse, Herrera del Duque — 50kW+, 12€
+4. Iberdrola, Badajoz (or IONITY Mérida) — 15€
+5. Moeve, Abrantes A23 — fast, 8€
 
-## Deliverables
+## Project Files
 
-- Google Maps links with all waypoints (for navigation)
-- KML file for import into Google My Maps
+### Navigation
+- [ROAD-BOOK.md](ROAD-BOOK.md) — full driver's road book with schedule, cafes, road safety
+- [route-links.md](route-links.md) — Google Maps navigation links
+- [pego-to-leiria.kml](pego-to-leiria.kml) — main route + charging stops (import to My Maps)
+
+### Photo & Scenic Layers (separate KML imports)
+- [photo-spots.kml](photo-spots.kml) — 22 most photographed tourist spots (by Google review count)
+- [wave-spots.kml](wave-spots.kml) — 16 wave photography spots on Portuguese coast (100-200km from Leiria)
+
+### Research
+- [research/route-plan.md](research/route-plan.md) — detailed itinerary with timestamps
+- [research/charging-stations.md](research/charging-stations.md) — all EV chargers researched (50kW+)
+- [research/scenic-stops.md](research/scenic-stops.md) — scenic viewpoints database
+
+### Data
+- [aBetterRoutePlan.xlsx](aBetterRoutePlan.xlsx) — ABRP planner export (SoC, costs, timing)
 
 ## Technical Setup
 
 - Google Maps API key stored in `.env` (not committed to git)
-- API used: google-maps-api skill (Geocoding, Routes, Places)
+- API used: google-maps-api skill (Geocoding, Routes, Places, Directions)
+- Portugal EV charging network: MOBI.E — use Miio app

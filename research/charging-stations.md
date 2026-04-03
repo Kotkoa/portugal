@@ -1,6 +1,7 @@
 # Charging Stations Research (50kW+ only)
 
-## Route: Pego → Albacete → Manzanares → Herrera del Duque → Mérida → Elvas → Leiria
+## Route: Pego → Albacete → Manzanares → Herrera del Duque → Mérida → Badajoz/Elvas → Abrantes → Leiria
+## Updated: 2026-04-03 with ABRP data (total charging cost: ~59€)
 
 ### Stop 1: Albacete (~193 km from Pego)
 | Station | Power | Rating | Hours | Coordinates |
@@ -45,10 +46,31 @@
 
 **Note:** Portugal chargers use MOBI.E network. Need MOBI.E compatible app (Miio, Via Verde Electric, etc.)
 
-### Stop 6 (if needed): Santarém area (~180 km from Elvas)
+### Stop 5 (ABRP alt): Badajoz (~60 km from Mérida)
 | Station | Power | Rating | Hours | Coordinates |
 |---------|-------|--------|-------|-------------|
-| MOBI.E N3, Santarém | fast | 2.8★ (4) | 24/7 | 39.4819, -8.2882 |
+| **Iberdrola BA-Badajoz-005** | 50kW | - | 24/7 | 38.875, -6.953 |
+
+**ABRP recommendation:** Charge in Badajoz (15% → 80%, 39 min, 15€) instead of IONITY Mérida + Elvas.
+This means 1 longer stop instead of 2 shorter. Decision by driver on the day.
+
+### Stop 6: Abrantes, Portugal (~167 km from Elvas via A23)
+| Station | Power | Rating | Hours | Coordinates |
+|---------|-------|--------|-------|-------------|
+| **Moeve** A23 | fast | 4.7★ (3) | 24/7 | 39.485, -8.155 |
+| Moeve (other side) | fast | 3.8★ (13) | 24/7 | 39.486, -8.159 |
+
+**ABRP data:** 35% → 75%, 19 min, 8€. Last charge before Leiria (97 km remaining).
+
+## ABRP Cost Summary
+| Stop | Cost |
+|------|------|
+| Albacete | 10€ |
+| Manzanares | 14€ |
+| Herrera del Duque | 12€ |
+| Badajoz | 15€ |
+| Abrantes | 8€ |
+| **Total** | **59€** |
 
 ## Important Notes
 - Hyundai Inster max DC charge: 50kW (CCS2 connector)
