@@ -48,6 +48,7 @@
 ### Photo & Scenic Layers (separate KML imports)
 - [photo-spots.kml](photo-spots.kml) — 22 most photographed tourist spots (by Google review count)
 - [wave-spots.kml](wave-spots.kml) — 16 wave photography spots on Portuguese coast (100-200km from Leiria)
+- [lavender-spain.kml](lavender-spain.kml) — 21 lavender fields, farms, distilleries & shops across Spain
 
 ### Research
 - [research/route-plan.md](research/route-plan.md) — detailed itinerary with timestamps
