@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Лавандовые места Испании</name>
-    <description>Лавандовые поля, фермы, дистиллерии, магазины и питомники по всей Испании. Сезон цветения: конец июня — середина июля.</description>
+    <description>21 лавандовое место по всей Испании. Упорядочены по расстоянию от Pego. Сезон цветения: конец июня — середина июля.</description>
 
     <!-- Styles by category -->
     <Style id="lavender-field">
@@ -34,47 +34,74 @@
       </IconStyle>
     </Style>
 
-    <!-- ========================== -->
-    <!-- BRIHUEGA, GUADALAJARA — столица лаванды -->
-    <!-- ========================== -->
+    <!-- ======================================== -->
+    <!-- #1 — 15 km, 22 min от Pego -->
+    <!-- ======================================== -->
 
     <Placemark>
-      <name>💜 Campos de Lavanda — главные поля (2 503 отзыва)</name>
-      <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.7 | 2 503 отзыва | MUST-VISIT
+      <name>🌿 #1 TheOriginalGarden, Valencia (15 km)</name>
+      <styleUrl>#lavender-farm</styleUrl>
+      <description><![CDATA[⭐ 4.5 | 315 отзывов | ПИТОМНИК | 15 km, 22 min от Pego
 
-Самые знаменитые лавандовые поля Испании. Бриуэга — «испанский Прованс». Бескрайние фиолетовые поля на плато Алькаррия. Лучшее время: последние 2 недели июня — первая неделя июля. Ежегодный Фестиваль лаванды в июле.
+Питомник ароматических и средиземноморских растений в Мирамаре, Валенсия. Большой выбор сортов лаванды, розмарина, шалфея. Можно купить саженцы.
 
-📍 CM-2005, 19400 Brihuega, Guadalajara]]></description>
-      <Point><coordinates>-2.8499762,40.7898494,0</coordinates></Point>
+📍 Carrer dels Torners, 46714 Miramar, Valencia]]></description>
+      <Point><coordinates>-0.1461566,38.9473568,0</coordinates></Point>
     </Placemark>
 
-    <Placemark>
-      <name>💜 Campos de Lavanda — второе поле (505 отзывов)</name>
-      <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.7 | 505 отзывов
-
-Ещё одна локация лавандовых полей Бриуэги, ближе к центру города. Менее людная альтернатива главным полям.
-
-📍 Q467+RX, 19400 Brihuega, Guadalajara]]></description>
-      <Point><coordinates>-2.8850287,40.7620315,0</coordinates></Point>
-    </Placemark>
+    <!-- ======================================== -->
+    <!-- #2 — 277 km, 3h 08 от Pego -->
+    <!-- ======================================== -->
 
     <Placemark>
-      <name>🧪 Destilería Jardín de la Alcarria (317 отзывов)</name>
+      <name>🧪 #2 Fábrica de esencias Peñarrubia (277 km)</name>
       <styleUrl>#lavender-oil</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 317 отзывов | ДИСТИЛЛЕРИЯ
+      <description><![CDATA[⭐ 4.6 | 133 отзыва | ПРОИЗВОДСТВО МАСЛА | 277 km, 3h 08 от Pego
 
-Дистиллерия лавандового масла. Экскурсии с показом процесса паровой дистилляции. Магазин с эфирными маслами, мылом и косметикой из лаванды.
+Фабрика эфирных масел в Осса-де-Монтиэль, Альбасете. Рядом с природным парком Лагунас-де-Руидера. Экскурсии, дегустация ароматов.
 
-📍 Pl. Sector el Alto, 25T, 19400 Brihuega, Guadalajara]]></description>
-      <Point><coordinates>-2.8788345,40.7601562,0</coordinates></Point>
+📍 Camino de Santiago, 02611 Ossa de Montiel, Albacete]]></description>
+      <Point><coordinates>-2.7496925,38.9535002,0</coordinates></Point>
     </Placemark>
 
+    <!-- ======================================== -->
+    <!-- #3 — 280 km, 2h 58 от Pego -->
+    <!-- ======================================== -->
+
     <Placemark>
-      <name>🛍️ Alcarria Natura — El Rincón de la Lavanda</name>
+      <name>💜 #3 Campos de Lavanda de Zaén, Murcia (280 km)</name>
+      <styleUrl>#lavender-field</styleUrl>
+      <description><![CDATA[⭐ 4.9 | 9 отзывов | ПОЛЯ | 280 km, 2h 58 от Pego
+
+Лавандовые поля в горах Моратальи, регион Мурсия. Малоизвестная локация, дикая лаванда на горных склонах.
+
+📍 RM-702, 30441 Moratalla, Murcia]]></description>
+      <Point><coordinates>-2.1065238,38.1994345,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================================== -->
+    <!-- #4 — 371 km, 3h 52 от Pego -->
+    <!-- ======================================== -->
+
+    <Placemark>
+      <name>💜 #4 Campos de Lavanda El Romeral, Toledo (371 km)</name>
+      <styleUrl>#lavender-field</styleUrl>
+      <description><![CDATA[⭐ 3.6 | 25 отзывов | ПОЛЯ | 371 km, 3h 52 от Pego
+
+Лавандовые поля в провинции Толедо, Ла-Манча. Рядом с ветряными мельницами Консуэгры — можно совместить.
+
+📍 45770 El Romeral, Toledo]]></description>
+      <Point><coordinates>-3.4373488,39.6975676,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================================== -->
+    <!-- #5–#12 — BRIHUEGA cluster, 408–495 km от Pego -->
+    <!-- ======================================== -->
+
+    <Placemark>
+      <name>🛍️ #5 Alcarria Natura — El Rincón de la Lavanda (408 km)</name>
       <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.8 | 25 отзывов | МАГАЗИН / МУЗЕЙ
+      <description><![CDATA[⭐ 4.8 | 25 отзывов | МАГАЗИН / МУЗЕЙ | 408 km, 4h 36 от Pego
 
 Магазин-музей лаванды в центре Бриуэги. Продукция из лаванды: масла, мёд, косметика. Информация о выращивании и переработке.
 
@@ -83,20 +110,9 @@
     </Placemark>
 
     <Placemark>
-      <name>🍦 Esencias de Vida — мороженое из лаванды (73 отзыва)</name>
+      <name>🛍️ #6 Campos de Oro Azul — мастерская (408 km)</name>
       <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.9 | 73 отзыва | МАСЛО + ГАСТРОНОМИЯ
-
-Лавандовое масло ручной работы и артезанальное мороженое из лаванды. Уникальный гастрономический опыт.
-
-📍 C. Ntra. Sra. de la Peña, 2, 19400 Brihuega, Guadalajara]]></description>
-      <Point><coordinates>-2.8705301,40.7588418,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>🎨 Campos de Oro Azul — мастерская</name>
-      <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.1 | 34 отзыва | МАСТЕРСКАЯ
+      <description><![CDATA[⭐ 4.1 | 34 отзыва | МАСТЕРСКАЯ | 408 km, 4h 36 от Pego
 
 Мастерская и магазин лавандовой продукции. «Голубое золото» — так называют лаванду в Алькаррии.
 
@@ -105,9 +121,53 @@
     </Placemark>
 
     <Placemark>
-      <name>💜 Campos de Lavanda Hontanares</name>
+      <name>🍦 #7 Esencias de Vida — мороженое из лаванды (408 km)</name>
+      <styleUrl>#lavender-shop</styleUrl>
+      <description><![CDATA[⭐ 4.9 | 73 отзыва | МАСЛО + ГАСТРОНОМИЯ | 408 km, 4h 36 от Pego
+
+Лавандовое масло ручной работы и артезанальное мороженое из лаванды. Уникальный гастрономический опыт.
+
+📍 C. Ntra. Sra. de la Peña, 2, 19400 Brihuega, Guadalajara]]></description>
+      <Point><coordinates>-2.8705301,40.7588418,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>💜 #8 Campos de Lavanda Brihuega — второе поле (410 km)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 11 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.7 | 505 отзывов | ПОЛЯ | 410 km, 4h 38 от Pego
+
+Ещё одна локация лавандовых полей Бриуэги, ближе к центру города. Менее людная альтернатива главным полям.
+
+📍 Q467+RX, 19400 Brihuega, Guadalajara]]></description>
+      <Point><coordinates>-2.8850287,40.7620315,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>🧪 #9 Destilería Jardín de la Alcarria (410 km)</name>
+      <styleUrl>#lavender-oil</styleUrl>
+      <description><![CDATA[⭐ 4.5 | 317 отзывов | ДИСТИЛЛЕРИЯ | 410 km, 4h 39 от Pego
+
+Дистиллерия лавандового масла. Экскурсии с показом процесса паровой дистилляции. Магазин с эфирными маслами, мылом и косметикой из лаванды.
+
+📍 Pl. Sector el Alto, 25T, 19400 Brihuega, Guadalajara]]></description>
+      <Point><coordinates>-2.8788345,40.7601562,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>💜 #10 Campos de Lavanda Brihuega — главные поля (413 km)</name>
+      <styleUrl>#lavender-field</styleUrl>
+      <description><![CDATA[⭐ 4.7 | 2 503 отзыва | MUST-VISIT | 413 km, 4h 41 от Pego
+
+Самые знаменитые лавандовые поля Испании. Бриуэга — «испанский Прованс». Бескрайние фиолетовые поля на плато Алькаррия. Лучшее время: последние 2 недели июня — первая неделя июля. Ежегодный Фестиваль лаванды в июле.
+
+📍 CM-2005, 19400 Brihuega, Guadalajara]]></description>
+      <Point><coordinates>-2.8499762,40.7898494,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>💜 #11 Campos de Lavanda Hontanares (443 km)</name>
+      <styleUrl>#lavender-field</styleUrl>
+      <description><![CDATA[⭐ 4.5 | 11 отзывов | ПОЛЯ | 443 km, 4h 36 от Pego
 
 Лавандовые поля в районе Онтанарес, к северу от Бриуэги. Менее известные, спокойнее для фотографий.
 
@@ -116,9 +176,9 @@
     </Placemark>
 
     <Placemark>
-      <name>💜 Campo de Lavanda El Marañal</name>
+      <name>💜 #12 Campo de Lavanda El Marañal (495 km)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 5.0 | 1 отзыв | ПОЛЯ
+      <description><![CDATA[⭐ 5.0 | 1 отзыв | ПОЛЯ | 495 km, 4h 52 от Pego
 
 Лавандовые поля у деревни Каспуэньяс, южнее Бриуэги. Менее туристическая локация.
 
@@ -126,40 +186,59 @@
       <Point><coordinates>-2.9844219,40.6973613,0</coordinates></Point>
     </Placemark>
 
-    <!-- ========================== -->
-    <!-- TIEDRA, VALLADOLID -->
-    <!-- ========================== -->
+    <!-- ======================================== -->
+    <!-- #13 — 412 km, 4h 26 от Pego -->
+    <!-- ======================================== -->
 
     <Placemark>
-      <name>💜 Tiedra de Lavanda — ферма-музей (940 отзывов)</name>
+      <name>🌿 #13 Aromes de can Rosselló, Lleida (412 km)</name>
       <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 940 отзывов | ФЕРМА-МУЗЕЙ
+      <description><![CDATA[⭐ 4.0 | 30 отзывов | ФЕРМА АРОМАТИЧЕСКИХ РАСТЕНИЙ | 412 km, 4h 26 от Pego
 
-Крупнейшая лавандовая ферма в Кастилии и Леон. Экскурсии, дегустации, магазин. Более 100 000 кустов лаванды. Открыта для посещения с мая по сентябрь. Красивые закаты над полями.
+Ферма ароматических растений в Лериде. Выращивание лаванды, розмарина, тимьяна. Экскурсии и мастер-классы.
 
-📍 47870 Tiedra, Valladolid]]></description>
-      <Point><coordinates>-5.263734599999999,41.65667759999999,0</coordinates></Point>
+📍 Partida Sot de Fontanet, 25, 25197 Lleida]]></description>
+      <Point><coordinates>0.62127,41.59691,0</coordinates></Point>
     </Placemark>
 
+    <!-- ======================================== -->
+    <!-- #14 — 443 km, 4h 35 от Pego -->
+    <!-- ======================================== -->
+
     <Placemark>
-      <name>💜 Campos de lavanda Tiedra (91 отзыв)</name>
-      <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.6 | 91 отзыв | ПОЛЯ
+      <name>🧪 #14 Aceites Esenciales Labiatae, Granada (443 km)</name>
+      <styleUrl>#lavender-oil</styleUrl>
+      <description><![CDATA[⭐ 4.7 | 21 отзыв | ПРОИЗВОДСТВО МАСЛА | 443 km, 4h 35 от Pego
 
-Лавандовые поля рядом с фермой-музеем Тьедра. Свободный доступ для фотографий.
+Производство эфирных масел лаванды в горах Сьерра-Невада. Экологическое производство, органическая лаванда.
 
-📍 VA-VP-6605, 47870 Tiedra, Valladolid]]></description>
-      <Point><coordinates>-5.2610332,41.6577829,0</coordinates></Point>
+📍 C. Eras del Molino, 3, 18192 Quéntar, Granada]]></description>
+      <Point><coordinates>-3.4618583,37.1940572,0</coordinates></Point>
     </Placemark>
 
-    <!-- ========================== -->
-    <!-- BURGOS -->
-    <!-- ========================== -->
+    <!-- ======================================== -->
+    <!-- #15 — 446 km, 4h 23 от Pego -->
+    <!-- ======================================== -->
 
     <Placemark>
-      <name>💜 Campos de Lavanda Caleruega (57 отзывов)</name>
+      <name>🛍️ #15 Lavanda Experience, Barcelona (446 km)</name>
+      <styleUrl>#lavender-shop</styleUrl>
+      <description><![CDATA[⭐ 4.8 | 21 отзыв | МАГАЗИН-ОПЫТ | 446 km, 4h 23 от Pego
+
+Лавандовый магазин-шоурум в Сант-Кугат (Барселона). Продукция из лаванды, мастер-классы по изготовлению мыла и косметики.
+
+📍 Av Vía Augusta 2-14, 08174 Sant Cugat del Vallès, Barcelona]]></description>
+      <Point><coordinates>2.0535039,41.4842605,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================================== -->
+    <!-- #16–17 — BURGOS cluster, 615–618 km от Pego -->
+    <!-- ======================================== -->
+
+    <Placemark>
+      <name>💜 #16 Campos de Lavanda Caleruega, Burgos (615 km)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.8 | 57 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.8 | 57 отзывов | ПОЛЯ | 615 km, 5h 58 от Pego
 
 Лавандовые поля у городка Калеруэга, родины Святого Доминго. Красивый вид на средневековый монастырь.
 
@@ -168,9 +247,9 @@
     </Placemark>
 
     <Placemark>
-      <name>💜 Campos de lavanda Cilleruelo de Arriba</name>
+      <name>💜 #17 Campos de lavanda Cilleruelo de Arriba, Burgos (618 km)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.6 | 19 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.6 | 19 отзывов | ПОЛЯ | 618 km, 5h 58 от Pego
 
 Лавандовые поля в провинции Бургос. Тихая сельская местность, хорошие фотоспоты.
 
@@ -178,104 +257,45 @@
       <Point><coordinates>-3.6604066,41.9076093,0</coordinates></Point>
     </Placemark>
 
-    <!-- ========================== -->
-    <!-- ЮГ И ВОСТОК -->
-    <!-- ========================== -->
+    <!-- ======================================== -->
+    <!-- #18–19 — TIEDRA cluster, 651 km от Pego -->
+    <!-- ======================================== -->
 
     <Placemark>
-      <name>🧪 Fábrica de esencias Peñarrubia (133 отзыва)</name>
-      <styleUrl>#lavender-oil</styleUrl>
-      <description><![CDATA[⭐ 4.6 | 133 отзыва | ПРОИЗВОДСТВО МАСЛА
-
-Фабрика эфирных масел в Осса-де-Монтиэль, Альбасете. Рядом с природным парком Лагунас-де-Руидера. Экскурсии, дегустация ароматов.
-
-📍 Camino de Santiago, 02611 Ossa de Montiel, Albacete]]></description>
-      <Point><coordinates>-2.7496925,38.9535002,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>💜 Campos de Lavanda de Zaén, Murcia</name>
-      <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.9 | 9 отзывов | ПОЛЯ
-
-Лавандовые поля в горах Моратальи, регион Мурсия. Малоизвестная локация, дикая лаванда на горных склонах.
-
-📍 RM-702, 30441 Moratalla, Murcia]]></description>
-      <Point><coordinates>-2.1065238,38.1994345,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>🧪 Aceites Esenciales Labiatae, Granada</name>
-      <styleUrl>#lavender-oil</styleUrl>
-      <description><![CDATA[⭐ 4.7 | 21 отзыв | ПРОИЗВОДСТВО МАСЛА
-
-Производство эфирных масел лаванды в горах Сьерра-Невада. Экологическое производство, органическая лаванда.
-
-📍 C. Eras del Molino, 3, 18192 Quéntar, Granada]]></description>
-      <Point><coordinates>-3.4618583,37.1940572,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>🌿 Finca Las Coronas, Sevilla (61 отзыв)</name>
+      <name>🌿 #18 Tiedra de Lavanda — ферма-музей (651 km)</name>
       <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.9 | 61 отзыв | ФЕРМА
+      <description><![CDATA[⭐ 4.5 | 940 отзывов | ФЕРМА-МУЗЕЙ | 651 km, 6h 18 от Pego
+
+Крупнейшая лавандовая ферма в Кастилии и Леон. Экскурсии, дегустации, магазин. Более 100 000 кустов лаванды. Открыта для посещения с мая по сентябрь. Красивые закаты над полями.
+
+📍 47870 Tiedra, Valladolid]]></description>
+      <Point><coordinates>-5.263734599999999,41.65667759999999,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>💜 #19 Campos de lavanda Tiedra (651 km)</name>
+      <styleUrl>#lavender-field</styleUrl>
+      <description><![CDATA[⭐ 4.6 | 91 отзыв | ПОЛЯ | 651 km, 6h 18 от Pego
+
+Лавандовые поля рядом с фермой-музеем Тьедра. Свободный доступ для фотографий.
+
+📍 VA-VP-6605, 47870 Tiedra, Valladolid]]></description>
+      <Point><coordinates>-5.2610332,41.6577829,0</coordinates></Point>
+    </Placemark>
+
+    <!-- ======================================== -->
+    <!-- #20 — 688 km, 6h 59 от Pego -->
+    <!-- ======================================== -->
+
+    <Placemark>
+      <name>🌿 #20 Finca Las Coronas, Sevilla (688 km)</name>
+      <styleUrl>#lavender-farm</styleUrl>
+      <description><![CDATA[⭐ 4.9 | 61 отзыв | ФЕРМА | 688 km, 6h 59 от Pego
 
 Агроферма в Кармоне, Севилья. Выращивание лаванды и алоэ вера. Экскурсии, магазин натуральной продукции.
 
 📍 Cortijo del Coto, 41410 Carmona, Sevilla]]></description>
       <Point><coordinates>-5.6371293,37.5783348,0</coordinates></Point>
-    </Placemark>
-
-    <!-- ========================== -->
-    <!-- КАТАЛОНИЯ И ВАЛЕНСИЯ -->
-    <!-- ========================== -->
-
-    <Placemark>
-      <name>🌿 Aromes de can Rosselló, Lleida</name>
-      <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.0 | 30 отзывов | ФЕРМА АРОМАТИЧЕСКИХ РАСТЕНИЙ
-
-Ферма ароматических растений в Лериде. Выращивание лаванды, розмарина, тимьяна. Экскурсии и мастер-классы.
-
-📍 Partida Sot de Fontanet, 25, 25197 Lleida]]></description>
-      <Point><coordinates>0.62127,41.59691,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>🛍️ Lavanda Experience, Barcelona</name>
-      <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.8 | 21 отзыв | МАГАЗИН-ОПЫТ
-
-Лавандовый магазин-шоурум в Сант-Кугат (Барселона). Продукция из лаванды, мастер-классы по изготовлению мыла и косметики.
-
-📍 Av Vía Augusta 2-14, 08174 Sant Cugat del Vallès, Barcelona]]></description>
-      <Point><coordinates>2.0535039,41.4842605,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>🌿 TheOriginalGarden, Valencia (315 отзывов)</name>
-      <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 315 отзывов | ПИТОМНИК
-
-Питомник ароматических и средиземноморских растений в Мирамаре, Валенсия. Большой выбор сортов лаванды, розмарина, шалфея. Можно купить саженцы.
-
-📍 Carrer dels Torners, 46714 Miramar, Valencia]]></description>
-      <Point><coordinates>-0.1461566,38.9473568,0</coordinates></Point>
-    </Placemark>
-
-    <!-- ========================== -->
-    <!-- ДРУГИЕ РЕГИОНЫ -->
-    <!-- ========================== -->
-
-    <Placemark>
-      <name>💜 Campos de Lavanda El Romeral, Toledo</name>
-      <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 3.6 | 25 отзывов | ПОЛЯ
-
-Лавандовые поля в провинции Толедо, Ла-Манча. Рядом с ветряными мельницами Консуэгры — можно совместить.
-
-📍 45770 El Romeral, Toledo]]></description>
-      <Point><coordinates>-3.4373488,39.6975676,0</coordinates></Point>
     </Placemark>
 
   </Document>
