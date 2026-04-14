@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Лавандовые места Испании</name>
-    <description>Лавандовые поля, фермы, дистиллерии, магазины и питомники по всей Испании. Сезон цветения: конец июня — середина июля.</description>
+    <name>Lavender Locations in Spain</name>
+    <description>Lavender fields, farms, distilleries, shops and nurseries across Spain. Bloom season: late June — mid July.</description>
 
     <!-- Styles by category -->
     <Style id="lavender-field">
@@ -35,37 +35,37 @@
     </Style>
 
     <!-- ========================== -->
-    <!-- BRIHUEGA, GUADALAJARA — столица лаванды -->
+    <!-- BRIHUEGA, GUADALAJARA — Lavender Capital of Spain -->
     <!-- ========================== -->
 
     <Placemark>
-      <name>💜 Campos de Lavanda — главные поля (2 503 отзыва)</name>
+      <name>💜 Campos de Lavanda — Main Fields (2,503 reviews)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.7 | 2 503 отзыва | MUST-VISIT
+      <description><![CDATA[⭐ 4.7 | 2,503 reviews | MUST-VISIT
 
-Самые знаменитые лавандовые поля Испании. Бриуэга — «испанский Прованс». Бескрайние фиолетовые поля на плато Алькаррия. Лучшее время: последние 2 недели июня — первая неделя июля. Ежегодный Фестиваль лаванды в июле.
+The most famous lavender fields in Spain. Brihuega is known as the "Spanish Provence." Endless purple fields on the Alcarria plateau. Best time: last 2 weeks of June — first week of July. Annual Lavender Festival in July.
 
 📍 CM-2005, 19400 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.8499762,40.7898494,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>💜 Campos de Lavanda — второе поле (505 отзывов)</name>
+      <name>💜 Campos de Lavanda — Second Field (505 reviews)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.7 | 505 отзывов
+      <description><![CDATA[⭐ 4.7 | 505 reviews
 
-Ещё одна локация лавандовых полей Бриуэги, ближе к центру города. Менее людная альтернатива главным полям.
+Another lavender field location in Brihuega, closer to the town center. A less crowded alternative to the main fields.
 
 📍 Q467+RX, 19400 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.8850287,40.7620315,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>🧪 Destilería Jardín de la Alcarria (317 отзывов)</name>
+      <name>🧪 Destilería Jardín de la Alcarria (317 reviews)</name>
       <styleUrl>#lavender-oil</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 317 отзывов | ДИСТИЛЛЕРИЯ
+      <description><![CDATA[⭐ 4.5 | 317 reviews | DISTILLERY
 
-Дистиллерия лавандового масла. Экскурсии с показом процесса паровой дистилляции. Магазин с эфирными маслами, мылом и косметикой из лаванды.
+Lavender essential oil distillery. Guided tours showing the steam distillation process. Shop with essential oils, soaps and lavender cosmetics.
 
 📍 Pl. Sector el Alto, 25T, 19400 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.8788345,40.7601562,0</coordinates></Point>
@@ -74,31 +74,31 @@
     <Placemark>
       <name>🛍️ Alcarria Natura — El Rincón de la Lavanda</name>
       <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.8 | 25 отзывов | МАГАЗИН / МУЗЕЙ
+      <description><![CDATA[⭐ 4.8 | 25 reviews | SHOP / MUSEUM
 
-Магазин-музей лаванды в центре Бриуэги. Продукция из лаванды: масла, мёд, косметика. Информация о выращивании и переработке.
+Lavender shop-museum in the center of Brihuega. Lavender products: oils, honey, cosmetics. Information about cultivation and processing.
 
 📍 C. Mayor, 8, 19400 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.86989,40.75979,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>🍦 Esencias de Vida — мороженое из лаванды (73 отзыва)</name>
+      <name>🍦 Esencias de Vida — Lavender Ice Cream (73 reviews)</name>
       <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.9 | 73 отзыва | МАСЛО + ГАСТРОНОМИЯ
+      <description><![CDATA[⭐ 4.9 | 73 reviews | OIL + GASTRONOMY
 
-Лавандовое масло ручной работы и артезанальное мороженое из лаванды. Уникальный гастрономический опыт.
+Handcrafted lavender oil and artisan lavender ice cream. A unique gastronomic experience.
 
 📍 C. Ntra. Sra. de la Peña, 2, 19400 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.8705301,40.7588418,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>🎨 Campos de Oro Azul — мастерская</name>
+      <name>🎨 Campos de Oro Azul — Workshop</name>
       <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.1 | 34 отзыва | МАСТЕРСКАЯ
+      <description><![CDATA[⭐ 4.1 | 34 reviews | WORKSHOP
 
-Мастерская и магазин лавандовой продукции. «Голубое золото» — так называют лаванду в Алькаррии.
+Lavender product workshop and shop. "Blue Gold" is what lavender is called in Alcarria.
 
 📍 C. las Armas, 21, 19400 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.86976,40.760748,0</coordinates></Point>
@@ -107,9 +107,9 @@
     <Placemark>
       <name>💜 Campos de Lavanda Hontanares</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 11 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.5 | 11 reviews | FIELDS
 
-Лавандовые поля в районе Онтанарес, к северу от Бриуэги. Менее известные, спокойнее для фотографий.
+Lavender fields in the Hontanares area, north of Brihuega. Less well-known, quieter for photography.
 
 📍 19413 Brihuega, Guadalajara]]></description>
       <Point><coordinates>-2.7725542,40.8519049,0</coordinates></Point>
@@ -118,9 +118,9 @@
     <Placemark>
       <name>💜 Campo de Lavanda El Marañal</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 5.0 | 1 отзыв | ПОЛЯ
+      <description><![CDATA[⭐ 5.0 | 1 review | FIELDS
 
-Лавандовые поля у деревни Каспуэньяс, южнее Бриуэги. Менее туристическая локация.
+Lavender fields near the village of Caspueñas, south of Brihuega. A less touristy location.
 
 📍 GU-908, 19412 Caspueñas, Guadalajara]]></description>
       <Point><coordinates>-2.9844219,40.6973613,0</coordinates></Point>
@@ -131,22 +131,22 @@
     <!-- ========================== -->
 
     <Placemark>
-      <name>💜 Tiedra de Lavanda — ферма-музей (940 отзывов)</name>
+      <name>💜 Tiedra de Lavanda — Farm Museum (940 reviews)</name>
       <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 940 отзывов | ФЕРМА-МУЗЕЙ
+      <description><![CDATA[⭐ 4.5 | 940 reviews | FARM MUSEUM
 
-Крупнейшая лавандовая ферма в Кастилии и Леон. Экскурсии, дегустации, магазин. Более 100 000 кустов лаванды. Открыта для посещения с мая по сентябрь. Красивые закаты над полями.
+The largest lavender farm in Castilla y León. Guided tours, tastings, shop. Over 100,000 lavender bushes. Open for visits from May to September. Beautiful sunsets over the fields.
 
 📍 47870 Tiedra, Valladolid]]></description>
       <Point><coordinates>-5.263734599999999,41.65667759999999,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>💜 Campos de lavanda Tiedra (91 отзыв)</name>
+      <name>💜 Campos de lavanda Tiedra (91 reviews)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.6 | 91 отзыв | ПОЛЯ
+      <description><![CDATA[⭐ 4.6 | 91 reviews | FIELDS
 
-Лавандовые поля рядом с фермой-музеем Тьедра. Свободный доступ для фотографий.
+Lavender fields next to the Tiedra farm museum. Open access for photography.
 
 📍 VA-VP-6605, 47870 Tiedra, Valladolid]]></description>
       <Point><coordinates>-5.2610332,41.6577829,0</coordinates></Point>
@@ -157,11 +157,11 @@
     <!-- ========================== -->
 
     <Placemark>
-      <name>💜 Campos de Lavanda Caleruega (57 отзывов)</name>
+      <name>💜 Campos de Lavanda Caleruega (57 reviews)</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.8 | 57 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.8 | 57 reviews | FIELDS
 
-Лавандовые поля у городка Калеруэга, родины Святого Доминго. Красивый вид на средневековый монастырь.
+Lavender fields near the town of Caleruega, birthplace of Saint Dominic. Beautiful views of the medieval monastery.
 
 📍 Caleruega, 09451, Burgos]]></description>
       <Point><coordinates>-3.4909258,41.8380458,0</coordinates></Point>
@@ -170,24 +170,24 @@
     <Placemark>
       <name>💜 Campos de lavanda Cilleruelo de Arriba</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.6 | 19 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.6 | 19 reviews | FIELDS
 
-Лавандовые поля в провинции Бургос. Тихая сельская местность, хорошие фотоспоты.
+Lavender fields in the province of Burgos. Quiet countryside, great photo spots.
 
 📍 09349 Cilleruelo de Arriba, Burgos]]></description>
       <Point><coordinates>-3.6604066,41.9076093,0</coordinates></Point>
     </Placemark>
 
     <!-- ========================== -->
-    <!-- ЮГ И ВОСТОК -->
+    <!-- SOUTH AND EAST -->
     <!-- ========================== -->
 
     <Placemark>
-      <name>🧪 Fábrica de esencias Peñarrubia (133 отзыва)</name>
+      <name>🧪 Fábrica de esencias Peñarrubia (133 reviews)</name>
       <styleUrl>#lavender-oil</styleUrl>
-      <description><![CDATA[⭐ 4.6 | 133 отзыва | ПРОИЗВОДСТВО МАСЛА
+      <description><![CDATA[⭐ 4.6 | 133 reviews | ESSENTIAL OIL PRODUCTION
 
-Фабрика эфирных масел в Осса-де-Монтиэль, Альбасете. Рядом с природным парком Лагунас-де-Руидера. Экскурсии, дегустация ароматов.
+Essential oil factory in Ossa de Montiel, Albacete. Near the Lagunas de Ruidera natural park. Guided tours, aroma tastings.
 
 📍 Camino de Santiago, 02611 Ossa de Montiel, Albacete]]></description>
       <Point><coordinates>-2.7496925,38.9535002,0</coordinates></Point>
@@ -196,9 +196,9 @@
     <Placemark>
       <name>💜 Campos de Lavanda de Zaén, Murcia</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 4.9 | 9 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 4.9 | 9 reviews | FIELDS
 
-Лавандовые поля в горах Моратальи, регион Мурсия. Малоизвестная локация, дикая лаванда на горных склонах.
+Lavender fields in the mountains of Moratalla, Murcia region. A little-known location with wild lavender on mountain slopes.
 
 📍 RM-702, 30441 Moratalla, Murcia]]></description>
       <Point><coordinates>-2.1065238,38.1994345,0</coordinates></Point>
@@ -207,35 +207,35 @@
     <Placemark>
       <name>🧪 Aceites Esenciales Labiatae, Granada</name>
       <styleUrl>#lavender-oil</styleUrl>
-      <description><![CDATA[⭐ 4.7 | 21 отзыв | ПРОИЗВОДСТВО МАСЛА
+      <description><![CDATA[⭐ 4.7 | 21 reviews | ESSENTIAL OIL PRODUCTION
 
-Производство эфирных масел лаванды в горах Сьерра-Невада. Экологическое производство, органическая лаванда.
+Lavender essential oil production in the Sierra Nevada mountains. Ecological production, organic lavender.
 
 📍 C. Eras del Molino, 3, 18192 Quéntar, Granada]]></description>
       <Point><coordinates>-3.4618583,37.1940572,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>🌿 Finca Las Coronas, Sevilla (61 отзыв)</name>
+      <name>🌿 Finca Las Coronas, Sevilla (61 reviews)</name>
       <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.9 | 61 отзыв | ФЕРМА
+      <description><![CDATA[⭐ 4.9 | 61 reviews | FARM
 
-Агроферма в Кармоне, Севилья. Выращивание лаванды и алоэ вера. Экскурсии, магазин натуральной продукции.
+Agricultural farm in Carmona, Seville. Growing lavender and aloe vera. Tours, natural product shop.
 
 📍 Cortijo del Coto, 41410 Carmona, Sevilla]]></description>
       <Point><coordinates>-5.6371293,37.5783348,0</coordinates></Point>
     </Placemark>
 
     <!-- ========================== -->
-    <!-- КАТАЛОНИЯ И ВАЛЕНСИЯ -->
+    <!-- CATALONIA AND VALENCIA -->
     <!-- ========================== -->
 
     <Placemark>
       <name>🌿 Aromes de can Rosselló, Lleida</name>
       <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.0 | 30 отзывов | ФЕРМА АРОМАТИЧЕСКИХ РАСТЕНИЙ
+      <description><![CDATA[⭐ 4.0 | 30 reviews | AROMATIC PLANT FARM
 
-Ферма ароматических растений в Лериде. Выращивание лаванды, розмарина, тимьяна. Экскурсии и мастер-классы.
+Aromatic plant farm in Lleida. Growing lavender, rosemary, thyme. Tours and workshops.
 
 📍 Partida Sot de Fontanet, 25, 25197 Lleida]]></description>
       <Point><coordinates>0.62127,41.59691,0</coordinates></Point>
@@ -244,35 +244,35 @@
     <Placemark>
       <name>🛍️ Lavanda Experience, Barcelona</name>
       <styleUrl>#lavender-shop</styleUrl>
-      <description><![CDATA[⭐ 4.8 | 21 отзыв | МАГАЗИН-ОПЫТ
+      <description><![CDATA[⭐ 4.8 | 21 reviews | SHOP / EXPERIENCE
 
-Лавандовый магазин-шоурум в Сант-Кугат (Барселона). Продукция из лаванды, мастер-классы по изготовлению мыла и косметики.
+Lavender showroom-shop in Sant Cugat (Barcelona). Lavender products, soap and cosmetics workshops.
 
 📍 Av Vía Augusta 2-14, 08174 Sant Cugat del Vallès, Barcelona]]></description>
       <Point><coordinates>2.0535039,41.4842605,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>🌿 TheOriginalGarden, Valencia (315 отзывов)</name>
+      <name>🌿 TheOriginalGarden, Valencia (315 reviews)</name>
       <styleUrl>#lavender-farm</styleUrl>
-      <description><![CDATA[⭐ 4.5 | 315 отзывов | ПИТОМНИК
+      <description><![CDATA[⭐ 4.5 | 315 reviews | NURSERY
 
-Питомник ароматических и средиземноморских растений в Мирамаре, Валенсия. Большой выбор сортов лаванды, розмарина, шалфея. Можно купить саженцы.
+Aromatic and Mediterranean plant nursery in Miramar, Valencia. Wide selection of lavender, rosemary and sage varieties. Seedlings available for purchase.
 
 📍 Carrer dels Torners, 46714 Miramar, Valencia]]></description>
       <Point><coordinates>-0.1461566,38.9473568,0</coordinates></Point>
     </Placemark>
 
     <!-- ========================== -->
-    <!-- ДРУГИЕ РЕГИОНЫ -->
+    <!-- OTHER REGIONS -->
     <!-- ========================== -->
 
     <Placemark>
       <name>💜 Campos de Lavanda El Romeral, Toledo</name>
       <styleUrl>#lavender-field</styleUrl>
-      <description><![CDATA[⭐ 3.6 | 25 отзывов | ПОЛЯ
+      <description><![CDATA[⭐ 3.6 | 25 reviews | FIELDS
 
-Лавандовые поля в провинции Толедо, Ла-Манча. Рядом с ветряными мельницами Консуэгры — можно совместить.
+Lavender fields in the province of Toledo, La Mancha. Near the windmills of Consuegra — combine both visits.
 
 📍 45770 El Romeral, Toledo]]></description>
       <Point><coordinates>-3.4373488,39.6975676,0</coordinates></Point>

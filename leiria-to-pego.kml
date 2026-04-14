@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Leiria → Pego Return Trip (single day, highway via Madrid M-50)</name>
+    <description>2026-04-14. Hyundai Inster 50 kWh, ~1250 km, all highways. 7 DC charging stops (4 of them Iberdrola with 20% user discount). Final leg via Alcoy mountain pass. Edge-range legs split with planned mid-stops. Depart 06:00, arrive ~21:30.</description>
+
+    <Style id="charging-iberdrola">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <scale>1.3</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="charging-other">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="charging-fallback">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.0</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="start-end">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.4</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="routeLine">
+      <LineStyle>
+        <color>ff0066ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>START — Leiria (home)</name>
+      <description>Rua da Carregueira 508, 2425-062 Monte Real. Depart 06:00 at 100% SoC.</description>
+      <styleUrl>#start-end</styleUrl>
+      <Point><coordinates>-8.8071,39.7437,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 1 — Abrantes Moeve A23 (top-up)</name>
+      <description>97 km from Leiria. Moeve A23 service area, 4.7★. Quick top-up 60→90% (~20 min). Splits the otherwise impossible Leiria→Badajoz 284 km leg. Fallback: Moeve opposite side A23 (39.486, -8.159).</description>
+      <styleUrl>#charging-other</styleUrl>
+      <Point><coordinates>-8.155,39.485,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 2 — Badajoz Iberdrola ★ −20%</name>
+      <description>284 km from Leiria. Iberdrola BA-Badajoz-005, 50 kW, 24/7. 20% loyalty discount. Full charge 10→100% (~40 min). Fallback: Repsol MOBI.E Elvas (38.8835, -7.0493) or IONITY Mérida (38.9340, -6.3433).</description>
+      <styleUrl>#charging-iberdrola</styleUrl>
+      <Point><coordinates>-6.953,38.875,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 3 — Trujillo (verify on trip day)</name>
+      <description>439 km from Leiria. Trujillo service area on A-5, verify specific station in Electromaps/ABRP before trip. Expected Endesa or Iberdrola. Charge 15→90% (~30 min). Fallback: Navalmoral de la Mata (+70 km).</description>
+      <styleUrl>#charging-other</styleUrl>
+      <Point><coordinates>-5.88,39.46,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 4 — Oropesa Iberdrola bp pulse (LUNCH) ★ −20%</name>
+      <description>602 km from Leiria. Iberdrola bp pulse, E.S. Oropesa-Saras, 150 kW (Inster ~80 kW). 20% discount. Charge 5→90% + lunch (~40 min total). Midpoint of trip. Fallback: Talavera de la Reina (+50 km).</description>
+      <styleUrl>#charging-iberdrola</styleUrl>
+      <Point><coordinates>-5.18,39.92,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 5 — Fuenlabrada Iberdrola bp pulse (Madrid M-50) ★ −20%</name>
+      <description>782 km from Leiria. Iberdrola bp pulse, C/ de Legalés 62, 28940 Fuenlabrada. 150 kW (Inster ~80 kW). 20% discount. Charge 5→90% (~30 min). On Madrid M-50 south ring, bypasses city center. Fallback before Madrid: Talavera de la Reina. Fallback near: Iberdrola bp pulse Móstoles Xanadu.</description>
+      <styleUrl>#charging-iberdrola</styleUrl>
+      <Point><coordinates>-3.80,40.28,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 6 — Motilla del Palancar Zunder</name>
+      <description>964 km from Leiria. Zunder ultra-fast, up to 360 kW (Inster ~80 kW). No Iberdrola discount. Charge 5→90% (~30 min). Verify exact coords morning of trip. Fallback mid-leg: Tarancón (85 km after Fuenlabrada on A-3).</description>
+      <styleUrl>#charging-other</styleUrl>
+      <Point><coordinates>-1.88,39.56,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Charge 7 — Albacete Iberdrola (95%) ★ −20%</name>
+      <description>1049 km from Leiria. Iberdrola, C. Federico García Lorca 1, 50 kW, 4.6★. 20% discount. Charge 15→95% (~45 min extended slow taper). Required for 201 km final leg + Alcoy mountain climb. Fallback: Zunder Av. Sexta Norte (39.0296, -1.8881) or Powerdot Imaginalia.</description>
+      <styleUrl>#charging-iberdrola</styleUrl>
+      <Point><coordinates>-1.8496,39.0009,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>FALLBACK — Villena Iberdrola ★ (insurance only)</name>
+      <description>~1174 km from Leiria, on final leg via A-35 after Albacete. Iberdrola (Ayuntamiento de Villena). Use ONLY if SoC drops below 30% at Villena due to unexpected consumption (wind/traffic). 15-min top-up guarantees Alcoy mountain pass. 20% Iberdrola discount applies. Not a scheduled stop.</description>
+      <styleUrl>#charging-fallback</styleUrl>
+      <Point><coordinates>-0.86,38.64,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>END — Pego (home)</name>
+      <description>Carrer Sant Pere 67, 03780 Pego, Alicante. Arrive ~21:30. Final leg via Alcoy mountain pass (A-31 → A-35 → CV-60 → CV-715) in the dark — drive carefully through Alcoy-Cocentaina mountain section.</description>
+      <styleUrl>#start-end</styleUrl>
+      <Point><coordinates>-0.1167,38.8375,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Route: Leiria → Pego via Madrid M-50 and Alcoy</name>
+      <description>Highway corridor: A23 → A6 → A-5 (Badajoz/Mérida/Trujillo/Oropesa) → Madrid M-50 south → A-3 → A-31 Albacete → A-35 Alcoy → CV-60 → Pego</description>
+      <styleUrl>#routeLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -8.8071,39.7437,0
+          -8.155,39.485,0
+          -6.953,38.875,0
+          -5.88,39.46,0
+          -5.18,39.92,0
+          -3.80,40.28,0
+          -1.88,39.56,0
+          -1.8496,39.0009,0
+          -0.86,38.64,0
+          -0.1167,38.8375,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

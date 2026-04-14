@@ -73,8 +73,10 @@ This means 1 longer stop instead of 2 shorter. Decision by driver on the day.
 | **Total** | **59€** |
 
 ## Important Notes
-- Hyundai Inster max DC charge: 50kW (CCS2 connector)
+- Hyundai Inster real-world DC average: **~80 kW** (CCS2). Stations rated 50 kW deliver 50 kW; stations rated 80 kW+ all deliver the same ~80 kW regardless of rated ceiling.
+- **Cost sweet spot: 50–100 kW stations** — no speed benefit from ultra-fast premium (IONITY 200 kW, Zunder 180 kW, Tesla 250 kW charge the Inster at the same ~80 kW but cost more per kWh).
+- **User has 20% loyalty discount at Iberdrola / bp pulse** — prefer Iberdrola wherever it's available on the route.
 - Highway range: ~240 km
-- Optimal charge interval: 150-180 km
-- Charge time 10-80%: ~30 min at 50kW
+- Optimal charge interval: 150–180 km
+- Charge time 10→80%: ~25 min on an 80 kW+ station, ~30 min on a 50 kW station
 - Portugal uses MOBI.E network — download Miio app beforehand!
