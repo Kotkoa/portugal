@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Зарядные станции — Лавандовая поездка</name>
+    <description><![CDATA[Зарядки по маршруту (приоритет Iberdrola — 20% скидка; зелёная звезда). Tesla/Zunder/IONITY и прочие DC.]]></description>
+    <Style id="ch-iberdrola"><IconStyle><color>ff00ff00</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href></Icon></IconStyle></Style>
+    <Style id="ch-tesla"><IconStyle><color>ff0000ff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ch-zunder"><IconStyle><color>ff00aaff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ch-ionity"><IconStyle><color>ffff66cc</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ch-other"><IconStyle><color>ff999999</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Placemark>
+      <name>⚡ Tesla Supercharger — Мурсия (A-7, km 760)</name>
+      <styleUrl>#ch-tesla</styleUrl>
+      <description><![CDATA[⭐ 4.3 (396 отз.)
+Сеть: Tesla
+Крупный хаб Tesla Supercharger на трассе A-7 у Чурра/Нуэва-Кондомина, Мурсия. Самая популярная быстрая зарядка района (рейтинг 4.3, 396 отзывов), открыта и для не-Tesla. Идеальная основная остановка на обратном пути.
+
+📍 Tesla Supercharger
+km 760, A-7, 30110 Churra, Murcia, Spain]]></description>
+      <Point><coordinates>-1.149343,38.038172,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola bp pulse — Мурсия (Av. Juan de Borbón)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 3.1 (15 отз.)
+Сеть: Iberdrola bp pulse
+Быстрая станция Iberdrola bp pulse на Av. Juan de Borbón в Мурсии, круглосуточно (рейтинг 3.1, 15 отзывов). Альтернатива Tesla, со скидкой лояльности Iberdrola.
+
+📍 Iberdrola | bp pulse Charging Station
+Av. Juan de Borbón, 30100 Murcia, Spain]]></description>
+      <Point><coordinates>-1.149150,38.031128,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Caravaca — Iberdrola (Av. Constitución)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 3.8 (14 отз.)
+Сеть: Iberdrola
+Iberdrola в Караваке-де-ла-Крус, круглосуточно (24/7), рейтинг 3.8 (14 отзывов). Основная зарядка в городе, скидка 20%.
+
+📍 Iberdrola Charging Station
+Av. de la Constitución, 101, 30400 Caravaca de la Cruz, Murcia, Spain]]></description>
+      <Point><coordinates>-1.866458,38.097796,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Мурсия (Los Dolores)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 4.5 (13 отз.)
+Сеть: Iberdrola
+Круглосуточная зарядка Iberdrola в районе Лос-Долорес, Мурсия. Самая высокооценённая Iberdrola в городе (рейтинг 4.5, 13 отзывов). Скидка лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+Calle a, 3, 30011 Los Dolores, Murcia, Spain]]></description>
+      <Point><coordinates>-1.113082,37.977487,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Zunder — Кокс</name>
+      <styleUrl>#ch-zunder</styleUrl>
+      <description><![CDATA[⭐ 4.6 (13 отз.)
+Сеть: Zunder
+Быстрая зарядка Zunder в Коксе (Camps Ortiz), лучшая по отзывам точка района (рейтинг 4.6, 13 отзывов). Отличный быстрый DC прямо в опорной точке маршрута.
+
+📍 Zunder Charging Station
+Camps Ortiz, 03350 Cox, Alicante, Spain]]></description>
+      <Point><coordinates>-0.890296,38.162008,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Cieza — Iberdrola bp pulse (N-301)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 3.8 (9 отз.)
+Сеть: Iberdrola
+Iberdrola bp pulse у трассы N-301 (Сьеса), круглосуточно (24/7), рейтинг 3.8. Быстрая зарядка на коридоре Хумилья→Каравака, скидка 20%.
+
+📍 Iberdrola | bp pulse Charging Station
+6HVR+JX Parque comercial, N-301, 30530 Cieza, Murcia, Spain]]></description>
+      <Point><coordinates>-1.407728,38.243937,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Орихуэла (Polígono N20)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 4.2 (6 отз.)
+Сеть: Iberdrola
+Зарядка Iberdrola в промзоне Орихуэлы. Лучшая по отзывам точка сети в городе (рейтинг 4.2, 6 отзывов). Удобная остановка на участке Мурсия → Кокс, скидка лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+Polígono Unid Actuación N20 C U, 9, 03300 Orihuela, Alicante, Spain]]></description>
+      <Point><coordinates>-0.938341,38.088832,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Гранха-де-Рокамора (у Кокса)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 4 (5 отз.)
+Сеть: Iberdrola
+Зарядка Iberdrola в Гранха-де-Рокамора, у самого Кокса (рейтинг 4, 5 отзывов). Запасной вариант рядом с быстрым Zunder, скидка лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+Av. Juan Carlos I, 93A, 03348 Granja de Rocamora, Alicante, Spain]]></description>
+      <Point><coordinates>-0.890560,38.154590,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Yecla — Iberdrola (Av. de la Feria)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 5 (4 отз.)
+Сеть: Iberdrola
+Iberdrola в Йекле, круглосуточно (24/7), лучший рейтинг в городе 5.0. Удобная промежуточная зарядка со скидкой 20%.
+
+📍 Iberdrola Charging Station
+Av. de la Feria, 27, 30510 Yecla, Murcia, Spain]]></description>
+      <Point><coordinates>-1.103460,38.615653,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Caravaca — Iberdrola (Av. Juan Carlos I)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 2.3 (3 отз.)
+Сеть: Iberdrola
+Iberdrola в Караваке (Av. Juan Carlos I), круглосуточно (24/7), рейтинг 2.3. Вторая точка Iberdrola в городе, скидка 20%.
+
+📍 Iberdrola Charging Station
+Av. Juan Carlos I, 41, 30400 Caravaca de la Cruz, Murcia, Spain]]></description>
+      <Point><coordinates>-1.866594,38.102624,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Pego — Iberdrola (Passeig Cervantes)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 3 (2 отз.)
+Сеть: Iberdrola
+Iberdrola в центре Пего, круглосуточно (24/7). Запасной пункт зарядки в точке старта, рейтинг 3.0.
+
+📍 Iberdrola Charging Station
+Passeig Cervantes, 10, 03780 Pego, Alicante, Spain]]></description>
+      <Point><coordinates>-0.120815,38.839266,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Yecla — Iberdrola (Carr. C-3314)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 4 (2 отз.)
+Сеть: Iberdrola
+Iberdrola на выезде из Йеклы по трассе C-3314, круглосуточно (24/7), рейтинг 4.0. Удобно по ходу маршрута.
+
+📍 Iberdrola Charging Station
+Carr. C-3314, 1, 30510 Yecla, Murcia, Spain]]></description>
+      <Point><coordinates>-1.092887,38.615203,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Yecla — Endesa X Way (Ctra. de Villena)</name>
+      <styleUrl>#ch-other</styleUrl>
+      <description><![CDATA[⭐ 4.5 (2 отз.)
+Сеть: other
+Endesa X Way в Йекле, круглосуточно (24/7), рейтинг 4.5. Альтернатива Iberdrola, если её точки заняты.
+
+📍 ENDESA X WAY Charging Station
+SALVADOR PALAO, Calle Ctra. de Villena, 30510 Yecla, Murcia, Spain]]></description>
+      <Point><coordinates>-1.084070,38.615808,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Бульяс</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 4.5 (2 отз.)
+Сеть: Iberdrola
+Круглосуточная зарядка Iberdrola в Бульясе на полпути между Каравака и Мурсией (рейтинг 4.5). Хороший вариант для добора заряда в винодельческом городке.
+
+📍 Iberdrola Charging Station
+C. de la Copa, 0, 30180 Bullas, Murcia, Spain]]></description>
+      <Point><coordinates>-1.660932,38.052807,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola bp pulse — Эль-Пунталь (Молина)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 4.5 (2 отз.)
+Сеть: Iberdrola bp pulse
+Быстрая зарядка Iberdrola bp pulse в Эль-Пунталь у Молина-де-Сегура (рейтинг 4.5). Удобна на участке Мурсия → Молина, со скидкой лояльности Iberdrola.
+
+📍 Iberdrola | bp pulse Charging Station
+C. Francisco Alfonso Hidalgo Martinez, 38, 30100 El Puntal, Murcia, Spain]]></description>
+      <Point><coordinates>-1.172321,38.029104,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Орихуэла (Dr. García Rogel)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 5 (2 отз.)
+Сеть: Iberdrola
+Зарядка Iberdrola на Av. Dr. García Rogel в Орихуэле (рейтинг 5, 2 отзыва). Альтернативная точка в центре города, скидка лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+Av. Dr. García Rogel, 18, 03300 Orihuela, Alicante, Spain]]></description>
+      <Point><coordinates>-0.939216,38.091523,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola bp pulse — Сан-Исидро (у Кокса)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 3 (2 отз.)
+Сеть: Iberdrola bp pulse
+Быстрая зарядка Iberdrola bp pulse в промзоне Ла-Гранадина (Сан-Исидро) рядом с Коксом и Альбатерой. Удобна на участке Орихуэла → Кокс, скидка лояльности Iberdrola.
+
+📍 Iberdrola | BP Pulse Charging Station
+Camino de Fidel 29 Disfrimur Pol.Ind, La Granadina, 03349 S. Isidro, Alicante, Spain]]></description>
+      <Point><coordinates>-0.852347,38.170018,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Pego — Iberdrola (Plaça Poeta Llorente)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 5 (1 отз.)
+Сеть: Iberdrola
+Iberdrola, старт в Пего. Круглосуточно (24/7), рейтинг 5.0. Подходит для зарядки перед выездом, действует скидка 20% по программе лояльности.
+
+📍 Iberdrola Charging Station
+Plaça Poeta Llorente,Franciscanes, 13, 03780 Pego,Purisima Concepcio, Alicante, Spain]]></description>
+      <Point><coordinates>-0.115982,38.841372,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Jumilla — Repsol (Av. de Murcia)</name>
+      <styleUrl>#ch-other</styleUrl>
+      <description><![CDATA[⭐ 1 (1 отз.)
+Сеть: other
+Repsol в Хумилье — единственная зарядка DC в самом городе (Iberdrola тут только офис). Рейтинг низкий (1.0), но выручит при необходимости.
+
+📍 Repsol Charging Station
+Av. de Murcia, 49, 30520 Jumilla, Murcia, Spain]]></description>
+      <Point><coordinates>-1.314734,38.472699,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Caravaca — Eranovum (Av. Juan Carlos I)</name>
+      <styleUrl>#ch-other</styleUrl>
+      <description><![CDATA[⭐ 4 (1 отз.)
+Сеть: other
+Eranovum в Караваке, рейтинг 4.0. Альтернативная зарядка DC, если точки Iberdrola заняты.
+
+📍 Eranovum Charging Station
+Av. Juan Carlos I, 1, 30400 Caravaca de la Cruz, Murcia, Spain]]></description>
+      <Point><coordinates>-1.861812,38.103174,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Caravaca — Repsol (Ctra. Moratalla)</name>
+      <styleUrl>#ch-other</styleUrl>
+      <description><![CDATA[⭐ 5 (1 отз.)
+Сеть: other
+Repsol на дороге из Каравака в Моратальу, рейтинг 5.0. Удобно по пути к финишу дня.
+
+📍 Repsol Charging Station
+Cr, Ctra. Moratalla, 1, I, 30400 Caravaca de la Cruz, Murcia, Spain]]></description>
+      <Point><coordinates>-1.865543,38.111095,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Молина-де-Сегура (Av. Chorrico)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[⭐ 3 (1 отз.)
+Сеть: Iberdrola
+Зарядка Iberdrola на Av. del Chorrico в Молина-де-Сегура. Запасной вариант в городе на пути к Орихуэле, скидка лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+Av. del Chorrico, 110, 30500 Molina de Segura, Murcia, Spain]]></description>
+      <Point><coordinates>-1.201710,38.059816,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Moratalla — Iberdrola (Ctra. de Caravaca, 43)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[Сеть: Iberdrola
+Iberdrola в Моратальe — финиш дня 1, круглосуточно (24/7). Единственная зарядка в городе, скидка 20%.
+
+📍 Iberdrola Charging Station
+DE, Ctra. de Caravaca, 43, 30440 Moratalla, Murcia, Spain]]></description>
+      <Point><coordinates>-1.890657,38.184710,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Сехин (трасса на Мурсию)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[Сеть: Iberdrola
+Зарядка Iberdrola на Ctra. de Murcia в Сехине, по пути от Каравака на восток к Мурсии. Работает круглосуточно, удобна как промежуточная подзарядка.
+
+📍 Iberdrola Charging Station
+Ctra. de Murcia, 121, 30430 Cehegín, Murcia, Spain]]></description>
+      <Point><coordinates>-1.789871,38.088116,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Кокс (Av. Carmen)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[Сеть: Iberdrola
+Зарядка Iberdrola на Av. Carmen в самом Коксе. Точка прямо в опорном городе маршрута, со скидкой лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+Av. Carmen, 64, 03350 Cox, Alicante, Spain]]></description>
+      <Point><coordinates>-0.888937,38.145956,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Repsol — Кальоса-де-Сегура</name>
+      <styleUrl>#ch-other</styleUrl>
+      <description><![CDATA[Сеть: Repsol
+Зарядка Repsol в Кальоса-де-Сегура (C. Canónigo Manuel Cayuelas). Фирменных Iberdrola/Tesla прямо в Кальосе нет — это удобный быстрый вариант в опорной точке.
+
+📍 Repsol Charging Station
+C. Canónigo Manuel Cayuelas Ballesta, 1, 03360 Callosa de Segura, Alicante, Spain]]></description>
+      <Point><coordinates>-0.873702,38.127486,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>⚡ Iberdrola — Редован (у Кальосы)</name>
+      <styleUrl>#ch-iberdrola</styleUrl>
+      <description><![CDATA[Сеть: Iberdrola
+Зарядка Iberdrola в Редоване, рядом с Кальоса-де-Сегура. Удобный фирменный вариант возле опорной точки, скидка лояльности Iberdrola.
+
+📍 Iberdrola Charging Station
+De La Libertad, 29, 03370 Redován, Alicante, Spain]]></description>
+      <Point><coordinates>-0.908277,38.112632,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Фото-точки и достопримечательности — маршрут</name>
+    <description><![CDATA[Смотровые, замки, святилища, природа и памятники вдоль маршрута. Отсортировано по отзывам.]]></description>
+    <Style id="ph-mirador"><IconStyle><color>ff00d7ff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+    <Style id="ph-castillo"><IconStyle><color>ff0000ff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ph-monumento"><IconStyle><color>ff0080ff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-stars.png</href></Icon></IconStyle></Style>
+    <Style id="ph-santuario"><IconStyle><color>ffaa55ff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-stars.png</href></Icon></IconStyle></Style>
+    <Style id="ph-naturaleza"><IconStyle><color>ff33cc33</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ph-embalse"><IconStyle><color>ffd0a000</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ph-bodega"><IconStyle><color>ff3366cc</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ph-yacimiento"><IconStyle><color>ff6699cc</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="ph-other"><IconStyle><color>ff00d7ff</color><scale>1.0</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href></Icon></IconStyle></Style>
+    <Placemark>
+      <name>📸 Мурсия — кафедральный собор</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.7 (18063 отз.)
+Главный собор Мурсии с роскошным барочным фасадом и башней-колокольней (можно подняться). Знаковая достопримечательность города, рейтинг 4.7 при более чем 18 000 отзывов.
+
+📍 Catedral de Murcia
+Pl. del Cardenal Belluga, s/n, 30001 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.128575,37.984047,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Арчена — термальный курорт</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.2 (13859 отз.)
+Исторический термальный курорт-бальнеарио на реке Сегура с минеральными источниками и спа. Рейтинг 4.2, очень популярен (более 13 000 отзывов).
+
+📍 Spa Piscinas y Circuito Balnea - Balneario de Archena
+C. Copenhague, s/n, 30600 Archena, Murcia, Spain · Archena]]></description>
+      <Point><coordinates>-1.305770,38.129890,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — Реал Касино</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.7 (6004 отз.)
+Шикарное здание-клуб XIX века с мавританским патио, бальным залом и библиотекой — одна из самых фотографируемых интерьерных достопримечательностей города. Рейтинг 4.7, более 6000 отзывов.
+
+📍 Real Casino de Murcia
+C. Trapería, 18, 30001 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.129043,37.985432,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Фуэнтес-дель-Маркес</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.7 (5416 отз.)
+Природный парк с родниками, прудами и тополиной рощей под Каравака. Очень живописно, отражения в воде. Рейтинг 4.7, 5416 отзывов.
+
+📍 Fuentes del Marqués
+Fuentes del Marqués, 30400, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.877460,38.101644,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — площадь Санто-Доминго</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.5 (4885 отз.)
+Просторная историческая площадь в старом городе с террасами кафе и аркой Санто-Доминго рядом. Сердце пешеходного центра, рейтинг 4.5 при ~4900 отзывов.
+
+📍 Santo Domingo Square
+Pl. de Santo Domingo, 5, 30008 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.129187,37.987186,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — замок Аталая</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.6 (3445 отз.)
+Главная достопримечательность Вильены: внушительный средневековый замок-кастель на холме с зубчатыми башнями. Самый фотогеничный объект коридора — силуэт на закате, виды на город. Рейтинг 4.6, 3445 отзывов.
+
+📍 Atalaya Castle
+Plaza de las Embajadas, s/n, 03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.861011,38.631745,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — Пасео-дель-Малекон</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.5 (3227 отз.)
+Старинная дамба-бульвар вдоль реки Сегура с видом на сады уэрты, любимое место прогулок. Рейтинг 4.5, более 3200 отзывов.
+
+📍 Paseo del Malecón
+C. Alcalde Gaspar de La Peña, 4, 30004 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.134837,37.982520,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Замок Каравака-де-ла-Крус</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.6 (2809 отз.)
+Средневековая крепость тамплиеров, окружающая базилику. Зубчатые стены и панорама долины — очень фотогенично. Рейтинг 4.6, 2809 отзывов.
+
+📍 Castle of Caravaca de la Cruz
+C. Cta. del Castillo, 31, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.859119,38.108169,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Базилика Веракрус — Каравака</name>
+      <styleUrl>#ph-santuario</styleUrl>
+      <description><![CDATA[⭐ 4.7 (1676 отз.)
+Барочная базилика-святилище на вершине холма, одна из 5 святых городов католичества. Виды на город, фотогеничный фасад. Рейтинг 4.7, 1676 отзывов.
+
+📍 BASILICA SHRINE OF VERA CRUZ
+C. Cta. del Castillo, 9, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.858685,38.107695,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мула — Фуэнте-Капута</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.5 (1056 отз.)
+Природный бирюзовый бассейн в скалистом ущелье у Мулы — живописное место для фото и купания. Рейтинг 4.5, более 1000 отзывов.
+
+📍 Poza de Fuente Caputa
+Parque natural Fuente Caputa, 30193 Mula, Murcia, Spain · Mula]]></description>
+      <Point><coordinates>-1.500633,38.079439,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Замок-крепость Мораталья</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.3 (1041 отз.)
+Доминирующая над белым городком крепость XV в. с массивной башней. Лучшая точка для панорамных кадров Мораталья. Рейтинг 4.3, 1041 отзыв.
+
+📍 Castillo-fortaleza de Moratalla
+C. Castillo, 2, 30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.894494,38.191332,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — Эль-Релохеро</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.7 (1025 отз.)
+Смотровая площадка на склоне Эль-Вальекассан с широкой панорамой Мурсии и долины Сегура. Рейтинг 4.7, более 1000 отзывов.
+
+📍 Mirador del Relojero
+30155 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.119107,37.913631,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Бланка — мирадор Альто-де-Байна</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.7 (935 отз.)
+Смотровая площадка над долиной Рикоте и излучиной Сегуры у городка Бланка — одна из самых фотогеничных панорам региона. Рейтинг 4.7, более 900 отзывов.
+
+📍 Mirador Alto de Bayna
+Diseminado Huerta Bayna, 4, 30540 Blanca, Murcia, Spain · Cieza]]></description>
+      <Point><coordinates>-1.365901,38.176100,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Темплете — павильон Каравака</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (927 отз.)
+Изящный барочный павильон XVIII в. у подножия замка, где омывают святой крест. Красивая каменная архитектура. Рейтинг 4.6, 927 отзывов.
+
+📍 Templete
+Pl. del Templete, 3, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.865211,38.104978,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — Креста-дель-Гальо</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.7 (813 отз.)
+Видовая точка на горном хребте к югу от Мурсии с панорамой города и долины — популярна у любителей фото на закате. Рейтинг 4.7, более 800 отзывов.
+
+📍 Mirador Cresta del Gallo
+30158 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.090847,37.943861,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Йекла — базилика Пурисима</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (757 отз.)
+Барочная базилика Непорочного Зачатия с голубым куполом — доминанта старого города Йеклы. Очень фотогеничный купол. Рейтинг 4.6, 757 отзывов.
+
+📍 Basílica de la Purísima Concepción
+Pl. de la Purísima, 1, 30510 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.115628,38.613342,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — замок Асомада</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.6 (689 отз.)
+Андалусская крепость XII века на холме над Мурсией, отличная видовая точка на город. Рейтинг 4.6, около 700 отзывов.
+
+📍 Castillo de la Asomada
+30155 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.151368,37.901286,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — монастырь Санта-Ана</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.7 (684 отз.)
+Францисканский монастырь Санта-Ана-дель-Монте в горах под Хумильей. Аркадные дворики, барочная церковь, тишина. Рейтинг 4.7, 684 отзыва.
+
+📍 Monasterio de Santa Ana del Monte
+Calle Sta. Ana, 0, 30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.317804,38.427733,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Бульяс — музей вина</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.5 (652 отз.)
+Музей вина в винодельческом городке Бульяс (DO Bullas) с дегустациями и историей местного виноделия. Рейтинг 4.5, более 650 отзывов.
+
+📍 Museo del vino
+Av. de Murcia, 75, 30180 Bullas, Murcia, Spain · Bullas]]></description>
+      <Point><coordinates>-1.664598,38.051002,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — замок</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.4 (578 отз.)
+Замок XV века на вершине холма над Хумильей с круглым донжоном. Господствует над городом и виноградниками — главный фотопоинт Хумильи. Рейтинг 4.4, 578 отзывов.
+
+📍 Castillo de Jumilla
+Cam. Castillo, 30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.333494,38.479569,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — винодельня Лусон</name>
+      <styleUrl>#ph-bodega</styleUrl>
+      <description><![CDATA[⭐ 4.6 (563 отз.)
+Крупная винодельня Хумильи (DO Jumilla, монастрель) среди виноградников. Современная архитектура и бочечные залы. Рейтинг 4.6, 563 отзыва.
+
+📍 Bodegas Luzón
+Carretera, RM-714, Km 3.1, 30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.340943,38.447168,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Ориуэла — собор</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.6 (531 отз.)
+Готический кафедральный собор XIV века в историческом центре Ориуэлы, национальный памятник. Рейтинг 4.6, более 500 отзывов.
+
+📍 Catedral de Orihuela
+C. Mayor de Ramón y Cajal, 13, 03300 Orihuela, Alicante, Spain · Orihuela]]></description>
+      <Point><coordinates>-0.946261,38.085748,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — церковь Сантьяго</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.7 (475 отз.)
+Готическая церковь Сантьяго с витыми колоннами в историческом центре Вильены. Эффектный интерьер и фасад. Рейтинг 4.7, 475 отзывов.
+
+📍 Iglesia Arciprestal de Santiago
+Pl. Santiago, 03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.863822,38.631367,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — археологический музей (Сокровище)</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (465 отз.)
+Музей с легендарным золотым Кладом Вильены (Tesoro de Villena), бронзовый век. Размещён в ренессансном дворце-ратуше. Рейтинг 4.6, 465 отзывов.
+
+📍 Museo Arqueológico Municipal de Villena
+C. Madrid, 1, 03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.866108,38.629805,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Ориуэла — церковь Санта-Хуста</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.6 (451 отз.)
+Готическо-ренессансная церковь с высокой башней в старом городе Ориуэлы, один из символов центра. Рейтинг 4.6, более 450 отзывов.
+
+📍 Church of the Santas Justa y Rufina, Orihuela
+C. Sta. Justa, 03300 Orihuela, Alicante, Spain · Orihuela]]></description>
+      <Point><coordinates>-0.949715,38.085304,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — Ла-Контрапарада</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.5 (402 отз.)
+Видовая точка у старинной плотины-распределителя воды XIII века на реке Сегура, начало системы каналов уэрты. Рейтинг 4.5, более 400 отзывов.
+
+📍 Mirador Panorámico de La Contraparada
+30831 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.219371,37.994387,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Водохранилище Сенахо — плотина</name>
+      <styleUrl>#ph-embalse</styleUrl>
+      <description><![CDATA[⭐ 4.5 (373 отз.)
+Крупное водохранилище Сенахо на реке Сегура под Мораталья, монументальная плотина и зеркало воды. Рейтинг 4.5, 373 отзыва.
+
+📍 Embalse del Cenajo. Cabecera de la Presa
+Carr. a el Cenajo, 30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.776054,38.365509,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — церковь Сантьяго</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (361 отз.)
+Готическо-ренессансная церковь Сантьяго в старом центре Хумильи у подножия замка. Каменный фасад и интерьер. Рейтинг 4.6, 361 отзыв.
+
+📍 Church of Santiago
+C. Santiago, 1, 30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.334495,38.476025,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Las Pozas — заводи Мораталья</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.6 (342 отз.)
+Природные заводи и пороги реки у Мораталья, бирюзовая вода среди скал. Рейтинг 4.6, 342 отзыва.
+
+📍 Las Pozas de Moratalla
+C. B, 30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.951063,38.210825,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Эстречо-де-Больвонегро</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.6 (330 отз.)
+Узкое скальное ущелье реки Альярабе с бирюзовой водой между Каравака и Мораталья. Очень фотогенично. Рейтинг 4.6, 330 отзывов.
+
+📍 Estrecho de Bolvonegro
+C. Río Alhárabe, 30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.834104,38.210545,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Кокс — замок</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.2 (306 отз.)
+Восстановленный средневековый замок на отроге Сьерра-де-Кальоса над городком Кокс, отличные виды на долину Вега-Баха. Рейтинг 4.2, более 300 отзывов.
+
+📍 Castillo de Cox
+C. Portichuelo, 03350 Cox, Alicante, Spain · Cox]]></description>
+      <Point><coordinates>-0.883082,38.137921,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мула — музей иберийского искусства</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.8 (302 отз.)
+Музей иберийской культуры во дворце XVIII века в центре Мулы, одна из лучших коллекций региона. Рейтинг 4.8.
+
+📍 Museo de Arte Ibérico El Cigarralejo
+C. Marqués, 1, 30170 Mula, Murcia, Spain · Mula]]></description>
+      <Point><coordinates>-1.490556,38.040278,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — этнографический музей</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (289 отз.)
+Этнографический музей в старинном доме на главной площади Хумильи. Колоритные интерьеры и улочки старого города вокруг. Рейтинг 4.6, 289 отзывов.
+
+📍 Museo Etnográfico Jerónimo Molina
+Pl. de la Constitución, 3, 30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.331499,38.474941,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Сьеса — каньон Альмаденес</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.5 (274 отз.)
+Глубокий речной каньон на Сегуре между Сьесой и Калашпаррой с пещерами и наскальной живописью, популярен для каякинга и фото. Рейтинг 4.5, около 270 отзывов.
+
+📍 Cañón de Almadenes
+30530 Cieza, Murcia, Spain · Cieza]]></description>
+      <Point><coordinates>-1.564150,38.237086,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — винодельня BSI</name>
+      <styleUrl>#ph-bodega</styleUrl>
+      <description><![CDATA[⭐ 4.7 (273 отз.)
+Историческая кооперативная винодельня Bodegas San Isidro в Хумилье. Большие бочечные залы — фактурно для съёмки. Рейтинг 4.7, 273 отзыва.
+
+📍 Bodegas BSI
+Ctra. Murcia, s/n, 30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.311223,38.469556,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Ориуэла — замок</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.4 (273 отз.)
+Руины мавританской крепости на горе Сан-Мигель над Ориуэлой, лучшая видовая точка на город и долину Сегура. Рейтинг 4.4.
+
+📍 Castillo de Orihuela
+03300 Orihuela, Alicante, Spain · Sierra de Orihuela]]></description>
+      <Point><coordinates>-0.946040,38.091005,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Лас-Виртудес — винодельня</name>
+      <styleUrl>#ph-bodega</styleUrl>
+      <description><![CDATA[⭐ 4.9 (268 отз.)
+Историческая винодельня (с 1962) рядом со святилищем Виртудес. Старые бочки и каменные постройки — фактурно для съёмки. Рейтинг 4.9, 268 отзывов.
+
+📍 Bodega Las Virtudes
+Ctra. Villena Yecla, 27, 03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.875946,38.635357,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Святилище Каса-де-Кристо</name>
+      <styleUrl>#ph-santuario</styleUrl>
+      <description><![CDATA[⭐ 4.5 (254 отз.)
+Горное святилище-эрмита с центром наскального искусства, окружено сьеррой. Уединённое фотогеничное место. Рейтинг 4.5, 254 отзыва.
+
+📍 Santuario Casa de Cristo
+Ctra. Campo de San Juan Casa de Cristo, km 6, Centro de Interpretación de Arte Rupestre, Lugar Ermita Santa An, 1, 30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.922980,38.178100,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Сьеса — мирадор Буэн-Сусесо</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.6 (244 отз.)
+Часовня и смотровая площадка на холме над Сьесой рядом с археологическим парком Сияса, вид на город и долину. Рейтинг 4.6.
+
+📍 Mirador Ermita De La Virgen Del Buen Suceso
+30009 Cieza, Murcia, Spain · Cieza]]></description>
+      <Point><coordinates>-1.427664,38.226446,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Йекла — винодельня Бараонда</name>
+      <styleUrl>#ph-bodega</styleUrl>
+      <description><![CDATA[⭐ 4.7 (237 отз.)
+Старейшая винодельня Йеклы (1925) среди виноградников по дороге на Пиносо. Винные залы и виды на лозы — фотогенично. Рейтинг 4.7, 237 отзывов.
+
+📍 Bodega Señorio de Barahonda
+Carretera Pinoso, Km 3, 30510, Carretera de Pinoso, Km 3, 30510 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.080768,38.586917,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Ориуэла — церковь Сантьяго</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.7 (235 отз.)
+Историческая приходская церковь с порталом в стиле изабеллино в центре Ориуэлы. Рейтинг 4.7.
+
+📍 Iglesia Parroquial de Santiago Apóstol
+Pl. Santiago, 2, 03300 Orihuela, Alicante, Spain · Orihuela]]></description>
+      <Point><coordinates>-0.950272,38.087673,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Йекла — замок-святилище Сан-Хосе</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.6 (191 отз.)
+Замок с святилищем над Йеклой — символ города, господствующая высота с видом на черепичные крыши. Главный фотопоинт Йеклы. Рейтинг 4.6, 191 отзыв.
+
+📍 Castle Sanctuary.
+30510 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.120575,38.609231,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мула — монастырь Энкарнасьон</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.4 (184 отз.)
+Действующий монастырь в историческом центре Мулы, часть старого города с узкими улочками. Рейтинг 4.4.
+
+📍 Real Monasterio de la Encarnacion
+C. de las Monjas, 54, 30170 Mula, Murcia, Spain · Mula]]></description>
+      <Point><coordinates>-1.495467,38.042055,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Монте-Араби — гора</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.7 (181 отз.)
+Культовая гора Монте-Араби над Йеклой: причудливые скальные формы, ветровые ниши, наскальное искусство. Топовая пейзажная и геологическая локация. Рейтинг 4.7, 181 отзыв.
+
+📍 Monte Arabí
+Monte Arabí, 30510, Murcia, Spain · Monte Arabí]]></description>
+      <Point><coordinates>-1.282500,38.697222,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Кальоса — Сьерра-де-Кальоса</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.6 (180 отз.)
+Скалистый горный массив над Кальоса-де-Сегура с тропами и панорамой долины Вега-Баха. Природная доминанта района, рейтинг 4.6.
+
+📍 Sierra de Callosa
+Alicante, Spain · Sierra de Callosa]]></description>
+      <Point><coordinates>-0.896821,38.123777,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор-де-лас-Ломас</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.5 (177 отз.)
+Популярная смотровая площадка у Каласпарра с видом на излучину реки и каньон. Рейтинг 4.5, 177 отзывов.
+
+📍 Mirador de las Lomas
+30420 Calasparra, Murcia, Spain · Calasparra]]></description>
+      <Point><coordinates>-1.705374,38.256581,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Йекла — винодельня Кастаньо</name>
+      <styleUrl>#ph-bodega</styleUrl>
+      <description><![CDATA[⭐ 4.6 (175 отз.)
+Известная семейная винодельня Йеклы (DO Yecla, сорт монастрель). Современные залы и бочки. Рейтинг 4.6, 175 отзывов.
+
+📍 BODEGAS CASTAÑO
+Av. Fuente Álamo, 3, 30510 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.129424,38.618209,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Сьеса — городище Сияса</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (170 отз.)
+Археологический памятник андалусского города Сияса с реконструированными мавританскими домами, на склоне над Сьесой. Рейтинг 4.6.
+
+📍 Yacimiento Arqueológico de Siyasa
+30530 Cieza, Murcia, Spain · Cieza]]></description>
+      <Point><coordinates>-1.422444,38.225659,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Монте-Араби — петроглифы Кантос-де-Висера</name>
+      <styleUrl>#ph-yacimiento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (146 отз.)
+Доисторические наскальные росписи (объект ЮНЕСКО) на склоне Монте-Араби. Скальные навесы с рисунками — уникальный кадр. Рейтинг 4.6, 146 отзывов.
+
+📍 Yacimiento Arqueológico de Cantos de Visera
+Calle España, 37, 30510 Yecla, Murcia, Spain · Monte Arabí]]></description>
+      <Point><coordinates>-1.278981,38.699671,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мурсия — святилище Фуэнсанта</name>
+      <styleUrl>#ph-santuario</styleUrl>
+      <description><![CDATA[⭐ 4.6 (135 отз.)
+Святилище покровительницы Мурсии в горах Сьерра-де-ла-Фуэнсанта со смотровой площадкой и видом на город. Рейтинг 4.6.
+
+📍 Mirador del Santuario de la Virgen de la Fuensanta
+Urbanizacion la Fuensanta, 15, 30157 Murcia, Spain · Murcia]]></description>
+      <Point><coordinates>-1.118214,37.938465,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — Чарко-дель-Сорро</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4 (107 отз.)
+Природный уголок Чарко-дель-Сорро у подножия замкового холма Хумильи: скалы и зелёная низина. Контрастный кадр с замком сверху. Рейтинг 4.0, 107 отзывов.
+
+📍 Charco del Zorro
+30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.336362,38.482260,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Водохранилище Камарильяс</name>
+      <styleUrl>#ph-embalse</styleUrl>
+      <description><![CDATA[⭐ 4.5 (96 отз.)
+Бирюзовое водохранилище среди скал севернее маршрута, спокойная гладь воды. Рейтинг 4.5, 96 отзывов.
+
+📍 Embalse de Camarillas
+Embalse de Camarillas, 02499, Albacete, Spain · Embalse de Camarillas]]></description>
+      <Point><coordinates>-1.634788,38.360531,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Сьеса — замок</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.4 (91 отз.)
+Руины средневекового замка над старым городищем Сьесы со смотровыми видами на долину Сегура. Рейтинг 4.4.
+
+📍 Castillo de Cieza
+30530 Cieza, Murcia, Spain · Cieza]]></description>
+      <Point><coordinates>-1.425218,38.226646,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Ориуэла — мирадор Пальмераль</name>
+      <styleUrl>#ph-other</styleUrl>
+      <description><![CDATA[⭐ 4.3 (89 отз.)
+Смотровая точка над историческим пальмовым лесом Ориуэлы (второй по величине в Европе) с видом на город. Рейтинг 4.3.
+
+📍 Mirador del Palmeral
+03300 Orihuela, Alicante, Spain · Orihuela]]></description>
+      <Point><coordinates>-0.946633,38.097010,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — замок Сальватьерра</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.5 (86 отз.)
+Руины горного замка Сальватьерра над Вильеной, дикий пейзаж и панорамные виды. Фотогеничные развалины на скале. Рейтинг 4.5, 86 отзывов.
+
+📍 Castillo de Salvatierra
+03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.854171,38.635351,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Массив Револькадорес</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.8 (72 отз.)
+Высочайший горный массив Мурсии (~2027 м) с альпийскими видами и сосняком. Кульминация сьерры, эпичная панорама. Рейтинг 4.8, 72 отзыва.
+
+📍 Macizo de Revolcadores
+Macizo de Revolcadores, 30440, Murcia, Spain · Sierra de Revolcadores]]></description>
+      <Point><coordinates>-2.265278,38.063333,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — городище Кабесо-Редондо</name>
+      <styleUrl>#ph-yacimiento</styleUrl>
+      <description><![CDATA[⭐ 4.7 (65 отз.)
+Поселение бронзового века на холме у Вильены, откуда происходит Клад. Раскопки с панорамным видом. Рейтинг 4.7, 65 отзывов.
+
+📍 Yacimiento Arqueológico Cabezo Redondo
+J4V5+8J, 03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.890937,38.643313,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Пещеры Маркеса</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.6 (65 отз.)
+Пещеры в скалах природного парка Фуэнтес-дель-Маркес, фотогеничные гроты у воды. Рейтинг 4.6.
+
+📍 Las Cuevas del Marqués
+Fuentes del Marqués, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.876511,38.103260,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Лас-Виртудес — святилище</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.8 (56 отз.)
+Барочное святилище Богоматери Добродетелей в сосновой роще под Вильеной. Аркады, дворик, тихая фотогеничная локация. Рейтинг 4.8, 56 отзывов.
+
+📍 Santuario de Ntra. Sra. de las Virtudes
+C. Santuario, 004, 03409 Las Virtudes, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.933334,38.625211,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Сьерра-Салинас — смотровая</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.8 (55 отз.)
+Смотровая в горах Сьерра-Салинас между Йеклой и Вильеной: сосновые склоны, дикий пейзаж, закатные виды. Рейтинг 4.8, 55 отзывов.
+
+📍 Mirador Sierra Salinas
+03657 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.025224,38.508018,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мула — замок Алькала</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.4 (53 отз.)
+Средневековый замок-крепость XVI века, нависающий над белым городком Мула. Эффектный силуэт на скале, рейтинг 4.4.
+
+📍 Castillo de Alcalá
+30193 Mula, Murcia, Spain · Mula]]></description>
+      <Point><coordinates>-1.438245,38.031088,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор Каса-Кристо</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.6 (52 отз.)
+Видовая площадка у святилища Каса-де-Кристо на горной дороге к Кампо-де-Сан-Хуан. Панорама сьерры. Рейтинг 4.6.
+
+📍 Mirador de la Casa Cristo
+Lugar Ermita Santa An, 1, 30440, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.922401,38.178480,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мула — мирадор Сигарралехо</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.6 (48 отз.)
+Смотровая точка у Мулы с видом на долину и археологический район иберов. Рейтинг 4.6.
+
+📍 Mirador el Cigarralejo
+Unnamed Road, 30193, 30193, Murcia, Spain · Mula]]></description>
+      <Point><coordinates>-1.470789,38.054618,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Башня тамплиеров — Фуэнтес-дель-Маркес</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (47 отз.)
+Историческая башня среди родников Фуэнтес-дель-Маркес, центр интерпретации природы. Фотогеничный кадр у воды. Рейтинг 4.6.
+
+📍 Torre de los Templarios | Centro de Interpretación de la Naturaleza
+Fuentes del Marqués, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.878947,38.102344,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — замок (территория)</name>
+      <styleUrl>#ph-castillo</styleUrl>
+      <description><![CDATA[⭐ 4.7 (44 отз.)
+Замковый комплекс Вильены, точка входа на территорию. Каменные стены и башни — фактурный материал для съёмки. Рейтинг 4.7, 44 отзыва.
+
+📍 Castillo de Villena
+03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.861208,38.631795,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Сьерра-Салинас — природный парк</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.7 (43 отз.)
+Охраняемый горный массив Сьерра-Салинас с сосняками и скалами между Йеклой и Вильеной. Тропы и панорамы для пейзажной съёмки. Рейтинг 4.7, 43 отзыва.
+
+📍 Espacio Natural Protegido Sierra de Salinas
+03657 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.024825,38.498299,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор водохранилища Альфонсо XIII</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.7 (43 отз.)
+Смотровая над водохранилищем Альфонсо XIII у Каласпарра, вид на голубое озеро в скалах. Рейтинг 4.7.
+
+📍 Mirador Embalse Alfonso XIII
+Ctra. Caravaca, 30420 Calasparra, Murcia, Spain · Calasparra]]></description>
+      <Point><coordinates>-1.615963,38.212714,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Дольмен Бахиль</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.5 (42 отз.)
+Доисторический мегалитический дольмен на плато сьерры под Заэн. Атмосферный исторический объект. Рейтинг 4.5.
+
+📍 Dolmen de Bajil
+30196 Moratalla, Murcia, Spain · Zaén]]></description>
+      <Point><coordinates>-2.072935,38.237401,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Ориуэла — семинария Сан-Мигель</name>
+      <styleUrl>#ph-monumento</styleUrl>
+      <description><![CDATA[⭐ 4.9 (31 отз.)
+Монументальная епархиальная семинария на склоне горы над Ориуэлой, доминирующий силуэт города. Рейтинг 4.9.
+
+📍 Centro Privado de Enseñanza Seminario Diocesano San Miguel
+Explanada, C. San Miguel, S/N, 03300 Orihuela, Alicante, Spain · Sierra de Orihuela]]></description>
+      <Point><coordinates>-0.947974,38.087837,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Кальоса — Пико-дель-Агила</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.8 (30 отз.)
+Вершина Сьерра-де-Кальоса (Орлиный пик) с круговой панорамой долины Сегура — цель пешего восхождения. Рейтинг 4.8.
+
+📍 Pico del Águila
+03360 Callosa de Segura, Alicante, Spain · Sierra de Callosa]]></description>
+      <Point><coordinates>-0.900467,38.121317,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор-де-Мораталья</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.7 (28 отз.)
+Смотровая площадка с видом на белоснежный исторический центр Мораталья, лепящийся по склону. Открыточный вид. Рейтинг 4.7.
+
+📍 Mirador de Moratalla
+30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.893512,38.188157,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Хумилья — городище Коимбра-дель-Барранко-Анчо</name>
+      <styleUrl>#ph-yacimiento</styleUrl>
+      <description><![CDATA[⭐ 4.6 (24 отз.)
+Иберское поселение и некрополь на склоне над Хумильей. Раскопки с панорамным видом на долину. Рейтинг 4.6, 24 отзыва.
+
+📍 Yacimiento Arqueológico de Coimbra del Barranco Ancho
+30520 Jumilla, Murcia, Spain · Jumilla]]></description>
+      <Point><coordinates>-1.327462,38.435346,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Кортихо Эль-Невасо-де-Абахо</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.4 (23 отз.)
+Старая горная усадьба-кортихо в сьерре между Мораталья и Кампо-де-Сан-Хуан, сельский колорит. Рейтинг 4.4.
+
+📍 Cortijo de El Nevazo de Abajo
+30400 Caravaca de la Cruz, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.904584,38.142805,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Зона отдыха Фуэнте-де-лос-Альмесес</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4.7 (22 отз.)
+Рекреационная зона у Эрмита-де-ла-Рогатива в горах Мораталья, тенистый родник в сосняке. Рейтинг 4.7.
+
+📍 Fuente de los Almeces Área Recreativa
+Ermita de la Rogativa, 30440 Moratalla, Murcia, Spain · Sierra de Moratalla]]></description>
+      <Point><coordinates>-2.226853,38.150366,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вильена — смотровая у замка</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.3 (21 отз.)
+Смотровая площадка у замка Аталая: панорама старого города и долины. Удобный кадр самого замка снизу. Рейтинг 4.3, 21 отзыв.
+
+📍 Mirador del Castillo de Villena
+C. Calvario, 03400 Villena, Alicante, Spain · Villena]]></description>
+      <Point><coordinates>-0.859592,38.633016,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор Пико-дель-Буитре</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.9 (19 отз.)
+Смотровая на вершине Пик Грифа в горах под Мораталья, широкие виды на сьерру. Рейтинг 4.9.
+
+📍 Mirador Pico del Buitre
+30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.904971,38.153154,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Плотина водохранилища Камарильяс</name>
+      <styleUrl>#ph-embalse</styleUrl>
+      <description><![CDATA[⭐ 4.7 (18 отз.)
+Плотина водохранилища Камарильяс на реке Мундо/Сегура, отражения скал в воде. Рейтинг 4.7.
+
+📍 Presa embalse de Camarillas
+Cam. Embalse de Camarillas, 02499, Albacete, Spain · Embalse de Camarillas]]></description>
+      <Point><coordinates>-1.649171,38.340037,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Йекла — главная смотровая</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.7 (13 отз.)
+Главная смотровая площадка Йеклы у замка: панорама города и винодельческой долины. Рейтинг 4.7, 13 отзывов.
+
+📍 Mirador principal de Yecla
+30510 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.120367,38.609416,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Исток реки Альярабе — Фуэнте-дель-Прадо</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 5 (9 отз.)
+Родник-исток реки Альярабе в горах Мораталья, чистая вода среди зелени. Фотогеничное укромное место. Рейтинг 5.0.
+
+📍 Fuente del Prado Nacimiento del rio Alhárabe
+30441 Moratalla, Murcia, Spain · El Sabinar]]></description>
+      <Point><coordinates>-2.150932,38.208673,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Йекла — смотровая Эль-Пеньон</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.3 (7 отз.)
+Скальная смотровая Санта-Барбара / Эль-Пеньон над Йеклой. Вид с высоты на город и замок. Рейтинг 4.3, 7 отзывов.
+
+📍 Mirador de Santa Bárbara o de El Peñón
+C. del Peñón, 21, 30510 Yecla, Murcia, Spain · Yecla]]></description>
+      <Point><coordinates>-1.122846,38.613464,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вековой каменный дуб</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 5 (7 отз.)
+Монументальный вековой дуб-энсина на плато сьерры под Заэн, эффектное одинокое дерево. Рейтинг 5.0.
+
+📍 Encina centenaria
+30196 Moratalla, Murcia, Spain · Zaén]]></description>
+      <Point><coordinates>-2.075117,38.228596,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор-дель-Викарио</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 4.8 (6 отз.)
+Смотровая площадка над старыми огородами Каравака с видом на замок и базилику. Рейтинг 4.8.
+
+📍 Mirador del Vicario
+Huertos del Vicario, 30400 Caravaca de la Cruz, Murcia, Spain · Caravaca de la Cruz]]></description>
+      <Point><coordinates>-1.862537,38.107419,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Вековая сабина Бахиль</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 4 (3 отз.)
+Древнее монументальное дерево-можжевельник в Бахиль, природный памятник сьерры. Рейтинг 4.0.
+
+📍 Sabina Centenaria de Bagil
+Moratalla, 30196, Murcia, Spain · Zaén]]></description>
+      <Point><coordinates>-2.073307,38.236419,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Лес сабины (можжевельника) Эль-Сабинар</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[⭐ 5 (2 отз.)
+Реликтовый можжевеловый лес (sabina albar) у Эль-Сабинар на высоте сьерры. Редкий древний бор, атмосферно для съёмки. Рейтинг 5.0.
+
+📍 Bosque de Sabina Albar
+30441 El Sabinar, Murcia, Spain · El Sabinar]]></description>
+      <Point><coordinates>-2.164525,38.196108,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Мирадор Барранко-Алудио</name>
+      <styleUrl>#ph-mirador</styleUrl>
+      <description><![CDATA[⭐ 5 (1 отз.)
+Видовая точка над ущельем у Мораталья, эффектный обрыв и горный пейзаж. Рейтинг 5.0.
+
+📍 Mirador del Barranco Aludio
+30440 Moratalla, Murcia, Spain · Moratalla]]></description>
+      <Point><coordinates>-1.897998,38.179364,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>📸 Калар-де-ла-Санта</name>
+      <styleUrl>#ph-naturaleza</styleUrl>
+      <description><![CDATA[Горное селение и известняковое плато (калар) в самой высокой сьерре Мурсии. Дикая природа, видовые точки.
+
+📍 Calar de la Santa
+30441 Calar de la Santa, Murcia, Spain · Calar de la Santa]]></description>
+      <Point><coordinates>-2.171735,38.179542,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,1749 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "distanceMeters": 116260,
+          "duration": "4906s",
+          "staticDuration": "4906s",
+          "polyline": {
+            "encodedPolyline": "oaihFzxpKxD`MvKb_@n@dCjGv]Dr@eAnd@OtC{@bMAhCCnC]`JI`BKp@sBxFcBdFcIdUqB~FMt@At@Fj@ZbErENnCItC]rXsEt@GvDK^FZTx@z@tPvSh@x@hCdG`AjBlAdB`GxGtFzFnA`A~@d@n@Lh@A~AOr@?tJp@jA`@lAt@pF|DbJ`IrF`GrApAr@XvAVdLbBlBXT@BiDJmA`D_QLc@t@eBbA{Aj@i@fAu@jAe@\\KxAOt@?zBRtB^RJvCb@tCh@b@DVAjB@nAKn@KpA_@tB_AlA}@tCcCtA_AbCmAnKyEdBi@`BQbAAvAJhPfBjA?hBOpAYnN{CpPeDbJiBpL_CnB_@dDa@fCSnBMjB]rCeAh@_@nC{Cl@a@|@e@`Bk@nFcAxBUb@@fD\\x@LxCpA^Fh@E|KoBh@?vEt@h@DvB[`Ce@|B{@|A{@hCuBnAi@jEmAxEkBxAw@nCqBfHqCr@e@bG{En@g@bAoA\\m@`LqUdAeCx@sDpHeZP_BdAcO|Hof@x@qEnC}J`E}NJs@p@yRP_CToBjBgNvEwUVs@`GsJr@{@ZS`A_@tCy@~@GlVIx@BbALdJ|@xDv@r@BdHMhCKtEw@hCm@`@Orb@kTf@a@zC_DjKiL`DeE|p@i}@zGmJ|@_Bb@gAt@oDV{@Pc@^i@~ByB`HkGvCeDfu@m`A~QcVhC}CzNqMfJ_I~@m@|@[~@OlBKd@BfARdA\\r@XxCtBpBnAXJf@HlAD`@GXQNMjAgBPERB|CrBtEfCXLt@HfABT_@fCiErBiDxA{BfAkBf@eAlAuBTQz@SfBIn@OpAo@nW_Ox@m@b@c@bCiDz[se@pGqJjHkKbGaJxDsFdFqHpEyFnFoGzAmBx@_BhBiFhDyIJG^[NKDUAGf@aAZc@|AkCXQTCJQAUKOSAQJS~@a@z@e@Oo@c@}AgBm@}@USeGkLmAyCoAcE_FwUmCuM{C_OqAaGg@uCe@{DMgDAcCTeKP{F^sH\\uIv@aVxAca@R_Ev@cJf@mEt@{FbBaOjAwJViB`@cERyEDuDAiFc@iZS{MIgIIeFq@mf@WcPEiBSoTw@ci@BUCeGIkAMw@o@mBu@kBaE_MYw@g@_A_@c@oC{Bm@{@o@qAo@aB}A_DmByCiAoAsAqAuA{@y@]wB_@iCGoCCyBBmA?cAOuI_CmGoBmN_Fm@[wAoAcGiG}AeBcFgFwJuKEMwFiGeXsYoAmAe@YcA[]IsBAoDLeACq@Q{@a@o@e@k@m@kQyUq@s@gBsAiAq@aBm@cB]cBWiCq@wAk@qAu@cB{AeAqAcA}AaAwBg@{A}@aEIk@w@gDiAkDmAwCy@_BqAuByAqBoBsByFaFyAcBc@i@mAuBa@{@gA}CqA}D_AsB]k@_E_GwAuCiAaD{@cDu@eDe@aCgAkHi@gFa@eGSkFEyG?gDB}BVaGf@{ILmE?iBI{CG{Ao@mGOiCC{CJcCL}ARyAZ_Bn@sBfEiJj@_B~@aDjAuEf@{AbA{BbDeGpAcDr@qB`@yAl@sC^cCVeCl@gJb@}Cv@mDrAsD|@eBrCgEv@qAdBgDRg@x@uCf@{B\\cBPqAh@qCj@mBb@kAz@gBhAaBfAkA|@u@p@c@|Aw@`EiBjBiArBaBhAoA`ByBpCmEtN}UfAwB~@aCl@uBZkAh@gDXqCJmBDsDE}AO_DY_Dg@{DYuEGiCAyBdBwe@P}CVaC`@cC|@cDdAmCR]xA}BjLmPnGiJt@oAzAsDz@sCd@qBPcAfAoJfBcOlGmh@|@uHrBoLpBuId@iCZuCTqDDwDKeLe@s`@EqHDcDNgD^eEfC}Rp@kEh@kCj@mBf@oAlAaClBmCpFqGlFcHvAeCl@sA`@iAbAmDj@{C`@sCdC_a@n@uI^yCv@_En@cCtAoExBmGxAuEv@iDfAaGbA{JRcDZ}JJeCReCl@wE\\iBr@wCn@uB|i@y_Bx@{C`@aC`@sDNqD@yCAmAOwCOqBs@aEcE}RcA_FkBuJc@uDSoCgBcl@UuJAsFJyHVkG`@_GbAmMHuBBuDIeDUmD[oCW{Aq@{Cy@sCcAgCgm@cqAgAqCw@eCs@aDg@iDY{CM{D_EevCeCufBMeLKsPBwPLuKJgF`@yHf@kFl@iEx@{Dh@uBt@{Bf@sAbE}Il@_Bx@oD^aC~@eJVgBReA|CqLv@oDp@cEj@{EToC^wF\\yCn@eDv@iCx@wBfAyBrCcF`A}Bv@}Bl@cCb@gCZuCLoBFcCAyBEkB[mE[oB}@_EkAsDu@kBwIaSgFmM{DeKeEqL}DyLyHaW_M{a@}D{MoI}X}B{Hm@qCk@wDUkCMkCAyF@iATiDb@oDd@}Bx@aDz@kCt@aB|@}AvB{D`AkBz@gCl@wBj@wCZyCLoBDgDCeDQqCe@uD{AcHe@uCe@oDSaDEwCF_DTwDd@cE~BmOpAuG|AyGzA_FbB_F|BoFdCaFfFoJfAkCdA}Cp@iCp@uD`@_DT_DHgBR}ITaE`@}Df@cDf@cCbAoDjAgDdA{BnBkDhA_BnB_C|BuBdCgBdCuApB{@|Bs@lCk@zBYzBOtIMxBMzC]|Cs@xBq@tCsAbAk@`D}BvBqBpBaCtB}CjAwB`AyB|H_TnDsIzEgKtDkHdF}IvEoH~HcL~AuCfAaC|@mCj@eCl@}DTwCFuB?gEi@q_@SoOO_J@iCHkCPcCd@mDt@eD`KuYhGaQxEyMhAwB`AwAzA}AfBoAhEcCzAgApAwAt@cAb@u@t@}Az@iCj@qCX_CLoCN}ERkC\\yBr@kCl@aBvBgE|IyP|FyJd@m@xAcBjAcAbCsA~D{Bp@g@dBaB|@sA~@wBdB_FlEwKb@gB`@gCFeAFmBCoCm@}GwAgOWiCCyBBuAFyBTgCd@{CpAmF`@aC`@kDJwAB{A?gBMmBWkBgAqEo@kC_@qBUeBMyBAgCDqB\\oDjC_S^wC~Ieo@j@mCxX{fA~D_P~K_a@p@mC`Ss{@b@aCTuB|@qNNkBVeBJk@zGmW^aB\\kBfMku@l@_Cb@qA|@kB~CaFh@_AbAeCVaAf@_CVkBLoBtAwc@zEy~ADkCEkE{@kb@EcEHuCN}BN{AViBdAgFt@gBx@}AxA}BpBaChAiApAiAfCmB~B{AhCsAjEwBZStD}AvCgBZUlBoBnAyAl@{@hAuBjB{ElAyEj@mDxBaOJEjAcHdAcHX_Ad@_Aj@q@pA_AfA}@j@y@Zo@ZmALwA?{ASaBUu@]{@u@_Au@k@w@[k@Kk@Cw@BaDn@gAJs@@gAMeBe@wB{@QDuC_BqK_FuJaEqQgHqDcBuDuB}@k@mEgDiD{CqCwCkCcDyAwBaDeF}CiGcA_CsAiDwBcHkAsEsAoG}@gGk@{Ee@{GYwHGuG@gFPiG`@kHn@eH|AgOhCqS`CmPzCiR|DsTb@qDT}CJyD@cCIsDOiCSwBg@iDs@kD}@_DiA{C{@iBgFyJ}AoD{@_Cm@eBgA{Dc@iBm@}Cs@iEm@kFa@mFQqEIsHGuHMeDSqCk@wEq@mD_@{ACa@}@{C}@aCoAiCwBgEW_AOgAC}@BaARqAZ_Af@w@jEkEn@s@tAiBjAiBlA_Ct@cB~@cC\\mA@OAIb@{AhAmF~C}R~@mE~@aDpAcD`BeDvAaC|CgE~BoCxB{BpCgCnEqD`GkET?hEqC^Qz@Mx@?bBVtAT^@`@MPWR[Jc@@k@Gi@S}@eDqHgA{BuFwKSw@Iy@@w@NaAlEkRdBsHFs@BgBCu@gCmSAk@d@_@Vi@@Ch@@jKbEd@N"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 38.2263203,
+              "longitude": -2.0572576
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 37.9893004,
+              "longitude": -1.1319957
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 3289,
+              "staticDuration": "196s",
+              "polyline": {
+                "encodedPolyline": "oaihFzxpKxD`MvKb_@n@dCjGv]Dr@eAnd@OtC{@bMAhCCnC]`JI`BKp@sBxFcBdFcIdUqB~FMt@At@Fj@ZbE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.2263203,
+                  "longitude": -2.0572576
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.225926699999995,
+                  "longitude": -2.0923993
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southwest on Ctra. de Zaen de Abajo a Zaen de Arriba"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "3.3 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 3605,
+              "staticDuration": "230s",
+              "polyline": {
+                "encodedPolyline": "a_ihFntwKrENnCItC]rXsEt@GvDK^FZTx@z@tPvSh@x@hCdG`AjBlAdB`GxGtFzFnA`A~@d@n@Lh@A~AOr@?tJp@jA`@lAt@pF|DbJ`IrF`GrApAr@XvAVdLbBlBXT@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.225926699999995,
+                  "longitude": -2.0923993
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.197904099999995,
+                  "longitude": -2.1065519000000004
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "3.6 km"
+                },
+                "staticDuration": {
+                  "text": "4 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 22468,
+              "staticDuration": "1106s",
+              "polyline": {
+                "encodedPolyline": "{ochF|lzKBiDJmA`D_QLc@t@eBbA{Aj@i@fAu@jAe@\\KxAOt@?zBRtB^RJvCb@tCh@b@DVAjB@nAKn@KpA_@tB_AlA}@tCcCtA_AbCmAnKyEdBi@`BQbAAvAJhPfBjA?hBOpAYnN{CpPeDbJiBpL_CnB_@dDa@fCSnBMjB]rCeAh@_@nC{Cl@a@|@e@`Bk@nFcAxBUb@@fD\\x@LxCpA^Fh@E|KoBh@?vEt@h@DvB[`Ce@|B{@|A{@hCuBnAi@jEmAxEkBxAw@nCqBfHqCr@e@bG{En@g@bAoA\\m@`LqUdAeCx@sDpHeZP_BdAcO|Hof@x@qEnC}J`E}NJs@p@yRP_CToBjBgNvEwUVs@`GsJr@{@ZS`A_@tCy@~@GlVIx@BbALdJ|@xDv@r@BdHMhCKtEw@hCm@`@Orb@kTf@a@zC_DjKiL`DeE|p@i}@zGmJ|@_Bb@gAt@oDV{@Pc@^i@~ByB`HkGvCeDfu@m`A~QcVhC}CzNqMfJ_I~@m@|@[~@OlBKd@BfARdA\\r@XxCtBpBnAXJf@HlAD`@GXQNMjAgBPERB|CrBtEfCXLt@HfABT_@fCiErBiDxA{BfAkBf@eAlAuBTQz@SfBIn@OpAo@nW_Ox@m@b@c@bCiDz[se@pGqJjHkKbGaJxDsFdFqHpEyFnFoGzAmBx@_BhBiFhDyIJG^[NKDUAGf@aAZc@|AkCXQ"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.197904099999995,
+                  "longitude": -2.1065519000000004
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.046797399999996,
+                  "longitude": -1.9750091
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto MU-702"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "22.5 km"
+                },
+                "staticDuration": {
+                  "text": "18 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 129,
+              "staticDuration": "16s",
+              "polyline": {
+                "encodedPolyline": "o_fgFxv`KTCJQAUKOSAQJS~@a@z@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.046797399999996,
+                  "longitude": -1.9750091
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.0471619,
+                  "longitude": -1.9753779
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, take the 3rd exit and stay on MU-702"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 12180,
+              "staticDuration": "549s",
+              "polyline": {
+                "encodedPolyline": "wafgFby`Ke@Oo@c@}AgBm@}@USeGkLmAyCoAcE_FwUmCuM{C_OqAaGg@uCe@{DMgDAcCTeKP{F^sH\\uIv@aVxAca@R_Ev@cJf@mEt@{FbBaOjAwJViB`@cERyEDuDAiFc@iZS{MIgIIeFq@mf@WcPEiBSoTw@ci@BUCeGIkAMw@o@mBu@kBaE_MYw@g@_A_@c@oC{Bm@{@o@qAo@aB}A_DmByCiAoAsAqAuA{@y@]wB_@iCGoCCyBBmA?cAOuI_CmGoBmN_Fm@[wAoAcGiG}AeBcFgFwJuKEMwFiGeXsYoAmAe@YcA[]IsBAoDLeACq@Q{@a@o@e@k@m@kQyUq@s@gBsAiAq@aBm@cB]cBWiCq@wAk@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.0471619,
+                  "longitude": -1.9753779
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.088060299999995,
+                  "longitude": -1.8666262999999996
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Turn right to merge onto RM-730 toward Caravaca de la Cruz"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "12.2 km"
+                },
+                "staticDuration": {
+                  "text": "9 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 59824,
+              "staticDuration": "1973s",
+              "polyline": {
+                "encodedPolyline": "kangFlqkJqAu@cB{AeAqAcA}AaAwBg@{A}@aEIk@w@gDiAkDmAwCy@_BqAuByAqBoBsByFaFyAcBc@i@mAuBa@{@gA}CqA}D_AsB]k@_E_GwAuCiAaD{@cDu@eDe@aCgAkHi@gFa@eGSkFEyG?gDB}BVaGf@{ILmE?iBI{CG{Ao@mGOiCC{CJcCL}ARyAZ_Bn@sBfEiJj@_B~@aDjAuEf@{AbA{BbDeGpAcDr@qB`@yAl@sC^cCVeCl@gJb@}Cv@mDrAsD|@eBrCgEv@qAdBgDRg@x@uCf@{B\\cBPqAh@qCj@mBb@kAz@gBhAaBfAkA|@u@p@c@|Aw@`EiBjBiArBaBhAoA`ByBpCmEtN}UfAwB~@aCl@uBZkAh@gDXqCJmBDsDE}AO_DY_Dg@{DYuEGiCAyBdBwe@P}CVaC`@cC|@cDdAmCR]xA}BjLmPnGiJt@oAzAsDz@sCd@qBPcAfAoJfBcOlGmh@|@uHrBoLpBuId@iCZuCTqDDwDKeLe@s`@EqHDcDNgD^eEfC}Rp@kEh@kCj@mBf@oAlAaClBmCpFqGlFcHvAeCl@sA`@iAbAmDj@{C`@sCdC_a@n@uI^yCv@_En@cCtAoExBmGxAuEv@iDfAaGbA{JRcDZ}JJeCReCl@wE\\iBr@wCn@uB|i@y_Bx@{C`@aC`@sDNqD@yCAmAOwCOqBs@aEcE}RcA_FkBuJc@uDSoCgBcl@UuJAsFJyHVkG`@_GbAmMHuBBuDIeDUmD[oCW{Aq@{Cy@sCcAgCgm@cqAgAqCw@eCs@aDg@iDY{CM{D_EevCeCufBMeLKsPBwPLuKJgF`@yHf@kFl@iEx@{Dh@uBt@{Bf@sAbE}Il@_Bx@oD^aC~@eJVgBReA|CqLv@oDp@cEj@{EToC^wF\\yCn@eDv@iCx@wBfAyBrCcF`A}Bv@}Bl@cCb@gCZuCLoBFcCAyBEkB[mE[oB}@_EkAsDu@kBwIaSgFmM{DeKeEqL}DyLyHaW_M{a@}D{MoI}X}B{Hm@qCk@wDUkCMkCAyF@iATiDb@oDd@}Bx@aDz@kCt@aB|@}AvB{D`AkBz@gCl@wBj@wCZyCLoBDgDCeDQqCe@uD{AcHe@uCe@oDSaDEwCF_DTwDd@cE~BmOpAuG|AyGzA_FbB_F|BoFdCaFfFoJfAkCdA}Cp@iCp@uD`@_DT_DHgBR}ITaE`@}Df@cDf@cCbAoDjAgDdA{BnBkDhA_BnB_C|BuBdCgBdCuApB{@|Bs@lCk@zBYzBOtIMxBMzC]|Cs@xBq@tCsAbAk@`D}BvBqBpBaCtB}CjAwB`AyB|H_TnDsIzEgKtDkHdF}IvEoH~HcL~AuCfAaC|@mCj@eCl@}DTwCFuB?gEi@q_@SoOO_J@iCHkCPcCd@mDt@eD`KuYhGaQxEyMhAwB`AwAzA}AfBoAhEcCzAgApAwAt@cAb@u@t@}Az@iCj@qCX_CLoCN}ERkC\\yBr@kCl@aBvBgE|IyP|FyJd@m@xAcBjAcAbCsA~D{Bp@g@dBaB|@sA~@wBdB_FlEwKb@gB`@gCFeAFmBCoCm@}GwAgOWiCCyBBuAFyBTgCd@{CpAmF`@aC`@kDJwAB{A?gBMmBWkBgAqEo@kC_@qBUeBMyBAgCDqB\\oDjC_S^wC~Ieo@j@mCxX{fA~D_P~K_a@p@mC`Ss{@b@aCTuB|@qNNkBVeBJk@zGmW^aB\\kBfMku@l@_Cb@qA|@kB~CaFh@_AbAeCVaAf@_CVkBLoBtAwc@zEy~ADkCEkE{@kb@EcEHuCN}BN{AViBdAgFt@gBx@}AxA}BpBaChAiApAiAfCmB~B{AhCsAjEwBZS"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.088060299999995,
+                  "longitude": -1.8666262999999996
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9868379,
+                  "longitude": -1.2603408999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Autovía del Noroeste-Río Mula/RM-15 (signs for Cehegín/Murcia)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "59.8 km"
+                },
+                "staticDuration": {
+                  "text": "33 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 998,
+              "staticDuration": "37s",
+              "polyline": {
+                "encodedPolyline": "whzfFbduFtD}AvCgBZUlBoBnAyAl@{@hAuBjB{ElAyEj@mDxBaO"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9868379,
+                  "longitude": -1.2603408999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9817241,
+                  "longitude": -1.2517103000000003
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "MERGE",
+                "instructions": "Merge onto A-30"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.0 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 429,
+              "staticDuration": "19s",
+              "polyline": {
+                "encodedPolyline": "whyfFdnsFJEjAcHdAcHX_Ad@_Aj@q@pA_A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9817241,
+                  "longitude": -1.2517103000000003
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.979978599999995,
+                  "longitude": -1.2475456
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take the A-7 exit toward E-15/Almeria/Granada"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 8395,
+              "staticDuration": "315s",
+              "polyline": {
+                "encodedPolyline": "{}xfFdtrFfA}@j@y@Zo@ZmALwA?{ASaBUu@]{@u@_Au@k@w@[k@Kk@Cw@BaDn@gAJs@@gAMeBe@wB{@QDuC_BqK_FuJaEqQgHqDcBuDuB}@k@mEgDiD{CqCwCkCcDyAwBaDeF}CiGcA_CsAiDwBcHkAsEsAoG}@gGk@{Ee@{GYwHGuG@gFPiG`@kHn@eH|AgOhCqS`CmPzCiR|DsTb@qDT}CJyD@cCIsDOiCSwBg@iDs@kD}@_DiA{C{@iBgFyJ}AoD{@_Cm@eBgA{Dc@iBm@}Cs@iEm@kFa@mFQqEIsHGuHMeDSqCk@wEq@mD_@{A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.979978599999995,
+                  "longitude": -1.2475456
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.003890999999996,
+                  "longitude": -1.1719579
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Take the ramp onto E-15/A-7"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "8.4 km"
+                },
+                "staticDuration": {
+                  "text": "5 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 1117,
+              "staticDuration": "54s",
+              "polyline": {
+                "encodedPolyline": "is}fFv{cFCa@}@{C}@aCoAiCwBgEW_AOgAC}@BaARqAZ_Af@w@jEkEn@s@tAiBjAiBlA_Ct@cB~@cC\\mA@OAI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.003890999999996,
+                  "longitude": -1.1719579
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.0020903,
+                  "longitude": -1.161683
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Take exit 570 for A-30 toward Murcia/Cartagena"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 1594,
+              "staticDuration": "65s",
+              "polyline": {
+                "encodedPolyline": "ah}fFn{aFb@{AhAmF~C}R~@mE~@aDpAcD`BeDvAaC|CgE~BoCxB{BpCgCnEqD`GkE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.0020903,
+                  "longitude": -1.161683
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.993655499999996,
+                  "longitude": -1.1477697
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "MERGE",
+                "instructions": "Merge onto MU-33"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.6 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 649,
+              "staticDuration": "45s",
+              "polyline": {
+                "encodedPolyline": "ks{fFpd_FT?hEqC^Qz@Mx@?bBVtAT^@`@MPWR[Jc@@k@Gi@S}@eDqH"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.993655499999996,
+                  "longitude": -1.1477697
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9912388,
+                  "longitude": -1.1443360999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 3 for Ronda Norte toward Murcia (Centro)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.6 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 1251,
+              "staticDuration": "206s",
+              "polyline": {
+                "encodedPolyline": "gd{fFbo~EgA{BuFwKSw@Iy@@w@NaAlEkRdBsHFs@BgBCu@gCmSAk@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9912388,
+                  "longitude": -1.1443360999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.991998599999995,
+                  "longitude": -1.1313157999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto N-340"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.3 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 332,
+              "staticDuration": "95s",
+              "polyline": {
+                "encodedPolyline": "_i{fFv}{Ed@_@Vi@@Ch@@jKbEd@N"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.991998599999995,
+                  "longitude": -1.1313157999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9893004,
+                  "longitude": -1.1319957
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, take the 1st exit onto Av. de la Constitución"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "116 km"
+            },
+            "duration": {
+              "text": "1 hour 22 mins"
+            },
+            "staticDuration": {
+              "text": "1 hour 22 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 38090,
+          "duration": "1751s",
+          "staticDuration": "1751s",
+          "polyline": {
+            "encodedPolyline": "cxzfF~a|Ep@XjDHdJCfHs@pGg@n@Dh@C?`AUjCGRQvBGlB@bCJ~BRxCd@bE^fCT`An@tB@NLhAGv@Q`@mAjAuBjBqCnBYb@eRnKuKrGyEvCoL|HqJzG{GlF}EpEmCzCgDjEeAxAmAxBwBzE}@nCaAzDoApGmBbMw@~Dw@|CgA`Da@bAaAvB{AlCi@z@yBpC{BzB}BlBmDpBmEdBgE~@cBT{CNsCBsBAgES}Da@iDk@g@MiEoAcKqDeCo@kFo@qFe@eI}@eGk@_BG{Gs@e@OaCkAaAa@s@q@s@o@aAmAcAkBm@yAi@mBsDoQ_AmDoA}D}AyD_AsBo@mAiAkBgB_DwD}FkBmCgGkJeAuA_DuEwLyQkG_KaEmH}D_I}BiFaCoG{AoE{BwHoDcNkD}MiBcG}BiGyNw]iAeCeBeDcBcCgBuBkCeCoCiBkCuAcEyAkEuAmCgAsAs@}BuA_BqAwBuBoBcCuBcDiCmFcAsBmCkEgB}BgBiBiAeAoF}DsA}@k@c@gCkCeAsAmAoBgAwBaAeCy@uCg@{B{AoIy@cDa@oAo@aBw@cBqA{Bw@iA}AmBaB}A{@q@_CwAuCsAsCeAmBw@uBoAuAcAaA}@oByBoAkBu@oAcAwBqD{IyCmGcE{HeFwI_DaFkD_FmDyEyFeHcGyGsEyE}KeKiCoCeC{CuCcEsAuBgDmGoBkE_BgEiAgDeAoDqAsFmAmGk@wDs@cG[qDa@cHGoBQiKK_Da@gHa@eEy@}FmC{NiDoPiCeL{CaMeE{OgE{NeE{M}BsGoCuGwCgGaDaG{CaFsDmF{BuCwDoEsGaHgByB}AaCyAuCoAyCcAcD{@iDkB}JyAcJ_BgLwBmQqAyI{BmMqBqJkCaL{AsFwC_KsBoGaAkDeA{EcAcGo@cFe@uFQgDOkEEyE?iCX{QDgLEqMUmL]kKg@eJk@iGw@yFcAmFeAkEuAqEcBqEqG_O}C_IoDaK_GcReDmJ}CaI{DaJmEgJuGgMeDcHiCkGiE_L}BmFqBcE}DeHwD_G{DoFuEwFuE}EkFiFmDyDuDwEiD{EkCeEaEmHsC}FyDaIsCiFkE{G{@oAiJwLsAwBuAuCoAgDeAsDi@qCa@sCa@mEMyDAmDJmDTqD|A_NTaDF{AFaDCeEKcDc@eGk@wEm@yD_AuEkAoEwAkEwAoDgBsDkGsLqEiJkCcG}CwHyAaEGa@yAmEMq@Iw@@iAPuAj@yBNo@PU`@O`@?j@TPRVFXGBCx@LbANL?fRvBhCXRHrD^T@fN{CfMkCdGkAAI"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 37.9893004,
+              "longitude": -1.1319957
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 38.145983,
+              "longitude": -0.8890659999999999
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 30,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "cxzfF~a|Ep@X"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9893004,
+                  "longitude": -1.1319957
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9890536,
+                  "longitude": -1.1321326999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southwest on Av. de la Constitución/Pl. de la Fuensanta toward Pl. Aurora"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "30 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 615,
+              "staticDuration": "152s",
+              "polyline": {
+                "encodedPolyline": "qvzfFxb|EjDHdJCfHs@pGg@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9890536,
+                  "longitude": -1.1321326999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9835484,
+                  "longitude": -1.1317015
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Av. de la Constitución/Pl. de la Fuensanta turns slightly left and becomes Gran Vía del Escultor Francisco Salzillo"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.6 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 51,
+              "staticDuration": "14s",
+              "polyline": {
+                "encodedPolyline": "etyfFb`|En@Dh@C"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9835484,
+                  "longitude": -1.1317015
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9830951,
+                  "longitude": -1.1317125
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Pl. Martínez Tornel"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "51 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 155,
+              "staticDuration": "37s",
+              "polyline": {
+                "encodedPolyline": "kqyfFd`|E?`AUjCGRQvB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9830951,
+                  "longitude": -1.1317125
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9833364,
+                  "longitude": -1.1334378999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto C. Plano de San Francisco"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 320,
+              "staticDuration": "57s",
+              "polyline": {
+                "encodedPolyline": "{ryfF~j|EGlB@bCJ~BRxCd@bE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9833364,
+                  "longitude": -1.1334378999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.983024199999996,
+                  "longitude": -1.1370417
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto C/ Plano de San Francisco"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 152,
+              "staticDuration": "21s",
+              "polyline": {
+                "encodedPolyline": "{pyfFna}E^fCT`An@tB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.983024199999996,
+                  "longitude": -1.1370417
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.9825051,
+                  "longitude": -1.1386353999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Keep left to continue on C. de Juan de la Cierv/C. Muralla"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 138,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "umyfFnk}E@NLhAGv@Q`@mAjA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.9825051,
+                  "longitude": -1.1386353999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 37.982951899999996,
+                  "longitude": -1.1399154999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_RIGHT",
+                "instructions": "Slight right onto C. Muralla"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 4512,
+              "staticDuration": "197s",
+              "polyline": {
+                "encodedPolyline": "mpyfFns}EuBjBqCnBYb@eRnKuKrGyEvCoL|HqJzG{GlF}EpEmCzCgDjEeAxAmAxBwBzE}@nCaAzDoApGmBbMw@~Dw@|CgA`Da@bAaAvB{AlCi@z@yBpC{BzB}BlBmDpBmEdBgE~@cBT{CNsCBsBAgES}Da@iDk@g@M"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 37.982951899999996,
+                  "longitude": -1.1399154999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.0140576,
+                  "longitude": -1.1672934
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Take the ramp onto MU-33"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "4.5 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 30349,
+              "staticDuration": "1060s",
+              "polyline": {
+                "encodedPolyline": "{r_gFp~bFiEoAcKqDeCo@kFo@qFe@eI}@eGk@_BG{Gs@e@OaCkAaAa@s@q@s@o@aAmAcAkBm@yAi@mBsDoQ_AmDoA}D}AyD_AsBo@mAiAkBgB_DwD}FkBmCgGkJeAuA_DuEwLyQkG_KaEmH}D_I}BiFaCoG{AoE{BwHoDcNkD}MiBcG}BiGyNw]iAeCeBeDcBcCgBuBkCeCoCiBkCuAcEyAkEuAmCgAsAs@}BuA_BqAwBuBoBcCuBcDiCmFcAsBmCkEgB}BgBiBiAeAoF}DsA}@k@c@gCkCeAsAmAoBgAwBaAeCy@uCg@{B{AoIy@cDa@oAo@aBw@cBqA{Bw@iA}AmBaB}A{@q@_CwAuCsAsCeAmBw@uBoAuAcAaA}@oByBoAkBu@oAcAwBqD{IyCmGcE{HeFwI_DaFkD_FmDyEyFeHcGyGsEyE}KeKiCoCeC{CuCcEsAuBgDmGoBkE_BgEiAgDeAoDqAsFmAmGk@wDs@cG[qDa@cHGoBQiKK_Da@gHa@eEy@}FmC{NiDoPiCeL{CaMeE{OgE{NeE{M}BsGoCuGwCgGaDaG{CaFsDmF{BuCwDoEsGaHgByB}AaCyAuCoAyCcAcD{@iDkB}JyAcJ_BgLwBmQqAyI{BmMqBqJkCaL{AsFwC_KsBoGaAkDeA{EcAcGo@cFe@uFQgDOkEEyE?iCX{QDgLEqMUmL]kKg@eJk@iGw@yFcAmFeAkEuAqEcBqEqG_O}C_IoDaK_GcReDmJ}CaI{DaJmEgJuGgMeDcHiCkGiE_L}BmFqBcE}DeHwD_G{DoFuEwFuE}EkFiFmDyDuDwEiD{EkCeEaEmHsC}FyDaIsCiFkE{G{@oAiJwLsAwBuAuCoAgDeAsDi@qCa@sCa@mEMyDAmDJmDTqD|A_NTaDF{AFaDCeEKcDc@eGk@wEm@yD_AuEkAoEwAkEwAoDgBsDkGsLqEiJkCcG}CwHyAaE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.0140576,
+                  "longitude": -1.1672934
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.1583849,
+                  "longitude": -0.8932578
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto A-7"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "30.3 km"
+                },
+                "staticDuration": {
+                  "text": "18 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 399,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "{x{gFzmmDGa@yAmEMq@Iw@@iAPuAj@yBNo@PU`@O`@?j@T"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.1583849,
+                  "longitude": -0.8932578
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.157942399999996,
+                  "longitude": -0.8897974999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 538 for CV-900 toward Granja/Cox/Callosa"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 954,
+              "staticDuration": "106s",
+              "polyline": {
+                "encodedPolyline": "cv{gFfxlDPRVFXGBCx@LbANL?fRvBhCXRHrD^T@fN{C"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.157942399999996,
+                  "longitude": -0.8897974999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.1495581,
+                  "longitude": -0.8902021999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, take the 2nd exit onto Av. Juan Carlos I"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.0 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 410,
+              "staticDuration": "50s",
+              "polyline": {
+                "encodedPolyline": "wazgFvzlDfMkCdGkA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.1495581,
+                  "longitude": -0.8902021999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.145972199999996,
+                  "longitude": -0.8891176
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Av. Carmen"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 5,
+              "staticDuration": "7s",
+              "polyline": {
+                "encodedPolyline": "ikygF~slDAI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.145972199999996,
+                  "longitude": -0.8891176
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.145983,
+                  "longitude": -0.8890659999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "5 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "38.1 km"
+            },
+            "duration": {
+              "text": "29 mins"
+            },
+            "staticDuration": {
+              "text": "29 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 148422,
+          "duration": "5852s",
+          "staticDuration": "5852s",
+          "polyline": {
+            "encodedPolyline": "kkygFtslD@HySdEs@PgNzC{@EmC[SIoI_AaLqAg@Su@c@WWC_@MYWKY@UPGLk@JiC?aAW}@a@{@u@cAmAm@kAo@kB{BuJ]wAQ]_EeRaCwJmCqJ_DuJcDiJgDmIgD}HoGmMsD}GcDqF}EsHgEaGsEaGaIeJ{FcGqHiH{CeDkDaEcDkEe@u@sFeIgEsFwDkEyEyEcEqD_KyH}EkEmCmCaEuEqE{FuCeEuDgGuCqFwGoNiB_DqAiB}AgB_B_B{BgBsCeB{GmDmHeE_DuAcDaAiJ{B{DoA{DaBmDgBwCeBuBwAsEsD_E{D}BkCgFsGwEqGsCeEaFgImEeIyCaGcF}KqCeHaD_J_BwE_DkK{@_DSkAaBwGuBuJqBgKq@mCy@mC_B_EwDkIsBmFoAsDoC_KgAuC[u@gB_Dm@aAqBeCw@y@cA{@_C_B{Aw@sG}CgEgCgD_CuD_DgDgDyBeCgCeDeFuHyAiByB{BcDgCaFqDs@o@yAeBw@qA}@qBg@uAa@mA_C}Iu@wBwA{CmDeGgFuH{DeFwDiE}FeG}CuDuCeEuA{BcDiGgBoC}AmBoAqAcGiFsAyAuAoBgAuBsDqIgB}Cm@y@sByBqB_BmAy@iAm@gBw@sBm@{Ca@sF}@gASuBs@}Aq@sBkA}DwC{AuAoB{BgA_BmEeHkBqCuBcC{AuAiCoB{BqAwAs@_DqA{Bw@_CoAgDaCyBkBSUcDkBeEiBiDmAoAi@oAo@{BeB_Ai@]YuB_CiBmC}@_BoAwCo@wBaAaE]wB]cDa@kGWcC[gCk@uCy@_DwC}Je@sBe@qCa@}DMwB]iJe@{He@yEq@{F}@eFw@uCeAqC{@oBgBuCmCaE{@aBu@iBq@eCY_BUsBK_C?iE@_FCcAQ}CYkCWwAi@uBa@qAo@_BgDsGyAoD{@wCW{A]sCSkDWqGMmB[_Dw@iE{AyGe@iCg@cEOsBGsBCmBJuHD}CEcDUeE_@gDg@uC{CqL{AcHkDwPiCqOOi@mC{PgDoVsAuLkBqQuAePcA{M[mFIeCAiEJcDbA_MPmEDqAAwEGuCSeDYqCu@}EqAiHYsCIkCBcCX{ERcE@yBEqBOkB]iCg@{BkBoGg@}B_@sCQwCCwBDyB`@{HHgCA{CScD]qCi@sCuBcJ_AaFy@_Gk@_G[yEe@iLa@qFq@gGw@}Ei@wCk@kCaAkDwAoEeDuIcBkFiAcEiAcF_AeFm@kEo@_H[eFS}FGsFBaHPoFJuCBqAXsDd@sEbA_Hj@yCrBqJnAgHfAoHn@sFd@mF\\kHL_ED_HE_EUyHa@oGk@qFaAkGkAeFaCkJoAkGcAcH_AaF_AkDiAcDaBiDaBkCqBgCmBkBuBaBkIgFwBaBkCkCsHmIoCoCyDaDyDmCoDsBoDeBmDwA{DoAgEeAsEy@}NeByDs@}Bm@{CgA_D{AeDqBuC{BiBeBkCwCmBmCwBqDsAkCuF}L_CiEmBwCkCiDyCaDiAcAqAaAiE}CqEmCgCmAcEcBsDiA{Ck@gD_@oF_@oCc@oBe@uBy@_DgBcDyBuAy@uBgAiMcFqLoE{Cy@uCe@mCS_JWyBQqCe@oCs@uBy@wBgAsCoBo@g@mFmFqCuCeCwB_C{AqAs@_MeF_Ai@qBsAcCsBiBkBaByBuAuBcDiFsBsC}CmDmEyEwAwB_BgCiA}BkAyCa@iA_AeDuAaGaAqFa@uCk@eGWkEMeF?qHHsCPeD@_Av@eMTsG@cEEiDOiDe@cFi@wDu@kDy@uCgAaDcA}B{AqCmFcIsAkC{@oBw@gCo@mCe@oCW}BSwCEiACeGRiEn@_IHkB@aCIkBQoBaAyHM{BCqBB_CRcCViB`@kBl@kBnTok@`AeDr@gDb@_DZyDH}CAeEKsDWoCq@iEi@_Cs@gCsAwDwBgFiCyE_CmDk@s@iBuBuCaCsA{@kBaAi_@}PoGeCqEuAeFsAcJgBa^yFeCe@}@W{Ak@yAq@eBgAsAcAmAkAmC_DgAcBmAgCcAeCoEwM{AeEiBiEeC_EiA{AaAgA{DqDoCcCoAqA}CwDoAcB{@wAaAqBwFaN}AuCaBiCyOsSkFkGwEqFwD_FmBcDeJaQ_BkCeBiCsBiCmBsB_DuCeCkB{GgE_GsDqDkC_DmCgFuF{AiBuC_EmB_D}AmCeDyGiCmFmCgF}C}FwEoIsFoKqDcIwDcKg@uA{A{E_DcLmFoSw@kCmAkDuBqFgBwDiBmDkAqBcA{AoHcMuCqFMEoBmFgBqFg@eBgDuMqAkEsA{DkBsEqAkCiDgGmDiGiByD_A{ByAgEyAqF}@qEs@_FqAoKc@uCa@mB}@_DoAeD_AkByA_CaBuB{@}@uBgBeFuDsAiAaBeBoBgCwAkCeA_C}@qCw@cDaBkIs@wCuAiEgCcHu@gCcCoKi@iBeAqCqAqC}H{NsC_GiBqEaByEyAaFqAuFiA{FwBgLeAaE}@kCeAgC}A{CgBuCgCaEcAqBaAgCeAuDyB{Ky@{CcAsCeAyBoAyBc@o@kByBwHsHqCiDu@gA}AiCi@cAiAeCaBiEgAqDy@{Du@yEc@qDUuDOmEQsMS}E_@yDk@yDUqAy@cD_BkFaBkEcByDkC{EgC}DuAeBsDaEqCgC{EkE}AeBwAqBqA}BgEmJaB{CaBaCiByBsBoBwBcBmJyFiBqAwAkAwCyCsBiCoByCkAwBw@}AuAoD{@oCo@{Bi@_Co@kDw@iGiAcJiAkHwAqG{AiFiBoF_AaCmAoCyCuFcBkC{AuBcAmAsBoBgBuAyAaAyBkAqB{@eJ{C}By@gFaCaMaHqCuA_FqBmHsCuAq@_B_A}BeB{@m@iBiB{B}C{AeCwAuC}@{BoAyDwAwFgAkFo@yD_AqHq@_IQoDm@yR_@kOi@_P_Bck@MoDYeEa@uDa@yC{@uEuAmF}@wCaCsGuEsL_BaFgBsGmA{F_AsF}@oHm@gHWuFMsGCwFDaENsFXkFZuEd@gFb@wFP_F?_FCaBKmCUeDa@eDi@aDoAgFaAyCsA_D_@s@o@uAiDyGiB}DuBaFgDiJ{@qCs@eC{AaHw@uDuCyOkAiFkByGwA}DiAiCsCaGcDkHcAiCmAcDyAaFqAgFkAwFuE_XuAyGqAwFqBiHsAkEuDoKmFmNeCiHmBiGoBoHwAsGqA_Hu@qEqAoKwCyXk@cEy@oF_@eBmAiFiBwGyBmG}AuDqBgEgCsEu@iA_CiDmBgCiDwDqCoCkEmDmDcCoDqBgGwC_LcFaFgCmF}C{EeDoL}IgFqDwCkB}DsBiEiBwDoA{KaDuCcAiBu@iCsAqCgB}CeCoBmBkB}BoBmC_BiCwAqCaB}DkAkDu@kCgA{Ey@oFk@wF[iGc@iJ]iEe@{Cw@uD}@yCsAcDoA}B_BaCeAqA}CoCcHsFgCcCiC}Cy@kAyA_CoByDyAsDgAkDs@oCyDuQ_BqGgB_G}AkEiBoEyBuEuB}DkCeEsC_EwCmDgDmDoDcDuEsDoJmHoIiH_FuEaFiFcFwFkFuGeB}BuCkEcCcEkD}GmBoEuBuFgByFgByGyA{G}EkVq@cDoE}RsBqKeA}GoAsJiB}Ns@mEiA_FuAsEsAiDgAcCwB}DkBqCcBwBwB_CoAoAoBgBy@s@kCyCyBaDcByCyAaDsAwDy@uCy@{Do@gE]cDSiDGoCBuCReDZsC`@{BpCwKj@uCd@_D^qEN}DBmDCwDM{CUuCe@aDk@}Bo@kB{@eBcAaBkAcB}AsCa@_A}BgG_AoBeAaBsB_CgAy@yA}@qAi@oBi@sBQiBAyBHoDXeBH{CAkBIqC[kDa@yAIcB@qBRyA\\uBx@cDpBgCzAYNkA`@{@RiBTsDD}CDaDNcC\\kDx@gBn@wJhEsC`AkCl@{Cd@eDVeCFiCC}BOcEk@aB[oDeAmCeAmE}BkDkBoBu@aCo@kC_@yBM}EOaCU}Bg@yBw@uBeAgBqAiAiAuA_B_AsAiAuB}DoI_BiCeBaCmBuBsC_C{AeAqC{AiDoAcBc@eDk@}CUsCGiF?wCMaBSaCi@eC}@wBiAmImFoDmBiCgAmDiAiCo@mR{DuFuAkJaDkHaDcGaDyFsD{CwBeFeEcH}G{BcC{DyEyAoBsDuFuEwHqGiL}EeIgCuDwDgFkDcEsE{EqMkMwCaD{BoCoBmCkCcEeDiG{C_HoDmIiBkDuAuBqAcBmAyAiDyC{BaBuCaBcCcAeCw@eCi@{B[yBS_DKcBBuDRwH|@cCNuB?sBKyAQiLqBuDa@wCQsDGmB@iDJeEZgEZeCFqBEoBQiDq@cFiAkC_@wCMeCB}BPuAToCp@oHpC_Cp@uB`@aCRyBB_CG}BWcCg@oBo@{Aq@qAu@}@m@iB{AcBiBmA_ByEsHoBgCiBgBkB{AwAy@sBaAoBq@oCm@{EaAcBe@oBw@mBeAiCiBq@m@mByBwAqBiAsBkAmCgAgDkB{GaAuC}AgDsAyByAoB}AaBsBeB{A_A_Bw@cC}@wA]kDg@eCIuCBuCX_Cd@yBp@sB|@}BtA_BrAoGxFiBzAeCfBuEhCs@^kBv@qE~B}CnBkDlCcC|BeCnCqCrDyA~BsBtDu@xAkC|G}HxVmAlDaClGmBrEcG|LgElIsCrGiB|E}A|EgB|Gq@zCoA~G}@nGs@nGqAlMi@~Dw@fEa@hBy@|CmArDu@jBaBlD}B|DqAlB}AnBaCfCcCtBgObLOAiHfFgAl@m@Py@Bq@Ms@a@_@a@UMS[oFyJu@gACWM[mDiG_@o@cBiDCsABc@Ni@Ze@ZQ^Ix@Bd@Zd@n@Pd@Jv@Ah@Mr@QZQZoE~DKPiBvB_BdCcAxBq@pB]zA_@|BQ|BInCB`DDdAJRCbBMtB]`Ci@pBaAhCq@jAiAvAyArA_LpIaCtBs@p@mAjBcArBoAfFgAfFs@dCkAzCaAdB{JpM_HbJeCxCkClCcBvAyBxAkBbAyB~@sC|@eFlAuqA|WcGtA}EtAwE~AsH~CcErBaEbCuEzCgF|D}DhDmEnEsB|BgAnAaI~JwDdGsDzGmFvKiDzHyEnLoUdi@es@r`BoCjGIJoC`Ga@bAp@t@^r@nAzDpIzVlLx\\tNta@zAtEnCxH`AhCbBjD`StYzFzHj@b@x@l@hA~AnBfDn@nAr@`AvJzKjArAzDjD`@r@Rp@~CbSt@nEZrCFnAHlCH|AJb@tCtEn@zAnBpI|@`DzAdE`@|@dBtCp@v@TPvBhAjDnC^f@tCzEx@~@vBdBtNzKb@d@dP~XzAxBtBlCXp@zBbMd@lCZv@dDrE^j@dCxCITDTBFkQj\\OGMHCRFPiC~EpDtD`AnA`DzClG`HtFlGGPBRLFJEn@bAf@`Aj@~Ah@bBVXr@RfANhDHpC?`AGf@SXWjBiCTQp@u@lAyBJSwCsCc@U}@q@?It@UdAm@Ja@D]AqBGk@M[IaBhB]j@GRGjBe@pCc@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 38.145983,
+              "longitude": -0.8890659999999999
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 38.8374431,
+              "longitude": -0.1168056
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 5,
+              "staticDuration": "1s",
+              "polyline": {
+                "encodedPolyline": "kkygFtslD@H"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.145983,
+                  "longitude": -0.8890659999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.145972199999996,
+                  "longitude": -0.8891176
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west toward Av. Carmen"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "5 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 410,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "ikygF~slDySdEs@P"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.145972199999996,
+                  "longitude": -0.8891176
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.1495581,
+                  "longitude": -0.8902021999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Av. Carmen"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 904,
+              "staticDuration": "103s",
+              "polyline": {
+                "encodedPolyline": "wazgFvzlDgNzC{@EmC[SIoI_AaLqAg@Su@c@WW"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.1495581,
+                  "longitude": -0.8902021999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.1574697,
+                  "longitude": -0.8896307999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Av. Juan Carlos I"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.9 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 182,
+              "staticDuration": "18s",
+              "polyline": {
+                "encodedPolyline": "es{gFdwlDC_@MYWKY@UPGLk@JiC?"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.1574697,
+                  "longitude": -0.8896307999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.1588722,
+                  "longitude": -0.8895063999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, take the 3rd exit onto CV-900"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 10223,
+              "staticDuration": "354s",
+              "polyline": {
+                "encodedPolyline": "}{{gFlvlDaAW}@a@{@u@cAmAm@kAo@kB{BuJ]wAQ]_EeRaCwJmCqJ_DuJcDiJgDmIgD}HoGmMsD}GcDqF}EsHgEaGsEaGaIeJ{FcGqHiH{CeDkDaEcDkEe@u@sFeIgEsFwDkEyEyEcEqD_KyH}EkEmCmCaEuEqE{FuCeEuDgGuCqFwGoNiB_DqAiB}AgB_B_B{BgBsCeB{GmDmHeE_DuAcDaAiJ{B{DoA{DaBmDgBwCeBuBwAsEsD_E{D}BkCgFsGwEqGsCeEaFgImEeIyCaGcF}KqCeHaD_J_BwE_DkK{@_D"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.1588722,
+                  "longitude": -0.8895063999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.2217073,
+                  "longitude": -0.8082591
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Merge onto E-15/A-7 via the ramp to Alicante/Valencia"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "10.2 km"
+                },
+                "staticDuration": {
+                  "text": "6 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 14850,
+              "staticDuration": "515s",
+              "polyline": {
+                "encodedPolyline": "udhhFrz|CSkAaBwGuBuJqBgKq@mCy@mC_B_EwDkIsBmFoAsDoC_KgAuC[u@gB_Dm@aAqBeCw@y@cA{@_C_B{Aw@sG}CgEgCgD_CuD_DgDgDyBeCgCeDeFuHyAiByB{BcDgCaFqDs@o@yAeBw@qA}@qBg@uAa@mA_C}Iu@wBwA{CmDeGgFuH{DeFwDiE}FeG}CuDuCeEuA{BcDiGgBoC}AmBoAqAcGiFsAyAuAoBgAuBsDqIgB}Cm@y@sByBqB_BmAy@iAm@gBw@sBm@{Ca@sF}@gASuBs@}Aq@sBkA}DwC{AuAoB{BgA_BmEeHkBqCuBcC{AuAiCoB{BqAwAs@_DqA{Bw@_CoAgDaCyBkBSUcDkBeEiBiDmAoAi@oAo@{BeB_Ai@]YuB_CiBmC}@_BoAwCo@wBaAaE]wB]cDa@kGWcC[gCk@uCy@_DwC}Je@sBe@qCa@}DMwB]iJe@{He@yEq@{F}@eFw@uCeAqC{@oBgBuCmCaE{@aBu@iBq@eCY_BUsBK_C?iE@_FCcAQ}CYkCWwAi@uBa@qAo@_BgDsGyAoD{@wCW{A]sCSkDWqGMmB[_Dw@iE{AyGe@iCg@cEOsBGsBCmBJuHD}CEcDUeE_@gDg@uC{CqL{AcHkDwPiCqO"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.2217073,
+                  "longitude": -0.8082591
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.296572499999996,
+                  "longitude": -0.6793216999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "MERGE",
+                "instructions": "Merge onto E-15/A-7/AP-7"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "14.8 km"
+                },
+                "staticDuration": {
+                  "text": "9 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 32719,
+              "staticDuration": "1192s",
+              "polyline": {
+                "encodedPolyline": "qxvhFvtcCOi@mC{PgDoVsAuLkBqQuAePcA{M[mFIeCAiEJcDbA_MPmEDqAAwEGuCSeDYqCu@}EqAiHYsCIkCBcCX{ERcE@yBEqBOkB]iCg@{BkBoGg@}B_@sCQwCCwBDyB`@{HHgCA{CScD]qCi@sCuBcJ_AaFy@_Gk@_G[yEe@iLa@qFq@gGw@}Ei@wCk@kCaAkDwAoEeDuIcBkFiAcEiAcF_AeFm@kEo@_H[eFS}FGsFBaHPoFJuCBqAXsDd@sEbA_Hj@yCrBqJnAgHfAoHn@sFd@mF\\kHL_ED_HE_EUyHa@oGk@qFaAkGkAeFaCkJoAkGcAcH_AaF_AkDiAcDaBiDaBkCqBgCmBkBuBaBkIgFwBaBkCkCsHmIoCoCyDaDyDmCoDsBoDeBmDwA{DoAgEeAsEy@}NeByDs@}Bm@{CgA_D{AeDqBuC{BiBeBkCwCmBmCwBqDsAkCuF}L_CiEmBwCkCiDyCaDiAcAqAaAiE}CqEmCgCmAcEcBsDiA{Ck@gD_@oF_@oCc@oBe@uBy@_DgBcDyBuAy@uBgAiMcFqLoE{Cy@uCe@mCS_JWyBQqCe@oCs@uBy@wBgAsCoBo@g@mFmFqCuCeCwB_C{AqAs@_MeF_Ai@qBsAcCsBiBkBaByBuAuBcDiFsBsC}CmDmEyEwAwB_BgCiA}BkAyCa@iA_AeDuAaGaAqFa@uCk@eGWkEMeF?qHHsCPeD@_Av@eMTsG@cEEiDOiDe@cFi@wDu@kDy@uCgAaDcA}B{AqCmFcIsAkC{@oBw@gCo@mCe@oCW}BSwCEiACeGRiEn@_IHkB@aCIkBQoBaAyHM{BCqBB_CRcCViB`@kBl@kBnTok@`AeDr@gDb@_DZyDH}CAeEKsDWoCq@iEi@_Cs@gCsAwDwBgFiCyE_CmDk@s@iBuBuCaCsA{@kBaAi_@}PoGeCqEuAeFsAcJgBa^yFeCe@}@W{Ak@yAq@eBgAsAcAmAkAmC_DgAcBmAgCcAeCoEwM{AeEiBiEeC_EiA{AaAgA{DqDoCcCoAqA}CwDoAcB{@wAaAqBwFaN}AuCaBiCyOsSkFkGwEqFwD_FmBcDeJaQ_BkCeBiCsBiCmBsB_DuCeCkB{GgE_GsDqDkC_DmCgFuF{AiBuC_EmB_D}AmCeDyGiCmFmCgF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.296572499999996,
+                  "longitude": -0.6793216999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.437091599999995,
+                  "longitude": -0.40445709999999996
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Keep left to continue on A-70"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "32.7 km"
+                },
+                "staticDuration": {
+                  "text": "20 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 67937,
+              "staticDuration": "2224s",
+              "polyline": {
+                "encodedPolyline": "yfriFz~mA}C}FwEoIsFoKqDcIwDcKg@uA{A{E_DcLmFoSw@kCmAkDuBqFgBwDiBmDkAqBcA{AoHcMuCqFMEoBmFgBqFg@eBgDuMqAkEsA{DkBsEqAkCiDgGmDiGiByD_A{ByAgEyAqF}@qEs@_FqAoKc@uCa@mB}@_DoAeD_AkByA_CaBuB{@}@uBgBeFuDsAiAaBeBoBgCwAkCeA_C}@qCw@cDaBkIs@wCuAiEgCcHu@gCcCoKi@iBeAqCqAqC}H{NsC_GiBqEaByEyAaFqAuFiA{FwBgLeAaE}@kCeAgC}A{CgBuCgCaEcAqBaAgCeAuDyB{Ky@{CcAsCeAyBoAyBc@o@kByBwHsHqCiDu@gA}AiCi@cAiAeCaBiEgAqDy@{Du@yEc@qDUuDOmEQsMS}E_@yDk@yDUqAy@cD_BkFaBkEcByDkC{EgC}DuAeBsDaEqCgC{EkE}AeBwAqBqA}BgEmJaB{CaBaCiByBsBoBwBcBmJyFiBqAwAkAwCyCsBiCoByCkAwBw@}AuAoD{@oCo@{Bi@_Co@kDw@iGiAcJiAkHwAqG{AiFiBoF_AaCmAoCyCuFcBkC{AuBcAmAsBoBgBuAyAaAyBkAqB{@eJ{C}By@gFaCaMaHqCuA_FqBmHsCuAq@_B_A}BeB{@m@iBiB{B}C{AeCwAuC}@{BoAyDwAwFgAkFo@yD_AqHq@_IQoDm@yR_@kOi@_P_Bck@MoDYeEa@uDa@yC{@uEuAmF}@wCaCsGuEsL_BaFgBsGmA{F_AsF}@oHm@gHWuFMsGCwFDaENsFXkFZuEd@gFb@wFP_F?_FCaBKmCUeDa@eDi@aDoAgFaAyCsA_D_@s@o@uAiDyGiB}DuBaFgDiJ{@qCs@eC{AaHw@uDuCyOkAiFkByGwA}DiAiCsCaGcDkHcAiCmAcDyAaFqAgFkAwFuE_XuAyGqAwFqBiHsAkEuDoKmFmNeCiHmBiGoBoHwAsGqA_Hu@qEqAoKwCyXk@cEy@oF_@eBmAiFiBwGyBmG}AuDqBgEgCsEu@iA_CiDmBgCiDwDqCoCkEmDmDcCoDqBgGwC_LcFaFgCmF}C{EeDoL}IgFqDwCkB}DsBiEiBwDoA{KaDuCcAiBu@iCsAqCgB}CeCoBmBkB}BoBmC_BiCwAqCaB}DkAkDu@kCgA{Ey@oFk@wF[iGc@iJ]iEe@{Cw@uD}@yCsAcDoA}B_BaCeAqA}CoCcHsFgCcCiC}Cy@kAyA_CoByDyAsDgAkDs@oCyDuQ_BqGgB_G}AkEiBoEyBuEuB}DkCeEsC_EwCmDgDmDoDcDuEsDoJmHoIiH_FuEaFiFcFwFkFuGeB}BuCkEcCcEkD}GmBoEuBuFgByFgByGyA{G}EkVq@cDoE}RsBqKeA}GoAsJiB}Ns@mEiA_FuAsEsAiDgAcCwB}DkBqCcBwBwB_CoAoAoBgBy@s@kCyCyBaDcByCyAaDsAwDy@uCy@{Do@gE]cDSiDGoCBuCReDZsC`@{BpCwKj@uCd@_D^qEN}DBmDCwDM{CUuCe@aDk@}Bo@kB{@eBcAaBkAcB}AsCa@_A}BgG_AoBeAaBsB_CgAy@yA}@qAi@oBi@sBQiBAyBHoDXeBH{CAkBIqC[kDa@yAIcB@qBRyA\\uBx@cDpBgCzAYNkA`@{@RiBTsDD}CDaDNcC\\kDx@gBn@wJhEsC`AkCl@{Cd@eDVeCFiCC}BOcEk@aB[oDeAmCeAmE}BkDkBoBu@aCo@kC_@yBM}EOaCU}Bg@yBw@uBeAgBqAiAiAuA_B_AsAiAuB}DoI_BiCeBaCmBuBsC_C{AeAqC{AiDoAcBc@eDk@}CUsCGiF?wCMaBSaCi@eC}@wBiAmImFoDmBiCgAmDiAiCo@mR{DuFuAkJaDkHaDcGaDyFsD{CwBeFeEcH}G{BcC{DyEyAoBsDuFuEwHqGiL}EeIgCuDwDgFkDcEsE{EqMkMwCaD{BoCoBmCkCcEeDiG{C_HoDmIiBkDuAuBqAcBmAyAiDyC{BaBuCaBcCcAeCw@eCi@{B[yBS_DKcBBuDRwH|@cCNuB?sBKyAQiLqBuDa@wCQsDGmB@iDJeEZgEZeCFqBEoBQiDq@cFiAkC_@wCMeCB}BPuAToCp@oHpC_Cp@uB`@aCRyBB_CG}BWcCg@oBo@{Aq@qAu@}@m@iB{AcBiBmA_ByEsHoBgCiBgBkB{AwAy@sBaAoBq@oCm@{EaAcBe@oBw@mBeAiCiBq@m@mByBwAqBiAsBkAmCgAgDkB{GaAuC}AgDsAyByAoB}AaBsBeB{A_A_Bw@cC}@wA]kDg@eCIuCBuCX_Cd@yBp@sB|@}BtA_BrAoGxFiBzAeCfBuEhCs@^kBv@qE~B}CnBkDlCcC|BeCnCqCrDyA~BsBtDu@xAkC|G}HxVmAlDaClGmBrEcG|LgElIsCrGiB|E}A|EgB|Gq@zCoA~G}@nGs@nGqAlMi@~Dw@fEa@hBy@|CmArDu@jBaBlD}B|DqAlB}AnBaCfCcCtBgObL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.437091599999995,
+                  "longitude": -0.40445709999999996
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8112536,
+                  "longitude": 0.0238665
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Merge onto AP-7 via the ramp to Benidorm/Valencia"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "67.9 km"
+                },
+                "staticDuration": {
+                  "text": "37 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 421,
+              "staticDuration": "22s",
+              "polyline": {
+                "encodedPolyline": "ii{kFetCOAiHfFgAl@m@Py@Bq@Ms@a@_@a@UMS["
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8112536,
+                  "longitude": 0.0238665
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8145782,
+                  "longitude": 0.0230022
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take exit 608 for CV-725 toward Dénia/N-332/Ondara/Pedreguer/CV-734/Xàbia/Jávea"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 550,
+              "staticDuration": "31s",
+              "polyline": {
+                "encodedPolyline": "c~{kFwnCoFyJu@gACWM[mDiG_@o@cBiD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8145782,
+                  "longitude": 0.0230022
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8176692,
+                  "longitude": 0.027933700000000002
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto CV-725"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.6 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 10582,
+              "staticDuration": "482s",
+              "polyline": {
+                "encodedPolyline": "mq|kFqmDCsABc@Ni@Ze@ZQ^Ix@Bd@Zd@n@Pd@Jv@Ah@Mr@QZQZoE~DKPiBvB_BdCcAxBq@pB]zA_@|BQ|BInCB`DDdAJRCbBMtB]`Ci@pBaAhCq@jAiAvAyArA_LpIaCtBs@p@mAjBcArBoAfFgAfFs@dCkAzCaAdB{JpM_HbJeCxCkClCcBvAyBxAkBbAyB~@sC|@eFlAuqA|WcGtA}EtAwE~AsH~CcErBaEbCuEzCgF|D}DhDmEnEsB|BgAnAaI~JwDdGsDzGmFvKiDzHyEnLoUdi@es@r`BoCjGIJoC`Ga@bA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8176692,
+                  "longitude": 0.027933700000000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8813246,
+                  "longitude": -0.0476121
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "RAMP_RIGHT",
+                "instructions": "Take the ramp onto N-332"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "10.6 km"
+                },
+                "staticDuration": {
+                  "text": "8 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 6854,
+              "staticDuration": "391s",
+              "polyline": {
+                "encodedPolyline": "g_ilFphHp@t@^r@nAzDpIzVlLx\\tNta@zAtEnCxH`AhCbBjD`StYzFzHj@b@x@l@hA~AnBfDn@nAr@`AvJzKjArAzDjD`@r@Rp@~CbSt@nEZrCFnAHlCH|AJb@tCtEn@zAnBpI|@`DzAdE`@|@dBtCp@v@TPvBhAjDnC^f@tCzEx@~@vBdBtNzKb@d@dP~XzAxBtBlCXp@zBbMd@lCZv@dDrE^j@dCxC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8813246,
+                  "longitude": -0.0476121
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8450137,
+                  "longitude": -0.1092793
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto CV-678 (signs for Pego)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "6.9 km"
+                },
+                "staticDuration": {
+                  "text": "7 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 548,
+              "staticDuration": "56s",
+              "polyline": {
+                "encodedPolyline": "i|alF~iTITDTBFkQj\\"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8450137,
+                  "longitude": -0.1092793
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.847949199999995,
+                  "longitude": -0.11423549999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, take the 1st exit onto Avinguda Joan Carles I, Rei"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 160,
+              "staticDuration": "22s",
+              "polyline": {
+                "encodedPolyline": "unblF~hUOGMHCRFPiC~E"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.847949199999995,
+                  "longitude": -0.11423549999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8487723,
+                  "longitude": -0.11555599999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, continue straight to stay on Avinguda Joan Carles I, Rei"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 665,
+              "staticDuration": "74s",
+              "polyline": {
+                "encodedPolyline": "ysblFfqUpDtD`AnA`DzClG`HtFlG"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8487723,
+                  "longitude": -0.11555599999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8441638,
+                  "longitude": -0.1204516
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Av. Alcalde Fernando Alemany Ortolá/Carrer Vall d'Ebo\nContinue to follow Av. Alcalde Fernando Alemany Ortolá"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.7 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 296,
+              "staticDuration": "35s",
+              "polyline": {
+                "encodedPolyline": "_walFxoVGPBRLFJEn@bAf@`Aj@~Ah@bBVXr@RfAN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8441638,
+                  "longitude": -0.1204516
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8424428,
+                  "longitude": -0.1226135
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "ROUNDABOUT_RIGHT",
+                "instructions": "At the roundabout, continue straight onto Av. Alcalde Aquilino Barrachina"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 95,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "glalFh}VhDH"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8424428,
+                  "longitude": -0.1226135
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.841586899999996,
+                  "longitude": -0.1226592
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Carrer Castell de Castells"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 374,
+              "staticDuration": "71s",
+              "polyline": {
+                "encodedPolyline": "}falFr}VpC?`AGf@SXWjBiCTQp@u@lAyBJS"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.841586899999996,
+                  "longitude": -0.1226592
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8388482,
+                  "longitude": -0.12064359999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Av. Blasco Ibáñez"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 170,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "yu`lF~pVwCsCc@U}@q@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8388482,
+                  "longitude": -0.12064359999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8401025,
+                  "longitude": -0.11953849999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Passeig Cervantes"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 4,
+              "staticDuration": "6s",
+              "polyline": {
+                "encodedPolyline": "s}`lFbjV?I"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8401025,
+                  "longitude": -0.11953849999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8400961,
+                  "longitude": -0.11948969999999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Carrer Sant Josep"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "4 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 75,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "s}`lFxiVt@UdAm@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8400961,
+                  "longitude": -0.11948969999999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8394814,
+                  "longitude": -0.11914620000000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Carrer Sant Josep"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "75 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 156,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "wy`lFtgVJa@D]AqBGk@M[IaB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8394814,
+                  "longitude": -0.11914620000000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.839564599999996,
+                  "longitude": -0.11740510000000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Carrer Sant Francesc Xavier"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 97,
+              "staticDuration": "14s",
+              "polyline": {
+                "encodedPolyline": "gz`lFx|UhB]j@GRG"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.839564599999996,
+                  "longitude": -0.11740510000000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8387136,
+                  "longitude": -0.11718089999999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Carrer Picadora"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 145,
+              "staticDuration": "35s",
+              "polyline": {
+                "encodedPolyline": "}t`lFj{UjBe@pCc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 38.8387136,
+                  "longitude": -0.11718089999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 38.8374431,
+                  "longitude": -0.1168056
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Carrer Sant Pere\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "148 km"
+            },
+            "duration": {
+              "text": "1 hour 38 mins"
+            },
+            "staticDuration": {
+              "text": "1 hour 38 mins"
+            }
+          }
+        }
+      ],
+      "distanceMeters": 302772,
+      "duration": "12510s",
+      "polyline": {
+        "encodedPolyline": "oaihFzxpKxD`MvKb_@n@dCjGv]Dr@eAnd@OtC{@bMAhCCnC]`JI`BKp@sBxFcBdFcIdUqB~FMt@At@Fj@ZbErENnCItC]rXsEt@GvDK^FZTx@z@tPvSh@x@hCdG`AjBlAdB`GxGtFzFnA`A~@d@n@Lh@A~AOr@?tJp@jA`@lAt@pF|DbJ`IrF`GrApAr@XvAVdLbBlBXT@BiDJmA`D_QLc@t@eBbA{Aj@i@fAu@jAe@\\KxAOt@?zBRtB^RJvCb@tCh@b@DVAjB@nAKn@KpA_@tB_AlA}@tCcCtA_AbCmAnKyEdBi@`BQbAAvAJhPfBjA?hBOpAYnN{CpPeDbJiBpL_CnB_@dDa@fCSnBMjB]rCeAh@_@nC{Cl@a@|@e@`Bk@nFcAxBUb@@fD\\x@LxCpA^Fh@E|KoBh@?vEt@h@DvB[`Ce@|B{@|A{@hCuBnAi@jEmAxEkBxAw@nCqBfHqCr@e@bG{En@g@bAoA\\m@`LqUdAeCx@sDpHeZP_BdAcO|Hof@x@qEnC}J`E}NJs@p@yRP_CToBjBgNvEwUVs@`GsJr@{@ZS`A_@tCy@~@GlVIx@BbALdJ|@xDv@r@BdHMhCKtEw@hCm@`@Orb@kTf@a@zC_DjKiL`DeE|p@i}@zGmJ|@_Bb@gAt@oDV{@Pc@^i@~ByB`HkGvCeDfu@m`A~QcVhC}CzNqMfJ_I~@m@|@[~@OlBKd@BfARdA\\r@XxCtBpBnAXJf@HlAD`@GXQNMjAgBPERB|CrBtEfCXLt@HfABT_@fCiErBiDxA{BfAkBf@eAlAuBTQz@SfBIn@OpAo@nW_Ox@m@b@c@bCiDz[se@pGqJjHkKbGaJxDsFdFqHpEyFnFoGzAmBx@_BhBiFhDyIJG^[NKDUAGf@aAZc@|AkCXQTCJQAUKOSAQJS~@a@z@e@Oo@c@}AgBm@}@USeGkLmAyCoAcE_FwUmCuM{C_OqAaGg@uCe@{DMgDAcCTeKP{F^sH\\uIv@aVxAca@R_Ev@cJf@mEt@{FbBaOjAwJViB`@cERyEDuDAiFc@iZS{MIgIIeFq@mf@WcPEiBSoTw@ci@BUCeGIkAMw@o@mBu@kBaE_MYw@g@_A_@c@oC{Bm@{@o@qAo@aB}A_DmByCiAoAsAqAuA{@y@]wB_@iCGoCCyBBmA?cAOuI_CmGoBmN_Fm@[wAoAcGiG}AeBcFgFwJuKEMwFiGeXsYoAmAe@YcA[]IsBAoDLeACq@Q{@a@o@e@k@m@kQyUq@s@gBsAiAq@aBm@cB]cBWiCq@wAk@qAu@cB{AeAqAcA}AaAwBg@{A}@aEIk@w@gDiAkDmAwCy@_BqAuByAqBoBsByFaFyAcBc@i@mAuBa@{@gA}CqA}D_AsB]k@_E_GwAuCiAaD{@cDu@eDe@aCgAkHi@gFa@eGSkFEyG?gDB}BVaGf@{ILmE?iBI{CG{Ao@mGOiCC{CJcCL}ARyAZ_Bn@sBfEiJj@_B~@aDjAuEf@{AbA{BbDeGpAcDr@qB`@yAl@sC^cCVeCl@gJb@}Cv@mDrAsD|@eBrCgEv@qAdBgDRg@x@uCf@{B\\cBPqAh@qCj@mBb@kAz@gBhAaBfAkA|@u@p@c@|Aw@`EiBjBiArBaBhAoA`ByBpCmEtN}UfAwB~@aCl@uBZkAh@gDXqCJmBDsDE}AO_DY_Dg@{DYuEGiCAyBdBwe@P}CVaC`@cC|@cDdAmCR]xA}BjLmPnGiJt@oAzAsDz@sCd@qBPcAfAoJfBcOlGmh@|@uHrBoLpBuId@iCZuCTqDDwDKeLe@s`@EqHDcDNgD^eEfC}Rp@kEh@kCj@mBf@oAlAaClBmCpFqGlFcHvAeCl@sA`@iAbAmDj@{C`@sCdC_a@n@uI^yCv@_En@cCtAoExBmGxAuEv@iDfAaGbA{JRcDZ}JJeCReCl@wE\\iBr@wCn@uB|i@y_Bx@{C`@aC`@sDNqD@yCAmAOwCOqBs@aEcE}RcA_FkBuJc@uDSoCgBcl@UuJAsFJyHVkG`@_GbAmMHuBBuDIeDUmD[oCW{Aq@{Cy@sCcAgCgm@cqAgAqCw@eCs@aDg@iDY{CM{D_EevCeCufBMeLKsPBwPLuKJgF`@yHf@kFl@iEx@{Dh@uBt@{Bf@sAbE}Il@_Bx@oD^aC~@eJVgBReA|CqLv@oDp@cEj@{EToC^wF\\yCn@eDv@iCx@wBfAyBrCcF`A}Bv@}Bl@cCb@gCZuCLoBFcCAyBEkB[mE[oB}@_EkAsDu@kBwIaSgFmM{DeKeEqL}DyLyHaW_M{a@}D{MoI}X}B{Hm@qCk@wDUkCMkCAyF@iATiDb@oDd@}Bx@aDz@kCt@aB|@}AvB{D`AkBz@gCl@wBj@wCZyCLoBDgDCeDQqCe@uD{AcHe@uCe@oDSaDEwCF_DTwDd@cE~BmOpAuG|AyGzA_FbB_F|BoFdCaFfFoJfAkCdA}Cp@iCp@uD`@_DT_DHgBR}ITaE`@}Df@cDf@cCbAoDjAgDdA{BnBkDhA_BnB_C|BuBdCgBdCuApB{@|Bs@lCk@zBYzBOtIMxBMzC]|Cs@xBq@tCsAbAk@`D}BvBqBpBaCtB}CjAwB`AyB|H_TnDsIzEgKtDkHdF}IvEoH~HcL~AuCfAaC|@mCj@eCl@}DTwCFuB?gEi@q_@SoOO_J@iCHkCPcCd@mDt@eD`KuYhGaQxEyMhAwB`AwAzA}AfBoAhEcCzAgApAwAt@cAb@u@t@}Az@iCj@qCX_CLoCN}ERkC\\yBr@kCl@aBvBgE|IyP|FyJd@m@xAcBjAcAbCsA~D{Bp@g@dBaB|@sA~@wBdB_FlEwKb@gB`@gCFeAFmBCoCm@}GwAgOWiCCyBBuAFyBTgCd@{CpAmF`@aC`@kDJwAB{A?gBMmBWkBgAqEo@kC_@qBUeBMyBAgCDqB\\oDjC_S^wC~Ieo@j@mCxX{fA~D_P~K_a@p@mC`Ss{@b@aCTuB|@qNNkBVeBJk@zGmW^aB\\kBfMku@l@_Cb@qA|@kB~CaFh@_AbAeCVaAf@_CVkBLoBtAwc@zEy~ADkCEkE{@kb@EcEHuCN}BN{AViBdAgFt@gBx@}AxA}BpBaChAiApAiAfCmB~B{AhCsAjEwBZStD}AvCgBZUlBoBnAyAl@{@hAuBjB{ElAyEj@mDxBaOJEjAcHdAcHX_Ad@_Aj@q@pA_AfA}@j@y@Zo@ZmALwA?{ASaBUu@]{@u@_Au@k@w@[k@Kk@Cw@BaDn@gAJs@@gAMeBe@wB{@QDuC_BqK_FuJaEqQgHqDcBuDuB}@k@mEgDiD{CqCwCkCcDyAwBaDeF}CiGcA_CsAiDwBcHkAsEsAoG}@gGk@{Ee@{GYwHGuG@gFPiG`@kHn@eH|AgOhCqS`CmPzCiR|DsTb@qDT}CJyD@cCIsDOiCSwBg@iDs@kD}@_DiA{C{@iBgFyJ}AoD{@_Cm@eBgA{Dc@iBm@}Cs@iEm@kFa@mFQqEIsHGuHMeDSqCk@wEq@mD_@{ACa@}@{C}@aCoAiCwBgEW_AOgAC}@BaARqAZ_Af@w@jEkEn@s@tAiBjAiBlA_Ct@cB~@cC\\mA@OAIb@{AhAmF~C}R~@mE~@aDpAcD`BeDvAaC|CgE~BoCxB{BpCgCnEqD`GkET?hEqC^Qz@Mx@?bBVtAT^@`@MPWR[Jc@@k@Gi@S}@eDqHgA{BuFwKSw@Iy@@w@NaAlEkRdBsHFs@BgBCu@gCmSAk@d@_@Vi@@Ch@@jKbEd@Np@XjDHdJCfHs@pGg@n@Dh@C?`AUjCGRQvBGlB@bCJ~BRxCd@bE^fCT`An@tB@NLhAGv@Q`@mAjAuBjBqCnBYb@eRnKuKrGyEvCoL|HqJzG{GlF}EpEmCzCgDjEeAxAmAxBwBzE}@nCaAzDoApGmBbMw@~Dw@|CgA`Da@bAaAvB{AlCi@z@yBpC{BzB}BlBmDpBmEdBgE~@cBT{CNsCBsBAgES}Da@iDk@g@MiEoAcKqDeCo@kFo@qFe@eI}@eGk@_BG{Gs@e@OaCkAaAa@s@q@s@o@aAmAcAkBm@yAi@mBsDoQ_AmDoA}D}AyD_AsBo@mAiAkBgB_DwD}FkBmCgGkJeAuA_DuEwLyQkG_KaEmH}D_I}BiFaCoG{AoE{BwHoDcNkD}MiBcG}BiGyNw]iAeCeBeDcBcCgBuBkCeCoCiBkCuAcEyAkEuAmCgAsAs@}BuA_BqAwBuBoBcCuBcDiCmFcAsBmCkEgB}BgBiBiAeAoF}DsA}@k@c@gCkCeAsAmAoBgAwBaAeCy@uCg@{B{AoIy@cDa@oAo@aBw@cBqA{Bw@iA}AmBaB}A{@q@_CwAuCsAsCeAmBw@uBoAuAcAaA}@oByBoAkBu@oAcAwBqD{IyCmGcE{HeFwI_DaFkD_FmDyEyFeHcGyGsEyE}KeKiCoCeC{CuCcEsAuBgDmGoBkE_BgEiAgDeAoDqAsFmAmGk@wDs@cG[qDa@cHGoBQiKK_Da@gHa@eEy@}FmC{NiDoPiCeL{CaMeE{OgE{NeE{M}BsGoCuGwCgGaDaG{CaFsDmF{BuCwDoEsGaHgByB}AaCyAuCoAyCcAcD{@iDkB}JyAcJ_BgLwBmQqAyI{BmMqBqJkCaL{AsFwC_KsBoGaAkDeA{EcAcGo@cFe@uFQgDOkEEyE?iCX{QDgLEqMUmL]kKg@eJk@iGw@yFcAmFeAkEuAqEcBqEqG_O}C_IoDaK_GcReDmJ}CaI{DaJmEgJuGgMeDcHiCkGiE_L}BmFqBcE}DeHwD_G{DoFuEwFuE}EkFiFmDyDuDwEiD{EkCeEaEmHsC}FyDaIsCiFkE{G{@oAiJwLsAwBuAuCoAgDeAsDi@qCa@sCa@mEMyDAmDJmDTqD|A_NTaDF{AFaDCeEKcDc@eGk@wEm@yD_AuEkAoEwAkEwAoDgBsDkGsLqEiJkCcG}CwHyAaEGa@yAmEMq@Iw@@iAPuAj@yBNo@PU`@O`@?j@TPRVFXGBCx@LbANL?fRvBhCXRHrD^T@fN{CfMkCdGkAAI@HySdEs@PgNzC{@EmC[SIoI_AaLqAg@Su@c@WWC_@MYWKY@UPGLk@JiC?aAW}@a@{@u@cAmAm@kAo@kB{BuJ]wAQ]_EeRaCwJmCqJ_DuJcDiJgDmIgD}HoGmMsD}GcDqF}EsHgEaGsEaGaIeJ{FcGqHiH{CeDkDaEcDkEe@u@sFeIgEsFwDkEyEyEcEqD_KyH}EkEmCmCaEuEqE{FuCeEuDgGuCqFwGoNiB_DqAiB}AgB_B_B{BgBsCeB{GmDmHeE_DuAcDaAiJ{B{DoA{DaBmDgBwCeBuBwAsEsD_E{D}BkCgFsGwEqGsCeEaFgImEeIyCaGcF}KqCeHaD_J_BwE_DkK{@_DSkAaBwGuBuJqBgKq@mCy@mC_B_EwDkIsBmFoAsDoC_KgAuC[u@gB_Dm@aAqBeCw@y@cA{@_C_B{Aw@sG}CgEgCgD_CuD_DgDgDyBeCgCeDeFuHyAiByB{BcDgCaFqDs@o@yAeBw@qA}@qBg@uAa@mA_C}Iu@wBwA{CmDeGgFuH{DeFwDiE}FeG}CuDuCeEuA{BcDiGgBoC}AmBoAqAcGiFsAyAuAoBgAuBsDqIgB}Cm@y@sByBqB_BmAy@iAm@gBw@sBm@{Ca@sF}@gASuBs@}Aq@sBkA}DwC{AuAoB{BgA_BmEeHkBqCuBcC{AuAiCoB{BqAwAs@_DqA{Bw@_CoAgDaCyBkBSUcDkBeEiBiDmAoAi@oAo@{BeB_Ai@]YuB_CiBmC}@_BoAwCo@wBaAaE]wB]cDa@kGWcC[gCk@uCy@_DwC}Je@sBe@qCa@}DMwB]iJe@{He@yEq@{F}@eFw@uCeAqC{@oBgBuCmCaE{@aBu@iBq@eCY_BUsBK_C?iE@_FCcAQ}CYkCWwAi@uBa@qAo@_BgDsGyAoD{@wCW{A]sCSkDWqGMmB[_Dw@iE{AyGe@iCg@cEOsBGsBCmBJuHD}CEcDUeE_@gDg@uC{CqL{AcHkDwPiCqOOi@mC{PgDoVsAuLkBqQuAePcA{M[mFIeCAiEJcDbA_MPmEDqAAwEGuCSeDYqCu@}EqAiHYsCIkCBcCX{ERcE@yBEqBOkB]iCg@{BkBoGg@}B_@sCQwCCwBDyB`@{HHgCA{CScD]qCi@sCuBcJ_AaFy@_Gk@_G[yEe@iLa@qFq@gGw@}Ei@wCk@kCaAkDwAoEeDuIcBkFiAcEiAcF_AeFm@kEo@_H[eFS}FGsFBaHPoFJuCBqAXsDd@sEbA_Hj@yCrBqJnAgHfAoHn@sFd@mF\\kHL_ED_HE_EUyHa@oGk@qFaAkGkAeFaCkJoAkGcAcH_AaF_AkDiAcDaBiDaBkCqBgCmBkBuBaBkIgFwBaBkCkCsHmIoCoCyDaDyDmCoDsBoDeBmDwA{DoAgEeAsEy@}NeByDs@}Bm@{CgA_D{AeDqBuC{BiBeBkCwCmBmCwBqDsAkCuF}L_CiEmBwCkCiDyCaDiAcAqAaAiE}CqEmCgCmAcEcBsDiA{Ck@gD_@oF_@oCc@oBe@uBy@_DgBcDyBuAy@uBgAiMcFqLoE{Cy@uCe@mCS_JWyBQqCe@oCs@uBy@wBgAsCoBo@g@mFmFqCuCeCwB_C{AqAs@_MeF_Ai@qBsAcCsBiBkBaByBuAuBcDiFsBsC}CmDmEyEwAwB_BgCiA}BkAyCa@iA_AeDuAaGaAqFa@uCk@eGWkEMeF?qHHsCPeD@_Av@eMTsG@cEEiDOiDe@cFi@wDu@kDy@uCgAaDcA}B{AqCmFcIsAkC{@oBw@gCo@mCe@oCW}BSwCEiACeGRiEn@_IHkB@aCIkBQoBaAyHM{BCqBB_CRcCViB`@kBl@kBnTok@`AeDr@gDb@_DZyDH}CAeEKsDWoCq@iEi@_Cs@gCsAwDwBgFiCyE_CmDk@s@iBuBuCaCsA{@kBaAi_@}PoGeCqEuAeFsAcJgBa^yFeCe@}@W{Ak@yAq@eBgAsAcAmAkAmC_DgAcBmAgCcAeCoEwM{AeEiBiEeC_EiA{AaAgA{DqDoCcCoAqA}CwDoAcB{@wAaAqBwFaN}AuCaBiCyOsSkFkGwEqFwD_FmBcDeJaQ_BkCeBiCsBiCmBsB_DuCeCkB{GgE_GsDqDkC_DmCgFuF{AiBuC_EmB_D}AmCeDyGiCmFmCgF}C}FwEoIsFoKqDcIwDcKg@uA{A{E_DcLmFoSw@kCmAkDuBqFgBwDiBmDkAqBcA{AoHcMuCqFMEoBmFgBqFg@eBgDuMqAkEsA{DkBsEqAkCiDgGmDiGiByD_A{ByAgEyAqF}@qEs@_FqAoKc@uCa@mB}@_DoAeD_AkByA_CaBuB{@}@uBgBeFuDsAiAaBeBoBgCwAkCeA_C}@qCw@cDaBkIs@wCuAiEgCcHu@gCcCoKi@iBeAqCqAqC}H{NsC_GiBqEaByEyAaFqAuFiA{FwBgLeAaE}@kCeAgC}A{CgBuCgCaEcAqBaAgCeAuDyB{Ky@{CcAsCeAyBoAyBc@o@kByBwHsHqCiDu@gA}AiCi@cAiAeCaBiEgAqDy@{Du@yEc@qDUuDOmEQsMS}E_@yDk@yDUqAy@cD_BkFaBkEcByDkC{EgC}DuAeBsDaEqCgC{EkE}AeBwAqBqA}BgEmJaB{CaBaCiByBsBoBwBcBmJyFiBqAwAkAwCyCsBiCoByCkAwBw@}AuAoD{@oCo@{Bi@_Co@kDw@iGiAcJiAkHwAqG{AiFiBoF_AaCmAoCyCuFcBkC{AuBcAmAsBoBgBuAyAaAyBkAqB{@eJ{C}By@gFaCaMaHqCuA_FqBmHsCuAq@_B_A}BeB{@m@iBiB{B}C{AeCwAuC}@{BoAyDwAwFgAkFo@yD_AqHq@_IQoDm@yR_@kOi@_P_Bck@MoDYeEa@uDa@yC{@uEuAmF}@wCaCsGuEsL_BaFgBsGmA{F_AsF}@oHm@gHWuFMsGCwFDaENsFXkFZuEd@gFb@wFP_F?_FCaBKmCUeDa@eDi@aDoAgFaAyCsA_D_@s@o@uAiDyGiB}DuBaFgDiJ{@qCs@eC{AaHw@uDuCyOkAiFkByGwA}DiAiCsCaGcDkHcAiCmAcDyAaFqAgFkAwFuE_XuAyGqAwFqBiHsAkEuDoKmFmNeCiHmBiGoBoHwAsGqA_Hu@qEqAoKwCyXk@cEy@oF_@eBmAiFiBwGyBmG}AuDqBgEgCsEu@iA_CiDmBgCiDwDqCoCkEmDmDcCoDqBgGwC_LcFaFgCmF}C{EeDoL}IgFqDwCkB}DsBiEiBwDoA{KaDuCcAiBu@iCsAqCgB}CeCoBmBkB}BoBmC_BiCwAqCaB}DkAkDu@kCgA{Ey@oFk@wF[iGc@iJ]iEe@{Cw@uD}@yCsAcDoA}B_BaCeAqA}CoCcHsFgCcCiC}Cy@kAyA_CoByDyAsDgAkDs@oCyDuQ_BqGgB_G}AkEiBoEyBuEuB}DkCeEsC_EwCmDgDmDoDcDuEsDoJmHoIiH_FuEaFiFcFwFkFuGeB}BuCkEcCcEkD}GmBoEuBuFgByFgByGyA{G}EkVq@cDoE}RsBqKeA}GoAsJiB}Ns@mEiA_FuAsEsAiDgAcCwB}DkBqCcBwBwB_CoAoAoBgBy@s@kCyCyBaDcByCyAaDsAwDy@uCy@{Do@gE]cDSiDGoCBuCReDZsC`@{BpCwKj@uCd@_D^qEN}DBmDCwDM{CUuCe@aDk@}Bo@kB{@eBcAaBkAcB}AsCa@_A}BgG_AoBeAaBsB_CgAy@yA}@qAi@oBi@sBQiBAyBHoDXeBH{CAkBIqC[kDa@yAIcB@qBRyA\\uBx@cDpBgCzAYNkA`@{@RiBTsDD}CDaDNcC\\kDx@gBn@wJhEsC`AkCl@{Cd@eDVeCFiCC}BOcEk@aB[oDeAmCeAmE}BkDkBoBu@aCo@kC_@yBM}EOaCU}Bg@yBw@uBeAgBqAiAiAuA_B_AsAiAuB}DoI_BiCeBaCmBuBsC_C{AeAqC{AiDoAcBc@eDk@}CUsCGiF?wCMaBSaCi@eC}@wBiAmImFoDmBiCgAmDiAiCo@mR{DuFuAkJaDkHaDcGaDyFsD{CwBeFeEcH}G{BcC{DyEyAoBsDuFuEwHqGiL}EeIgCuDwDgFkDcEsE{EqMkMwCaD{BoCoBmCkCcEeDiG{C_HoDmIiBkDuAuBqAcBmAyAiDyC{BaBuCaBcCcAeCw@eCi@{B[yBS_DKcBBuDRwH|@cCNuB?sBKyAQiLqBuDa@wCQsDGmB@iDJeEZgEZeCFqBEoBQiDq@cFiAkC_@wCMeCB}BPuAToCp@oHpC_Cp@uB`@aCRyBB_CG}BWcCg@oBo@{Aq@qAu@}@m@iB{AcBiBmA_ByEsHoBgCiBgBkB{AwAy@sBaAoBq@oCm@{EaAcBe@oBw@mBeAiCiBq@m@mByBwAqBiAsBkAmCgAgDkB{GaAuC}AgDsAyByAoB}AaBsBeB{A_A_Bw@cC}@wA]kDg@eCIuCBuCX_Cd@yBp@sB|@}BtA_BrAoGxFiBzAeCfBuEhCs@^kBv@qE~B}CnBkDlCcC|BeCnCqCrDyA~BsBtDu@xAkC|G}HxVmAlDaClGmBrEcG|LgElIsCrGiB|E}A|EgB|Gq@zCoA~G}@nGs@nGqAlMi@~Dw@fEa@hBy@|CmArDu@jBaBlD}B|DqAlB}AnBaCfCcCtBgObLOAiHfFgAl@m@Py@Bq@Ms@a@_@a@UMS[oFyJu@gACWM[mDiG_@o@cBiDCsABc@Ni@Ze@ZQ^Ix@Bd@Zd@n@Pd@Jv@Ah@Mr@QZQZoE~DKPiBvB_BdCcAxBq@pB]zA_@|BQ|BInCB`DDdAJRCbBMtB]`Ci@pBaAhCq@jAiAvAyArA_LpIaCtBs@p@mAjBcArBoAfFgAfFs@dCkAzCaAdB{JpM_HbJeCxCkClCcBvAyBxAkBbAyB~@sC|@eFlAuqA|WcGtA}EtAwE~AsH~CcErBaEbCuEzCgF|D}DhDmEnEsB|BgAnAaI~JwDdGsDzGmFvKiDzHyEnLoUdi@es@r`BoCjGIJoC`Ga@bAp@t@^r@nAzDpIzVlLx\\tNta@zAtEnCxH`AhCbBjD`StYzFzHj@b@x@l@hA~AnBfDn@nAr@`AvJzKjArAzDjD`@r@Rp@~CbSt@nEZrCFnAHlCH|AJb@tCtEn@zAnBpI|@`DzAdE`@|@dBtCp@v@TPvBhAjDnC^f@tCzEx@~@vBdBtNzKb@d@dP~XzAxBtBlCXp@zBbMd@lCZv@dDrE^j@dCxCITDTBFkQj\\OGMHCRFPiC~EpDtD`AnA`DzClG`HtFlGGPBRLFJEn@bAf@`Aj@~Ah@bBVXr@RfANhDHpC?`AGf@SXWjBiCTQp@u@lAyBJSwCsCc@U}@q@?It@UdAm@Ja@D]AqBGk@M[IaBhB]j@GRGjBe@pCc@"
+      },
+      "description": "Autovía del Noroeste-Río Mula/RM-15",
+      "warnings": [
+        "This route includes a highway."
+      ],
+      "travelAdvisory": {}
+    }
+  ]
+}

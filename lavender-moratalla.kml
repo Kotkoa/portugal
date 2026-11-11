@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Лаванда — Moratalla / Zaén</name>
+    <description><![CDATA[Лавандовые поля, фермы, дистиллерии и магазины северо-запада Мурсии. Цветение: конец июня — июль.]]></description>
+    <Style id="lav-field"><IconStyle><color>ffcc33cc</color><scale>1.4</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-stars.png</href></Icon></IconStyle></Style>
+    <Style id="lav-farm"><IconStyle><color>ffcc33cc</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle></Style>
+    <Style id="lav-shop"><IconStyle><color>ff9966cc</color><scale>1.0</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle></Style>
+    <Style id="lav-stay"><IconStyle><color>ff00ffff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href></Icon></IconStyle></Style>
+    <Placemark>
+      <name>💜 Каса-Руралес Луис (Calar de la Santa)</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.8 (237 отз.)
+Популярные сельские дома в Калар-де-ла-Санта с бассейном и кухней. Рейтинг 4.8, 237 отзывов. Удобная база для маршрута к лавандовым полям Заэна (цветение конец июня — июль).
+
+📍 Casas Rurales Luis
+Calle Pl., 10, 30441 Calar de la Santa, Murcia, Spain]]></description>
+      <Point><coordinates>-2.171134,38.179139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Ла-Пава — ресторан-альберге (на дороге к полю)</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.7 (210 отз.)
+⭐4.7 (210 отз). Лучший общепит на подъёме RM-703, ~10 км не доезжая лавандового поля. Ресторан + альберге (ночлег). Тел. 616 05 55 47 — бронь обязательна. Идеально для обеда по пути наверх или ужина+ночёвки у поля.
+
+📍 Restaurante Albergue La Pava
+Caserio la Pava, 5, 30440, Murcia, Spain]]></description>
+      <Point><coordinates>-1.994520,38.171730,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Пещерные дома Заэн</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.7 (45 отз.)
+Традиционные пещерные жилища у Заэн-де-Арриба рядом с лавандовыми полями. Рейтинг 4.7, 45 отзывов. Колоритная локация: фиолетовая лаванда (конец июня — июль) на фоне пещер — выигрышный кадр для фотосессии.
+
+📍 Cuevas de Zaén
+Cuevas de Zaén, 30196, Murcia, Spain]]></description>
+      <Point><coordinates>-2.078406,38.225229,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Бахиль — дом у полей</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.6 (41 отз.)
+Сельский дом (cottage/lodging) в Кампо-де-Сан-Хуан рядом с лавандовыми полями Заэна. Рейтинг 4.6, 41 отзыв. Удобная база, чтобы остановиться прямо у лаванды в сезон цветения (конец июня — июль).
+
+📍 Bagil
+Campo de San Juan, 30196 Moratalla, Murcia, Spain]]></description>
+      <Point><coordinates>-2.072488,38.232171,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Кампо-де-Сан-Хуан — плато</name>
+      <styleUrl>#lav-field</styleUrl>
+      <description><![CDATA[⭐ 4.6 (40 отз.)
+Высокогорное плато (~1300 м) у Моратальи, где как раз и раскинулись лавандовые поля Заэна. Рейтинг 4.6, 40 отзывов. Само место цветения лаванды (конец июня — июль) — широкие открытые виды, отлично для пейзажных фото.
+
+📍 Campo de San Juan
+30441 Moratalla, Murcia, Spain]]></description>
+      <Point><coordinates>-2.108090,38.198125,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Каса-Рураль Ла-Фуэнте (Mazuza)</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.7 (32 отз.)
+Сельские дома с бассейном в Масусе севернее плато Заэн. Рейтинг 4.7, 32 отзыва. Хорошая база для поездок к лавандовым полям в сезон цветения (конец июня — июль).
+
+📍 Casas Rurales La Fuente
+La Fuente, S/N, 30442 Mazuza, Murcia, Spain]]></description>
+      <Point><coordinates>-2.058895,38.281969,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Альто-де-Инасарес — ферма/винодельня</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.9 (23 отз.)
+Ферма-винодельня Alto de Inazares в одной из самых высокогорных деревень Мурсии (~1300 м). Рейтинг 4.9, 23 отзыва. Рядом с лавандовой зоной; красивые горные виды для фото, агротуризм. Сезон лаванды — конец июня — июль.
+
+📍 Vinazares
+Finca el Altico, Camino de Mazajarán, 30413 Inazares, Murcia, Spain]]></description>
+      <Point><coordinates>-2.206100,38.082887,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Ла-Пава — casa rural (Caserío la Pava 9)</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐ 4.6 (14 отз.)
+⭐4.6 (14 отз). Сельский дом прямо на RM-703, ~10 км не доезжая лавандового поля Zaén. Ближе к полю, чем Moratalla — удобно для съёмки на закате и рассвете. Вторая ссылка пользователя.
+
+📍 La Pava
+Caserio la Pava, 9, 30440 La Pava, Murcia, Spain]]></description>
+      <Point><coordinates>-1.993811,38.169984,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Лавандовые поля Заэн (Zaén)</name>
+      <styleUrl>#lav-field</styleUrl>
+      <description><![CDATA[⭐ 4.9 (9 отз.)
+Главная цель поездки — лавандовые поля на плато Кампо-де-Сан-Хуан возле Заэна (Мораталья). Рейтинг 4.9. Цветение конец июня — июль, в это время поля становятся фиолетовыми. Идеальное место для фотосессии на высоте ~1300 м среди гор.
+
+📍 Campos de Lavanda de Zaén
+RM-702, 30441 Moratalla, Murcia, Spain]]></description>
+      <Point><coordinates>-2.106524,38.199434,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Аларкон — натуральные эфирные масла</name>
+      <styleUrl>#lav-field</styleUrl>
+      <description><![CDATA[⭐ 5 (9 отз.)
+Производство натуральных эфирных масел и ароматических деривативов (включая лаванду) в Бенаблоне. Рейтинг 5.0, 9 отзывов. Можно купить лавандовое масло и продукты — дополнение к посещению полей в сезон (конец июня — июль).
+
+📍 Alarcón: esencias naturales, aromáticas y derivados
+RM-730, km 8, 30410 Benablón, Murcia, Spain]]></description>
+      <Point><coordinates>-1.934052,38.050717,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Эсенсиас Мартинес Лосано — масла</name>
+      <styleUrl>#lav-field</styleUrl>
+      <description><![CDATA[⭐ 4.9 (7 отз.)
+Производитель и поставщик эфирных масел (в т.ч. лаванды/лавандина) на дороге Лорки. Рейтинг 4.9, 7 отзывов. Профильная дистиллерия региона — лавандовое масло как местный продукт.
+
+📍 Esencias Martínez Lozano SA
+Ctra. de Lorca, 30400, Murcia, Spain]]></description>
+      <Point><coordinates>-1.899578,38.048085,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Essential Oils SL — эфирные масла</name>
+      <styleUrl>#lav-field</styleUrl>
+      <description><![CDATA[⭐ 5 (4 отз.)
+Поставщик эфирных масел в Кампо (Мораталья), включая лаванду. Рейтинг 5.0, 4 отзыва. Местный производитель — лавандовое масло и деривативы рядом с зоной цветения (конец июня — июль).
+
+📍 ESSENTIAL OILS, SL
+Casa Alta 114, Campo, 30440 Moratalla, Murcia, Spain]]></description>
+      <Point><coordinates>-1.995929,38.174004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>💜 Каса-де-лос-Фрайлес — дом у поля</name>
+      <styleUrl>#lav-stay</styleUrl>
+      <description><![CDATA[⭐0 (0 отз). Casa rural рядом с Ла-Пава на RM-703, ~10 км от лавандового поля. Тихий вариант ночёвки близко к полю для рассветной съёмки.
+
+📍 Casa de los Frailes
+Casa de los Frailes, Caserio de los Frailes, 30440, Murcia, Spain]]></description>
+      <Point><coordinates>-1.999891,38.172974,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
