@@ -129,7 +129,7 @@ function buildHandler(token: string) {
 
       server.tool(
         "charger_live_status",
-        "Живой статус портов зарядки рядом с точкой по базе EVlibre (Испания): сколько свободно прямо сейчас.",
+        "Живой статус портов зарядки Iberdrola рядом с точкой через EVlibre (Испания): сколько свободно прямо сейчас. stale=true — Iberdrola не ответила, показан старый снимок от observedAt.",
         { lat: z.number(), lng: z.number(), radiusM: z.number().max(2000).optional() },
         async ({ lat, lng, radiusM }) =>
           safe(async () => {

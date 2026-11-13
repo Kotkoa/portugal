@@ -1,5 +1,6 @@
 // Зарядки вдоль маршрута + планировщик поездки на электромобиле.
 import { call, placesHeaders, routeGeometry, computeRoute } from "./google";
+import { z } from "zod";
 import { Pt, chunks, cumulative, decodePolyline, encodePolyline, project } from "./geo";
 
 /** Профиль по умолчанию: Hyundai Inster Long Range 49 kWh (2025). */
@@ -97,23 +98,73 @@ export async function chargersAlongRoute(a: {
   return { route: { distanceKm: Math.round(geo.distanceKm), durationSec: geo.durationSec }, chargers: out };
 }
 
-// ---------- Живой статус из EVlibre (опционально) ----------
+// ---------- Живой статус из EVlibre (опционально, только станции Iberdrola) ----------
+// 1) RPC search_stations_nearby находит станцию Iberdrola рядом с точкой (cupr_id).
+// 2) Edge-функция poll-station берёт статус портов у Iberdrola (кэш 5 мин).
+//    Если Iberdrola не ответила, poll-station отдаёт старый снимок с meta.source_unavailable.
 
 const evlibreOn = () => !!(process.env.EVLIBRE_SUPABASE_URL && process.env.EVLIBRE_SUPABASE_KEY);
 
-export async function evlibreStatusNear(points: Pt[], radiusM = 150) {
-  if (!evlibreOn() || !points.length) return [];
-  const url = `${process.env.EVLIBRE_SUPABASE_URL}/rest/v1/rpc/evlibre_status_near`;
+/** Сколько станций за один вызов опрашиваем у Iberdrola: не жжём лимит EVlibre. */
+const EVLIBRE_MAX_POLLS = 10;
+
+export type EvlibreStatus = {
+  idx: number; station: string; ports: string[]; freePorts: number; totalPorts: number;
+  powerKw?: number; priceKwh?: number; observedAt: string; stale: boolean;
+};
+
+const NearbyRows = z.array(z.object({
+  cp_id: z.number(), cupr_id: z.number(), name: z.string().nullable(), address: z.string().nullable(),
+}));
+const PollResult = z.object({
+  data: z.object({
+    port1_status: z.string().nullable(), port2_status: z.string().nullable(),
+    port1_power_kw: z.number().nullable(), port1_price_kwh: z.number().nullable(),
+    observed_at: z.string(),
+  }),
+  meta: z.object({ source_unavailable: z.boolean() }),
+});
+
+async function evlibre(path: string, body: unknown): Promise<unknown> {
   const key = process.env.EVLIBRE_SUPABASE_KEY!;
-  const res = await fetch(url, {
+  const res = await fetch(`${process.env.EVLIBRE_SUPABASE_URL}${path}`, {
     method: "POST",
     headers: { "Content-Type": "application/json", apikey: key, Authorization: `Bearer ${key}` },
-    body: JSON.stringify({ points, radius_m: radiusM }),
+    body: JSON.stringify(body),
   });
   if (!res.ok) throw new Error(`EVlibre ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  return (await res.json()) as {
-    idx: number; station_name: string; free_ports: number; total_ports: number; updated_at?: string;
-  }[];
+  return res.json();
+}
+
+export async function evlibreStatusNear(points: Pt[], radiusM = 150): Promise<EvlibreStatus[]> {
+  if (!evlibreOn() || !points.length) return [];
+  const nearest = await Promise.all(points.map(async (p, idx) => {
+    const rows = NearbyRows.parse(await evlibre("/rest/v1/rpc/search_stations_nearby", {
+      p_lat: p.lat, p_lon: p.lng, p_radius_km: radiusM / 1000, p_only_free: false,
+    }));
+    return rows[0] ? { idx, row: rows[0] } : null; // RPC сортирует по расстоянию
+  }));
+  const found = nearest.filter((n) => n !== null).slice(0, EVLIBRE_MAX_POLLS);
+  // Одна сломанная станция не должна обнулять остальные.
+  const polled = await Promise.allSettled(found.map(async ({ idx, row }) => {
+    const { data: d, meta } = PollResult.parse(await evlibre("/functions/v1/poll-station", { cupr_id: row.cupr_id }));
+    const ports = [d.port1_status, d.port2_status].filter((s) => s !== null);
+    return {
+      idx,
+      station: row.name ?? row.address ?? `Iberdrola ${row.cp_id}`,
+      ports,
+      freePorts: ports.filter((s) => s === "AVAILABLE").length,
+      totalPorts: ports.length,
+      powerKw: d.port1_power_kw ?? undefined,
+      priceKwh: d.port1_price_kwh ?? undefined,
+      observedAt: d.observed_at,
+      stale: meta.source_unavailable,
+    } satisfies EvlibreStatus;
+  }));
+  const ok = polled.flatMap((r) => (r.status === "fulfilled" ? [r.value] : []));
+  const failed = polled.find((r) => r.status === "rejected");
+  if (!ok.length && failed) throw failed.reason;
+  return ok;
 }
 
 async function attachLiveStatus(list: Charger[]) {
@@ -122,7 +173,8 @@ async function attachLiveStatus(list: Charger[]) {
     const rows = await evlibreStatusNear(list.map((c) => c.location));
     for (const r of rows) {
       const c = list[r.idx];
-      if (c) c.live = { free: r.free_ports, total: r.total_ports, updatedAt: r.updated_at, source: "evlibre" };
+      // Старый снимок для выбора остановки не годится: «занято» трёхдневной давности ничего не значит.
+      if (c && !r.stale) c.live = { free: r.freePorts, total: r.totalPorts, updatedAt: r.observedAt, source: "evlibre" };
     }
   } catch {
     // EVlibre недоступен — работаем на данных Google

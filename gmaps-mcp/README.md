@@ -72,16 +72,21 @@ curl -X POST https://<проект>.vercel.app/<СЕКРЕТ>/mcp \
   -d '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"t","version":"1"}}}'
 ```
 
-## 3.5. EVlibre (по желанию, живой статус портов)
+## 3.5. EVlibre (по желанию, живой статус портов Iberdrola)
 
-1. Открой `evlibre_status_near.sql`. Имена таблиц там придуманы, замени их на реальные из схемы EVlibre. Проще всего отдать файл Claude Code в репозитории EVlibre.
-2. Выполни SQL в Supabase EVlibre (SQL Editor).
-3. Добавь в Vercel ещё две переменные:
-   ```bash
-   npx vercel env add EVLIBRE_SUPABASE_URL production   # https://xxxx.supabase.co
-   npx vercel env add EVLIBRE_SUPABASE_KEY production   # anon (public) key, НЕ service_role
-   npx vercel --prod
-   ```
+Сервер ходит в Supabase EVlibre с anon-ключом, в базе EVlibre ничего менять не нужно:
+1. RPC `search_stations_nearby` находит станцию Iberdrola рядом с точкой (`cupr_id`).
+2. Edge-функция `poll-station` спрашивает статус портов у Iberdrola (кэш 5 мин). Если Iberdrola не ответила, приходит старый снимок, и инструмент помечает его `stale: true`. В планировщик такие данные не попадают.
+
+За один вызов опрашивается не больше 10 станций, чтобы не жечь лимит Iberdrola у EVlibre.
+
+Добавь в Vercel две переменные:
+```bash
+npx vercel env add EVLIBRE_SUPABASE_URL production   # https://cribsatiisubfyafflmy.supabase.co
+npx vercel env add EVLIBRE_SUPABASE_KEY production   # Legacy anon key (JWT eyJ…), НЕ service_role
+npx vercel --prod
+```
+Ключ: Supabase → проект EVlibre → *Project Settings → API Keys → Legacy API keys → anon*. Нужен именно JWT: у `poll-station` включён `verify_jwt`, ключ `sb_publishable_…` он не примет.
 
 Без этих переменных всё работает, только статус портов берётся из Google, а там он есть не у всех станций.
 
